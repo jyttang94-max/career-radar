@@ -1,0 +1,176 @@
+name: Career Radar
+
+on:
+  schedule:
+    # 한국시간 오전 8시 = UTC 전날 오후 11시
+    - cron: "0 23 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "requirements.txt"
+      - "sources.json"
+      - "search_scope.json"
+      - "radar.py"
+      - "discovery.py"
+      - ".github/workflows/career-radar.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: career-radar
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      - name: 저장소 불러오기
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 필요한 패키지 설치
+        run: python -m pip install -r requirements.txt
+
+      - name: Chromium 설치
+        run: python -m playwright install --with-deps chromium
+
+      - name: 코드 및 설정 파일 검사
+        run: |
+          python -m py_compile radar.py discovery.py
+          python -m json.tool sources.json > /dev/null
+          python -m json.tool search_scope.json > /dev/null
+
+      - name: 신설 기업재단 기사 탐색
+        id: discovery
+        continue-on-error: true
+        run: python -u discovery.py
+
+      - name: 채용 공고 수집
+        id: radar
+        continue-on-error: true
+        run: python -u radar.py
+
+      - name: 실행 결과 요약
+        if: always()
+        env:
+          DISCOVERY_RESULT: ${{ steps.discovery.outcome }}
+          RADAR_RESULT: ${{ steps.radar.outcome }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          lines = [
+              "# Career Radar 실행 결과",
+              "",
+              "신설 재단 탐색: " + os.environ["DISCOVERY_RESULT"],
+              "채용 공고 수집: " + os.environ["RADAR_RESULT"],
+              "",
+          ]
+
+          path = Path("results/latest.json")
+          if path.exists() and os.environ["RADAR_RESULT"] in ("success", "failure"):
+              data = json.loads(path.read_text(encoding="utf-8"))
+              jobs = data.get("jobs", [])
+              sources = data.get("sources", [])
+              searches = data.get("search_audits", [])
+
+              lines.extend([
+                  "결과 파일의 수집 시각: " + data.get("run_at", ""),
+                  "",
+                  f"- 전체 후보: {len(jobs)}건",
+                  f"- 조건 충족: {sum(x.get('status') == '조건 충족' for x in jobs)}건",
+                  f"- 확인 필요: {sum(x.get('status') == '확인 필요' for x in jobs)}건",
+                  f"- 기관 출처: {len(sources)}곳",
+                  f"- 접속·실행 실패 기관: {sum(x.get('state') in ('접속 실패', '실행 실패') for x in sources)}곳",
+                  f"- 확장 검색 요청: {len(searches)}건",
+                  f"- 확장 검색 실패: {sum(x.get('state') == '검색 실패' for x in searches)}건",
+                  "",
+                  "결과 0건은 채용 공고가 없다는 뜻이 아닙니다.",
+                  "수집 시각과 기관별 오류를 함께 확인하세요.",
+              ])
+          else:
+              lines.append("이번 실행의 채용 결과를 확인하지 못했습니다.")
+
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as file:
+              file.write("\n".join(lines) + "\n")
+          PY
+
+      - name: 결과 파일 보관
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: career-radar-results-${{ github.run_number }}
+          path: results/
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: 결과를 저장소에 저장
+        if: always() && (steps.radar.outcome == 'success' || steps.radar.outcome == 'failure' || steps.discovery.outcome == 'success' || steps.discovery.outcome == 'failure')
+        run: |
+          if [ ! -d results ]; then
+            echo "저장할 결과 폴더가 없습니다."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add results/
+
+          if git diff --cached --quiet; then
+            echo "변경된 결과가 없습니다."
+          else
+            git commit -m "Update career radar results"
+            git push
+          fi
+
+      - name: 수집 실패 여부 확인
+        if: always()
+        env:
+          DISCOVERY_RESULT: ${{ steps.discovery.outcome }}
+          RADAR_RESULT: ${{ steps.radar.outcome }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          failed = False
+
+          for name in ("DISCOVERY_RESULT", "RADAR_RESULT"):
+              if os.environ.get(name) != "success":
+                  print(f"{name}: {os.environ.get(name)}")
+                  failed = True
+
+          path = Path("results/latest.json")
+          if path.exists():
+              data = json.loads(path.read_text(encoding="utf-8"))
+              searches = [
+                  item for item in data.get("search_audits", [])
+                  if "query" in item
+              ]
+              if searches and all(
+                  item.get("state") == "검색 실패"
+                  for item in searches
+              ):
+                  print("확장 검색이 모두 실패했습니다.")
+                  failed = True
+
+          if failed:
+              raise SystemExit(
+                  "일부 수집 기능이 실패했습니다. "
+                  "저장된 결과와 실행 로그를 확인하세요."
+              )
+          PY
