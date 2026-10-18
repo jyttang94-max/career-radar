@@ -1,0 +1,95 @@
+{
+  "timezone": "Asia/Seoul",
+  "schedule_local": "08:00",
+  "date_window": {
+    "posted_within_days": 7,
+    "closing_within_days": 7,
+    "combine": "OR",
+    "exclude_expired": true
+  },
+  "work_regions": [
+    "서울",
+    "경기"
+  ],
+  "employment": {
+    "include": [
+      "정규직",
+      "시보·수습 후 정규직 임용"
+    ],
+    "manual_review": [
+      "정규직 전환 가능",
+      "정규직·계약직 혼합공고"
+    ],
+    "exclude": [
+      "일반 계약직",
+      "파견직",
+      "대체인력"
+    ]
+  },
+  "priority_roles": [
+    "행정",
+    "사무",
+    "경영지원",
+    "인사",
+    "총무",
+    "기획",
+    "사업운영",
+    "연구지원",
+    "학술",
+    "장학",
+    "대외협력",
+    "홍보"
+  ],
+  "foundation_discovery": {
+    "enabled": true,
+    "include_established_foundations": true,
+    "fields": [
+      "문화예술",
+      "학술연구",
+      "장학",
+      "인재양성"
+    ],
+    "queries": [
+      "재단 채용 행정 사무 정규직",
+      "문화재단 채용 경영지원",
+      "문화재단 채용 사업기획 운영",
+      "학술재단 직원 채용",
+      "장학재단 직원 채용",
+      "기업재단 채용 기획 인사 총무"
+    ]
+  },
+  "company_discovery": {
+    "enabled": true,
+    "area_targets": [
+      "판교테크노밸리",
+      "제2판교테크노밸리",
+      "기흥 ICT밸리"
+    ],
+    "named_companies": [
+      {
+        "name": "에스디바이오센서",
+        "aliases": [
+          "SD BIOSENSOR",
+          "SD바이오센서",
+          "에스디바이오센서"
+        ]
+      }
+    ],
+    "queries": [
+      "판교테크노밸리 정규직 채용 경영지원",
+      "판교 정규직 채용 인사 총무",
+      "판교 정규직 채용 기획 사무",
+      "제2판교테크노밸리 직원 채용",
+      "기흥 ICT밸리 정규직 채용",
+      "기흥ICT밸리 채용 경영지원",
+      "에스디바이오센서 채용",
+      "SD BIOSENSOR careers"
+    ]
+  },
+  "verification": {
+    "require_official_job_source_for_confirmed": true,
+    "require_actual_work_location": true,
+    "do_not_infer_workplace_from_headquarters": true,
+    "search_hits_are_candidates": true
+  }
+}
