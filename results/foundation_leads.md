@@ -1,0 +1,450 @@
+# 신설·초기 기업재단 발굴
+
+수집 시각: 2026-10-19T09:00:11.628656+09:00
+
+설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
+
+- [(ESG브리핑-10월3주) 티앤씨재단, 거제 피해지역에 ‘밥먹차’ 운영 외 - 파이낸셜투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE5CTTJtMVZlZHFCVkphVWpOLXM4dTZNWHlUcVFsZmRva0d5MlNnRHh6QWxoZDRVLUFXRzNIbTV3bm1sUmhjYTZyMnAyOW5mdmJzbVdJeWRQOURKTVJHd3dIU0g2YUU1MjVVNW5v0gFuQVVfeXFMTnpldlJkS3AwWWRfajNCQjg1TnVpTkh0cjhYdGRjVW1MaXlyRkFmdnlvTnJBVHdOTVFyRDBYUmNLVzU0M2I5bEk5UEVMNzFfN0MzenBqQ3lNNGE1eVR1YVRKUnNxR2JEMGFUaVprUFE?oc=5)
+  - 기사일: 2026-10-18
+  - 출처: 파이낸셜투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [“시민의 나눔이 만든 15년의 기적”…부천희망재단 창립 15주년 기념식 ‘성황’ - 경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xMm5fYWJlYTdxZm9ORHVtS3NqdF9DaVlaMkVsS1pyR1FaUFNnS2JVWmpFZE1ERERodGp1bWxlNnNEVnRUdWtHQ3lHQlp1Y0ZjbmlGbXI0Q2pJbDQ?oc=5)
+  - 기사일: 2026-10-17
+  - 출처: 경기일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 우리맛문화재단, 한국국제교류재단과 ‘한국 문화 해외 확산 및 교류 활성화’ 업무협약 - 시사캐스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Eb0E5MVZxN0s5dlFxQmFmOVp4emNRSEhLLWRtUXg3T1BZa3RzaWs0ZTZKd08wN1pYcDVfUGhQdXphZ0Jldl9hUldqUEpoM0RCX3lkWE5XbFozUEdEOExlcVo2UzBidmVp?oc=5)
+  - 기사일: 2026-10-17
+  - 출처: 시사캐스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 우리맛문화재단-한국국제교류재단, 한식 통한 국제 문화교류 MOU 체결 - CBC뉴스](https://news.google.com/rss/articles/CBMiaEFVX3lxTE12QjVpSkQ5QVRqdXliTWJ4UTE4RWVUWGFac2tQLVYxVXZvcUVPcE8xUVluSXRIejN1d1p6T2pQdVluSXluZGRVVGlEeFJlRDY4OGk1ZHZmWWFZZXVwcER0eWtVeUtydDJT?oc=5)
+  - 기사일: 2026-10-17
+  - 출처: CBC뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(게시판) 샘표 우리맛문화재단, 한국국제교류재단과 업무협약 체결 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQlU5NjBTejZzcDBybUM2UGRRZWNuVVVvRndVLUFXcG1VZXBxc2Zpak5uek1HUkI2SnhlNjd1NHl1N0o4T0hiZ2R4aEJNUnZOZm5lR3hYbll3Rk3SAWBBVV95cUxNckdvZDQ3d08ybmptaWhFRjZoOUN1NnV4MkthbGJjNmIySkprTjlkX2VYTzlaY2l0eWdEd19mdURtU0Q1Wjd2aHdpbzJzdHhMZUlLNEVHVGF5Qkc0WkdUR0k?oc=5)
+  - 기사일: 2026-10-16
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, 한식 세계화 지원한다…‘우리맛문화재단’ 설립 - 헤럴드경제](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jRjhUSFJpcEF0OU4yRU0wUFZxeTdfdmN5WFo2cjQwelJsWUZiajhFRS1lSHhzZmVYcExrXzRIcVFCMTROVDZ0ZURYWnJ6UFNSb1ZlQTQ5bw?oc=5)
+  - 기사일: 2026-10-16
+  - 출처: 헤럴드경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, 우리맛문화재단 설립 : 기업·산업 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZR190elZqY2lJSlppUmJaaGIxZXdlVlZESl8zRDI0WUFnU3QtdUtRN2hhdVVBOHpNaVU0THNwZkU2SnNZWmc3UGczVQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 재경일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, '우리맛문화재단' 설립…한식 세계화 지원 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSFdDZkxGNVctUk9WSUlhYS1OdElaNUN0TWdxQy16SWRtV1hJc0pGNGZncEFUcGkzWDN1TjdZeTRmdTZicXpGOHl2NjBJWDBZT0xaTGViUlZYRDjSAWBBVV95cUxQVjBMUGVZMDg2cEpONmN6WDRqVTZUaUI4bnBJa0JRRTl2dkVuTnJ2R0NfcjItQlFDOWlvREstN0EtT2dkUUwybFIyVHVBazVBTU9kZGNSSmk3UEdMc1czNW8?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 박진선 대표, 창립 80주년 맞아 ‘우리맛문화재단’ 출범시킨 이유는? - 데일리포스트](https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMzRPODc5Qnp4MjZ6Zlo2TmpVUnZXQzNTZWhQZm5LZFRaM1dIbEJobFpyUHljNUxMY09jdjNKT0p0THBRM3lHeGZkRHBtWHppaHduY1hseE9lU3BGRjZQSU9aUFZVUjAxTmtWTDU0QdIBc0FVX3lxTE5Ec0paVVdEZzQtZzdiRHdMbFh6bjNZU21ybkRvVXNQZ3lUQTNTYy1IYUtuZE5tYlRhMDdQNDdOQ1ZCYW53Qjd1RUZvdUkwbjRZbUN6VmltQ05ZS0xkME1HcS1hdjduQVJPSnlLYk51dVpFWXM?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 데일리포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, 한식 세계화 위한 ‘샘표 우리맛문화재단’ 설립 - IT조선](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZYS1JeTMxb0VqOFRrb0d5cWJGRF9PSFNzLWFWSDdBQXI4Q3lZeVFteHZfcU03al8wRTdUQnp1LTJZeXFSR2t4MU1pSW5odDl5VUpCS1pLRzdNT3c1ZnB0a1VITHZGN1RLQ2NOYmVSeWfSAXRBVV95cUxQd2phb1YxRmE3T0t5R2NTMW9uZlRVNWRyaWhnZDRvNDVRRUgwdVNYbzFJMmtBU3JrWjFkSzRrRE9ybXB4OUtqRm1xQldITFRIRmlVa0pzOW5DN19YT01LY1Zab0VaWEY0YnBscUw0VjUtYU9Dbw?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: IT조선
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…식문화 공익사업 나선다 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wWkVsTnFRM2VOal9yRGMxSWlBeXV5TnBrN2RnbE9qeFY0aGJNYndyYmptU1hERnY4NFFXUEFoV2pRbWIxd2VGU2N5b09hM2lMT3hsNDlQeUc0djRsNFRvMXl4Mks?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 매일일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표, 창립 80주년 맞아 ‘우리맛문화재단’ 설립…한식 세계화 지원 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE03dWhwU25rZUdIZkJKcHRQX2VWdVhSeHZqR0VMdXZSRHpLcEFnM3h3RmkxcGNzSTk2eXlyc0owbk5rZmlXNWpMRUJ6UXdaOFhzNWfSAVNBVV95cUxOTjVwd1RoeE9tdzk0aXdodzFzYzBaa0VlV05rTDNTLVA3aGNoRlNvSjVkU3FiTTRWUXNpYXpXTS0tNktoRFdhZXo0XzRUZnVFUDFfRQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 서울경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 박진선 대표, ‘우리맛문화재단’ 설립…한식 세계화·식문화 교육 확대 - 한국식품의약신문](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JT2Mxak1lWl8tcFkyWElLRWtQSDEtdEk5cWFXdmhrd0UzUy1IS3FpYUpIdVR1ME13blEzUGdsUWFDSGxXWTd6bk9aVUJVc2hFUXhGRE0zLVVSajY5dDZXM3F2azJBTjA?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 한국식품의약신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, '우리맛문화재단' 설립…한식 세계화 지원 나선다 - 이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JaHhwYWFCMnFtZ3NZdDNXWDlZcjJRWXNDQVdFazUyRXhCV2hBMVhRYUYzRzVWLTFFWGQwUWVLRkk5MUFybWV1MDdNRzJ5QjBySHA3Yg?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 이투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, 한식 세계화 지원 본격화…'우리맛문화재단' 설립 - 미래경제](https://news.google.com/rss/articles/CBMibEFVX3lxTFBCX25mVTgwaWgtN2stZEJGamJLM2FCYWVOYnZlLTlpanVDRHVfQU80dnBDVFVOZVNmdEtPSXFmN1lGc3RhMUpydU1XX2tRZGpqcUpEd1MyUlpYeGQwRlZvUWYtZ2lRU0Z4RF85WQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 미래경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 지원 - 디지틀조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUNpbmFfYmMzRjZBSWxNaDdPQktvNmkzMWlmYU9NM1ZQUUU0U052WUJlVVNEWGdZVnJsSnByTGpzRk5LVnIzTm5XSEY0RE1QbmJ1M0taRTdMQnF1VnlsRm92QkJrVldJWldFdlFhNllpRlVGTXNZdVdtbmFlUGRQMi1lbjEwM1U?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 디지틀조선일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- ["K푸드 맛 알린다"…박진선 샘표 대표, '샘표 우리맛문화재단' 설립 - 아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUXU3UGtsLUZJd1lIM09Nbmc4VXZNbGNKM2RMUUdValAxZVFYTlBVU3owNUdNc0hmTHpKUkZWWC1HS2NtN3lLdDlGcFlTclV1OUs2NXFJME9kdGdpVzNuUQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 아시아경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 박진선 대표, '샘표 우리맛문화재단' 설립…지속가능한 한식 세계화 등 추진 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE9VWWZoMFJXS01xQjF5SGYyeWpKR1BaRGsxamNWcEtRM2NpY0JyQjlCbDBSb291dXFxaldCQUQ4dTVUd0hrSTFrb1VUOUp5SEZwUEFwWVQ1aFo5MUNKMHNfQzdDRUN5QkE3eWpYVUQ2UWs2SEHSAXdBVV95cUxOZjFrU08wT0M4Q2V3TmdlYThYV0xnNzF2MzNEVFZTLUlSWldhVW5POG9EbS1MckNVUzJ6T2V3TmF5ZU11Wkp3cWhScjRjdFRvR1BpYXhPQXl5Rlc3LWlycXNQSjF6cWdHTmlJaXZJMi1jUmVRUmtJaw?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 핀포인트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…요리문화·한식 세계화 지원 - 안티에이징뉴스](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNOUozcGFEVWxUMDZUS1VaYVlsU09CUnZwX2NzSEo3a0liVnd5anh3RW5QMVFzUmtxQUVJM1g1R0ZfX2w5Q1czMnUzSzFwb3lsN0pIa2pMbTg?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 안티에이징뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 박진선 대표, '우리맛문화재단' 설립…한식 세계화 지원 본격화 - 뉴스투데이](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRaWpjZXJnUkhMV3VoYnFzaEh1Y05XdzJsbXNTVDdnRjRfN3oyRmdEdnpsZWVhbFc5RDVJMVFiY3lSRUhJTFBzSGJoRWM2UWN4bWJzLVRCSmlWRnpJZVE?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 뉴스투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, 비영리 재단법인 '샘표 우리맛문화재단' 설립 - SR타임스](https://news.google.com/rss/articles/CBMiaEFVX3lxTE96UnRmTGQ4S25KMVpjdEFVekFKQTlnNl9zeU9oNGt3Q043QjByZk9nZXB5ZGRYd0dQbUhidWRqc3JGel9wQnctMnpXSFlqX19nTnRfTHFUSmFuRjUtUzd2VFVpd3BaejJS0gFrQVVfeXFMTnl3VS1TbDJMcDA1Ynl3SmFSTl94S2FUd3BPVzBQNmxoVDl1YUNyTEZSMjR5UE5ZdGcwZWY1RTZabUt5SFZnN2xoaEo1bEF3Y0JrODdQekZoRnBUUkF1ZHl3bzc2R3JxNXJUdmc?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: SR타임스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표, 창립 80주년 맞아 '우리맛문화재단' 설립 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wX1d2Vk5hVGxFbUlBZkFUbXh1RmVTZlN5T0I4WXl0SjFEVlNSNllGR1gyb0U2VTJ6ODU2Y1lheWFGU1dXZWZqclk5WkVUQQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 전자신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 박진선 대표, ‘우리맛문화재단’ 설립…한식 세계화 지원 - 조선비즈 - Chosunbiz](https://news.google.com/rss/articles/CBMihgFBVV95cUxPalMwYnN1bGF5cFJNMkc1eHk2emxTelVjT0NfVlh3cG5WajhFSkNmOVNrb3VaZFpMbnRQcGEzelVGZ3NSbnQyMmNLXzNobnVRb1FfTEJBYTJzYWJIcEc4Qm9RSHFIbVlmeGswSkt3NDJmdjgwVXN2cWM2c052U2hqRl82SjFad9IBmgFBVV95cUxNZ1lQd1NmRFVqUmctWkMzR2k3RHBIblp4ME9xNmdpUXR1QjlXOUhnRm9SaVJBYkZGTnI5LU1HMTJ4V1g5NXJweWdnTXNMbXk1S3hoaXIxb1VaM0xwLXpnQ0ROYW9fdUpKRnUzbzRZNndQZUh2RkJhMnlDRktzLTZoaW1kQzB4RDMzYWFsaUJKRDlNWm1jTmlRbE5R?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: Chosunbiz
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…80년 우리맛 연구 사회와 나눈다 - 푸드아이콘](https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQzZULWJwNHZEY2RpbkNoTHY3enNKMUMyazV5am1IUGFkVFJxdGE5VS11aHV6cExJNlB1YnQ4UWlNdGczM3k4YnN1T2F4bVZIa1JKQ1c2azljZ2FGM2s2dm00T3JZM3JzM29mYQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 푸드아이콘
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [창립 10년 포항문화재단, 이제는 ‘문화예산 대수술’이다 - 경북매일](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQaHBuLXFSY3J6TjNPTVUwQm1LM0g3SzBBazU3MU5GY1hrMVNVdlQ0dXAyYzZtVGtSSkV0ZHJNMko0SmE2dVNlRXFEMGdTb1o3blh2SVYybVpuZw?oc=5)
+  - 기사일: 2026-10-14
+  - 출처: 경북매일
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [수원도시재단 설립 10주년…수원시민의 페이스메이커 역할 (새빛수원) - 경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMUlUb09lOVdQSk1TajNqR3FWTzBEVzlkbzFXRUhxNUxwSHNWUHd6TkZyTmdERXVHN0JJU1pZVTJyYTFIOG9GamdOcnVNVjJFUWRSa21hOGJnTGc?oc=5)
+  - 기사일: 2026-10-13
+  - 출처: 경기일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고창문화관광재단, 경영평가 첫 A등급 - 전북도민일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxORzBCOTBfaXBNc191WGFfYXU0ZWp2SmNSQWxQZEJvN1BMUXB3LTVLSnhVOEgycjg4V2l3a19mcDFYY2JIVjdJR2VZRnNRT3YzWWNGZjhFeVo5d1BxYTFxYkY1QUhLRHJNNHNjVWNPbGxFbzRSWFpaaHFQSGQweGE1R040VGhGQVU?oc=5)
+  - 기사일: 2026-10-07
+  - 출처: 전북도민일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [전북특별자치도문화관광재단, 해외 마케팅 통해 글로벌 네트워크 확장 및 도내기업 알리는 성과 얻어 - 아시아뉴스전북](https://news.google.com/rss/articles/CBMiakFVX3lxTE55cHZNbFRBY1ZGakp2d3cxcDdZTHZYaFhsd3F2TUlyTUdDLWEzeFpGaC1pY2pWc0h6YmhHVF9UVW1PR3NOTnROTTR6a1BBN1JKZ3EydmFlbktlcUg4NzRweWhoelpTR19iT3fSAW5BVV95cUxQMkg0S1VlZEZyajFqV0tzcTdKdTlhUTJPR3V1X1ZBTnBIY0k1MWJIa2dVZnloeXZ4dXBRT2Q3UVNFLWlmWG9Pd3V1cUNNeDJMZjQwand2MkJDZXlOcHVSR2FBX1Zubk82NTVzWGRFUQ?oc=5)
+  - 기사일: 2026-10-01
+  - 출처: 아시아뉴스전북
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [포스코청암재단, 신진 과학자 32명에 2년간 1억원씩 지원 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MdXB2eHJvcDlPcnJBd2xHdFAzcl84RkJvZzZMMDAxcHZYYzAta015cmNkQ01kMnBDaFRjc0FjZUZPVEp6ZGtqNlQ3N3FnT0hQZGVKbThDMWttMlXSAWBBVV95cUxQREtjUDJWMURYSTBhRlptTUItRFV5OGp3VzVISzBnTllIaEE0alJzcjdBNkdsZDZabFdxVTN2MXhHMGl4Q0xKZW5MeERkVGJQRWk3VUlhaVBsa0JfcVlQZkc?oc=5)
+  - 기사일: 2026-10-01
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT그룹 회장, 운해장학재단에 460억 추가 기부 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdlRQSTd6NTg5dEl3a2RrM1o5V3RYVlk0QnFWa3hsemVvVFR1N1ZvWDNZUHk5N09EaDNwVVRSNDBLSzAxSmYzbEFGcksyS0JQZWozd0RzNjdHdEHSAWBBVV95cUxNdm94T2VEUGdvbkNfSnptZWlhUFpmYlZ0OER5czlzWmZXaVRJX1FRSl9nckozTzNoU2J0M01Xc0lpWTk1TDl4b2lBVGpuV3d3TkFrelhyQXBOM0prTTFoVXM?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT 회장, 주식 460억 원어치 운해장학재단 기부 - 국제신문](https://news.google.com/rss/articles/CBMijgFBVV95cUxONC1kR18zZTJ1RUhGZHJLMnc4eDJmZHMtWm9uRlVMNDA0a1R6dm9Gal9GTS1SbFdJcnBqT05ncWN4OUpCZ3VPbmRvbXVzRk5yMFYyM3JpQlc2cXdIYy1zTmdVbW42MjJ5THFiZkoxNUdKenFWdWx0YlB1Q3F6ek1qbU0tdnZ4d2czNWZLMkRn?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 국제신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT그룹 회장, 운해장학재단에 460억원 규모 주식 기부 - 조선비즈 - Chosunbiz](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQXpldzd0YXhKZUF2Uk5TdUlpNEN6anVrQ1dNQ3dKSlZCREJ4aUY4UGQ2NlZGMGRBSmM0Mng1eGJYZ0JnZTRxUFBreU5CN1R4SEpLUTNGU2dXMXVlVV9oUWI4YU81ZVpQTWR3bGpqOUtxYWs1U1ZHWVRWMUNlZE3SAZMBQVVfeXFMUHJZb2UyMlZsY3VCWDlTeUNaZDctQ21rbjdUZktfbHhieGxtb1BqWjVITjFxZEhnUU1XTWo1bUdReENham44WlFqSF9jaVY3MVFSdGdtMjdMTkxSaG11V3I4RkhPQk1SaVd3V3J5VWhQejZCRzBYOUE5RkhWVWdtaGdJeDJmLVFJWWpYd2RBdEgtWng4?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: Chosunbiz
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT그룹 회장, 운해장학재단에 460억 추가 기부 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE44Y3dGVTJObXpvS2lJQWtSQXJpSVdRX0wzcU03cEFKX2V5NTUwZVItSHU2aDRGNndqcm5XcGlnclN0b0lZRFFrVEZ5am5USWdrUGlDOXEwUndQZw?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT 회장, 운해장학재단에 460억 원 규모 사재 추가 기부 - 경남도민일보](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaFNfZmMxYUgzYkltLTNtemlfaXhQcGFkbG1rbE81a0FKeEVLOEJXUm1UWGk1akFzWEJUcUJDVGYzRkJNWkRFZGtWYnZnRUJoVnBtYVc5LUd3TnNWOGJkWWxXeV9waHdXVlE?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 경남도민일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT회장, 운해장학재단에 460억 규모 보유주식 기부 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTTRfZ3Q3Ul9OeTFvaUhUNXhHWFJPMlZTNWdzeUZQWFJIUVpyTFh1UW9GMVo1c1lmODMtQm5tM1B6aUJWRkZzTmVrZm5kNDE1NzJlYS1BcWxQZw?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [SNT그룹 최평규 회장, 운해장학재단에 460억대 주식 기부 - 뉴시스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MdFZvLUY0dEFsUFdDVWE3WUN3U1ZJelViODdjZXVkbzBaa2RhaHlwY3hQMGJaME5zVE1QMHc0Q0lSeGJJRUpmOHN3QVd4bHU1U2UwZ18yQWtkblcwZ3EzNtIBeEFVX3lxTFBNRDJvZkNMWW1LX0h6U1kwYWIzN1BqTnZQYzFTY203d3Fwc2h5aXdUclBpUmdrNGNHSktSYTVmUXVtUXE4U253c1RMMFJ2MXJ2Q2VvSUNwdFRmdkpFVGlkQ1dRc0Y4dFVIWUZKY3N6YkJfOHU0cmoyUg?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 뉴시스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [SNT그룹 최평규 회장, 운해장학재단에 사재 460억 추가 기부…운용재산 2500억 확충 - 세계일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzamxlUFZhZVpIQklGZXMwakQtbElLQWRGdzJvX3FjOWhYV1VNcTlWOC1CNkMwR1VrT05YdFVOam5hVFZPWUF6dlp5Vms1R2xXSkRJTVE3aWvSAVRBVV95cUxNSk53bzJxeWJYU0w0SnROZDQwcTNJTFY4WXI2UnNDTU1DRi1QU1BaQkhzT01sNEFaRW9KdUxFWVNiVU9ybnJhY2Z1LVJQNXlIWWhJa1g?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 세계일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [최평규 SNT 회장, 운해장학재단에 460억원 사재 추가 출연 - 세계일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DOFUzemV6dkczRHU0T25VX0NCNDdiSnZWbXlhcGFnUE9hNEtPdEFzNnI4ZHNxcXl0X3NLRlJXd1pUMkFUWU41VWM5R3NmYjZ6cEdTNERtWEzSAVRBVV95cUxNQkRhbjBsQVBzeGptTWJmZExaMGo2RFNURE1GWk9oYmZCMHprWXpWWnVISVRRZE1rZ2ltZ1lIZ2pLMkpjdHdtVzltTXdDTlJoNFRXUTQ?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 세계일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인다문화장학재단, 2학기 대학 장학생 모집 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE9KcC1fbHlxVXFZaFNHT1JOY1BsRkdlVXZnU0g2YU1qVFg3V0VCUXA4b3o4SlBnbks3M2Z5UFlhV3cza2hSTXlmanMwUTlENDJMNjhTYmNwa252aE5ZTUZ3N2FEYVlLb3NPV0pn?oc=5)
+  - 기사일: 2026-09-29
+  - 출처: 히트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- ["다문화 인재의 꿈 응원"‥명인 다문화장학재단, 2학기 장학생 모집 - 메디파나뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE1CSC1SazZfN09QRDR1UUR4TnNZUE95U21qRm12cGdhZTlqOFJLNVNhRWtidW5wRDRFU29WZVE2d1dwVGRFd1BoVjVkbnRmR3lvaExaZ1d5d0NzREtFdllfdEoxUlVwd2NTSkpR?oc=5)
+  - 기사일: 2026-09-29
+  - 출처: 메디파나뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [씨킴문화재단 출범 첫 행보는 기부…지역 예술 인재 육성 첫발 - 충청투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTFBkNThmdVQxcXJid0pyQ1l1eEtKLW1xbzRuNDE2MTV4ZnhhTmdJT1FfMGVtbHdUeU83VHFXUVpvbElUV29LUTZMT0xiVXhfM2pDLTBZcl9qTjBlRlZyeG9Bc1ZqcEt5ZnVKcWNpTzJ3?oc=5)
+  - 기사일: 2026-09-29
+  - 출처: 충청투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [씨킴문화재단, 첫 행보로 지역 문화예술 지원… 충남예고·천안문화재단에 기부 - 뉴스파고](https://news.google.com/rss/articles/CBMiREFVX3lxTE9mRTdldG5iTDh6OFZHTEcyaHFudG9ZVm5CcmlKbzlFeUhteWFtNzJlc29fZmtYN2lDeE43WmVQQmJCdWVF?oc=5)
+  - 기사일: 2026-09-29
+  - 출처: 뉴스파고
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [씨킴문화재단, 첫 행보로 지역 문화예술 지원 - 굿모닝충청](https://news.google.com/rss/articles/CBMickFVX3lxTFA5WktfSEcxSGxOSnpMNXo0VjY0Q2FIWFRERGpESHhJcmM0MjFSM2szTXBsZ0hvSlZPQi1UYVY1X1lGTHhqYlhPOExrdW1RZURVNWlBMjByN05KMUhmU00yRHRaQWpmWHhJbG1QMksyRnBFUQ?oc=5)
+  - 기사일: 2026-09-29
+  - 출처: 굿모닝충청
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [한컴재단 출범 후 첫 행사…12개국 다문화가족 400명 모인다 - 매일경제](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hWklhdlBzVWtvc0JJaVB1VFRsdWNtWHJjQ1lMZUhzS2pQVjE2cDdNeEhRX3U0V1V6dUxVWHg1bEY0dDVSZzhwREp2aVVwUQ?oc=5)
+  - 기사일: 2026-09-28
+  - 출처: 매일경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [울주문화재단, 내년 하반기 ‘문화관광재단’으로 확대 출범 - 울산매일 - 울산최초, 최고의 조간신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE9UMXFpS3ozVVFIM2ZqRmpaTGZzMWZuNy1fR2RUMFVsY2pKTkFnQWxQOEkwby0xYVozeDFrdkwzRTJWcjV1SlJTZDBiWW42V2JLNkZPNURnc3Z0UG9LNFpMeTVqc1dfekZpcFHSAW5BVV95cUxPT19XUUZiT1BIM2NJa0JQd0ZBbkwyWEtYUHFuSGhaQnJYMGszOE16cHJsTkNveUY1VHJ4NWVyNXZSWk9Gd2VDZ1VvTTJ4VjRqNDdyZWlZV1I5OU40V0RzYXVzUXg5azhBNHhmUVVuZw?oc=5)
+  - 기사일: 2026-09-28
+  - 출처: 울산매일 - 울산최초, 최고의 조간신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [골프존문화재단, ‘문화예술인을 위한 자선골프대회’···6명 작가 후원 - 헬로디디](https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZzNFeVVnYWRTXzRDcEJFNmQ0MGNld3RfeUxMZThvV2d0NjQ3dHpRZGZTTjJEOXNCYWwwLUkyWXdKUEQzUlFKbkU4T1JYUE44TTVSYWQ4Q2psVjhVaEpVR0YwQXl5d0h6dkE?oc=5)
+  - 기사일: 2026-09-23
+  - 출처: 헬로디디
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [금강레미컨·백야장학재단, 김포 하성면 취약계층에 성금·장학금 전달 - 경인신문](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45S09RMWoxN21lalpZVjc5NWF4T0RRUXJHQl9uYjVSeGZxMGM0YUtrU0dEN3BEOVJYZlpLQjBDdV9QLWd2c19PZW1ZVk51a0F6X0lYVW5tWVF2RE5yaW9OTzkyRXljbmM?oc=5)
+  - 기사일: 2026-09-22
+  - 출처: 경인신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [SGC문화재단, 세브란스병원서 ‘찾아가는 나눔 음악회’ - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVVhpUV9VdEdFLTN6eFdjZHVzTjJ6SkUyN3BmUFRhd3c2cW5SWnYzbEs0TlZfczJFM0dtcGVxWWlua3p4clBHVGZJUm5TU01VQld5Nk5peUM2N1BlRENDZm5DWUVWV1BWeTRWX9IBcEFVX3lxTE9sQUo4UHJDLWY2MG1PNmlPTDhNMHVaSjUtZktrOXUzVHpybl93cUZOVHdIOWx6b2JfZGJkZXpUYjVuUl9lQ0NfeHQ4OHFfR3NqdVVlNzJ1bmY0dTNmZ2hzOG5oMV9pV1pSU0pYaHM1SEY?oc=5)
+  - 기사일: 2026-09-21
+  - 출처: 전기신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [호반건설 성장 이끈 김상열의 27년 뚝심…호반장학재단, 장학생 1만명 배출 - www.ebn.co.kr](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lMjZEWlVFRThVekFZQnFLSl9sME1nMGJGamUtWnZ5QzIzc0lmUjVuWjQzTU90UF9CSEtLT0VBemRMRHhVUDFoeDR0NjZUV3pvbkdEamMwaTlLTTI1T1NzdVJ0MW5UNEg3?oc=5)
+  - 기사일: 2026-09-15
+  - 출처: www.ebn.co.kr
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고속도로장학재단, 2026년 고속도로 장학생 모집 - 일간투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTFAxTUhyb2c1RFhuTlFnMlpaaDV0SEM5WWY1SUVDcFdEZkhsVkFkSTA2ZWdCTkt6SFRhaGpBLTc4NzZfRmtaenNyLTR0UFBZRmd2MXRQMERiQzlvXzBQcWt0cExhQmdyNWFIQndv?oc=5)
+  - 기사일: 2026-09-14
+  - 출처: 일간투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [충북문화재단, 청주산단 직장인 챔버 오케스트라 출범 - 충청타임즈](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vNFNFbEROYmJCaENUQVdnUlhfbEg5UVhKM1BvR1h2YlRWdDNHTU1CQnB1Q2tMNUVESEJZMmdHX1RzLS02Unh0bTRLUDN6YURhSjk0OVNKTEFxLXk2SEU1eDdTam11MXJG?oc=5)
+  - 기사일: 2026-09-08
+  - 출처: 충청타임즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [계룡장학재단, 학생들의 꿈 응원하는 장학금 전달 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBId0lVbVJ2cnhBWXJacGc0dHZ4LVM4OW0xLThLVGFrNzhlMWRZZVkxVFlyTDRNalZHVzZPWG1VR2xabE1ubUtOUDZsSnQ3SFl0aGc3US05VVJsQQ?oc=5)
+  - 기사일: 2026-09-08
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT＆G장학재단, 사회배려계층 대상 '2026년도 대학 상상장학생' 모집 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUjFpZ1VRalFyNmZJQjFKTk5zWWlZeUtkRzZPai1WbTVaMVFSdUE5QVY0SHlPWDdnbmVxWUx6V0M2Ykd2NnNFRlFmdGlad0ppMVJpYW1uZEZIY2c?oc=5)
+  - 기사일: 2026-08-26
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT&G 장학재단 대학 상상장학생 200명 모집, 학자금대출 상환 지원 신설 - 비즈니스포스트](https://news.google.com/rss/articles/CBMic0FVX3lxTE5XYjRzLUJLWGc4TEdCVFJnX3NYVldtRGdVUGtDT0RMWjBKQUZKMkU2Q2lqS0wzX3EtSEV4VVpPMHN3aUthQi1SRDJmMnhXeWZod21mYTZfbFZHeTRsQ1MtWXJKVlhDb2xNVHlHSkp3RWl3QTg?oc=5)
+  - 기사일: 2026-08-26
+  - 출처: 비즈니스포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT&G장학재단 ‘대학 상상장학생’ 모집...학자금 대출상환 지원 신설 - 디트NEWS24](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tMGliRENtcVNkdHplWHZCa0ROQ0NKVUl4Q3hTV3M5ZlEybmZseE1XMnBDdkliUHlidUFVaEdsSnd5VmdsYUhIb1Fhc2hCeV83aUZrQzg2czJ2bHE0emRCVlBrclVzNVg3bTB3?oc=5)
+  - 기사일: 2026-08-26
+  - 출처: 디트NEWS24
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT&G장학재단, 대학생 200명 선발…1인당 최대 300만원 지원 - 이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jaUlybnFxbnBfTUhza2xuVE1rOHRJaTRmaHN5MUI0M2hVcTVKczFTN1ZmeFl1TmgxbzVHc3dIV00yYS1jWW13QllfLUpMRmFIdFZ0RA?oc=5)
+  - 기사일: 2026-08-26
+  - 출처: 이투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [TKG그룹 정산장학재단, 다문화가정에 장학금 - 부산일보](https://news.google.com/rss/articles/CBMidEFVX3lxTFA0OVVNYlNWNGpNc3NNOFJlQ3lsN3RHWlVSaWVVU3A5aWtZYW52aS1tMXk2UUNmS3dSNEZWLVpjakpxNy1DOU9pRFMxaHY2ZDZWaFU1enF2bHBUTjF3NlNiV1dFN3lUR0R5c1N1OGpINVhuT0dR?oc=5)
+  - 기사일: 2026-08-19
+  - 출처: 부산일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(인터뷰) 강길주 명정학교장학재단 이사장 “외조부인 이산 스님 교육 정신 이어 후학 양성” - 부산일보](https://news.google.com/rss/articles/CBMidEFVX3lxTE1MejhkSHYwdWlBM3VUY3hnWWRCOVY0VlhQQVN0R3pOZTBFX3NvYmllb1pnM2R3QXREVVBweHhxZllMXzZQMlpWaDh5bVVyUHdqUlpJMHlqU3dhbUJQN0ZJY2d0NnlpTnh2YjlRYjhDQmFpTXUt?oc=5)
+  - 기사일: 2026-08-09
+  - 출처: 부산일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [디와이나눔장학재단 설립 10주년…누적 장학금 11억8310만원 - 중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE50LU5BYXZFbWJyRWtnSUdHOGdnQ2R6MFBnSTNSbFFmZF9wZWZDdFlTbWNHeFJ6cUFLVFZ2RzVkREdpWW1VbS1CN1BHdEt5YmVjUFE2MllR?oc=5)
+  - 기사일: 2026-07-27
+  - 출처: 중앙일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [조상기 한국장학재단 신임 상임이사 취임…재무·장학 정책 전문가 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZSjRNWHFwZ1ljVDRGenJuWnhGS1gtZ3g4dFFsSXZCMmZoOTBxd1lXcmQ3T2pod0Y3ZTQzaXR4bjdFVksyVkx5RFlYQVpIWTRNdFRqNWpHWGR6cWJB?oc=5)
+  - 기사일: 2026-07-27
+  - 출처: 뉴스핌
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [롯데문화재단, 콘서트홀·미술관 한곳에…예술 생태계 넓혔다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrVEEwa0xSU2x4SW1fdDd5QWNJWWdGek0wUm5BWkdVMnRhXzlJb1k0OGEteDFRTnRHZkpvbk8yYXNIODh2UjZqNTdiNXo3VTFEb0dLcTUwZ1lIQQ?oc=5)
+  - 기사일: 2026-07-20
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(기업) 명인다문화장학재단, 110명에 3억 8천만 원 전달 - YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wVk9FWkRwVGNydnFxdFZDVTVBb2djR2M0cWh0NTZ1TTRnUFF3d2VKVVJRZHlmaldyN3FXUWhISTdQcjFVejVtaEtSTUhlWk5TVHlqS0hXMnhFREFlcGc?oc=5)
+  - 기사일: 2026-06-22
+  - 출처: YTN
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(주목 e-기업) '농업→교육→문화' 사업보국…교보생명 3대 재단 - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CV19GN3BIbHlidl9Vdm1MSVNfZldhbW0wd1BXYzFXZzdYa3dSQkRNR1dCRF9OTVRFM0dpeWxlbU10Z3o3eU5ycF9xdnUtYVhOSVRSSTlqYWw5RWNXRkZhMl93WUdScFNBcnlkaA?oc=5)
+  - 기사일: 2026-06-02
+  - 출처: 이코노미톡뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(이슈in) CJ문화재단 20년, K컬처 뿌리 키웠다… 인디·단편·뮤지컬 성장 사다리 구축 - 천지일보](https://news.google.com/rss/articles/CBMiakFVX3lxTE1iY0xNUS1Sb1AtZmRWaW03N2I3dEJmREtfM255b0hTcGhnck83MkJUdkNobmFGYk9pSXNrOTNHTG5YOVhpUkM2VDRRdWtsOWhvYnZpaVpacFdITUFsMnp6RnRIX1Z1MVFwX0E?oc=5)
+  - 기사일: 2026-05-27
+  - 출처: 천지일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 사회공헌 20년… 향후 20년은 어떨까 - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5hYzA3WEZEYzhYblZrMzRBS3EwT2IxRmpQRkdVNHgzOU8ycmhNRHpoVG92Zzk0dDI3bmZrQy1SbWx4VUhwQXlCXzF3dHdyTU5Ta1lUaC1ULXd0WTBtaXVjaE1ZV0xUeDBzdU0wSg?oc=5)
+  - 기사일: 2026-05-26
+  - 출처: 이코노미톡뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 기념 ‘리더스 토크’ 성료… 대중문화예술 생태계 지속가능성 논의 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiogJBVV95cUxPVkQwSlpVbC1UeGFJbUEzc2xIRkZDemVSdXBzWjNIZXZucWo4QlNNU2l6UVgzbGp2YURCcWl1Rzk0ZEN4eWQ4Wll1VzVOamxxNGZ4eGNvN1JRMkxsWXNSSXZjTl81c1R2VVNDbmxyLXlmQ19ubl9Ha0l0VnRnTlN5NV91Rnk2S1JGUFdfSXJNbV9rQkZ5bzJCSXJMUnlyLVhwLTFueGkyYVpaMG1KbUdVWTVOUnlfcUZmV2dpV0hjSDZIOVViQnB0YlQ0NWdYLS04YVhBSVdFR01EaGNCWjJHV3pjbk5wS0Z5V2Yxd09BZ1RBOVRvRTVlbnktaXgyaTA1cUlzMjdkZi02SzZsbVBMc2dVTGVFMmxiQVZjN0MybGt3UQ?oc=5)
+  - 기사일: 2026-05-13
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [남양주 장현초 동문회 장학재단 공식 출범… “지원 아끼지 않을 것” - 경인일보](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GNzBOMFlxY1JYT1p3T3poaHoxWExWY19OdHNYcXhWNU41ejNKZFpQZFQ0Wk5IOWRzUzZfdjBMNTBhYWx3YjRKQTVqRDVONXF4eUE?oc=5)
+  - 기사일: 2026-05-07
+  - 출처: 경인일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [“배움 포기하지 않도록”…손태희장학재단, 전국 장학사업으로 미래인재 키운다 - 매일경제](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyWnFDMldubEVsdmlyQ3g3WTlJOE51QW1QVWhfZmptVHM3d1lBOVE5RVg0ejJ0Z2NvOWVPQlczMl9MV3BCaXpYNlo1WnROWVJRVExYcWxR?oc=5)
+  - 기사일: 2026-04-30
+  - 출처: 매일경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 기념 ‘라이브 클럽 데이: 드림 투 스테이지’ 개최… 재즈부터 하드록까지 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ0lGaUFadE1USUlVZkhlUEE1RzVWelVxX2pjZHk5bGlfXzIzU3E1UlRvWE1FR2FoQURQdVYxbENycGZoc3pZOHc2UkJFYV9BdG1OV3U5eWZwNjNHOGZxWmNPRS1hUFp3M2xGdjEyNldyR0RCMXZjeUoxRXNTSGN6TEFSOE51N3EyNEZ0YXo5Z0VEdkhUVnZzTG9SY0NQVHlfTkRMZnRWQVBwNW9SWHk0alJ2ODRqaTViNFZoenFDbTZzdGw4MkRkWHEwZFFGUGRnMDZwZTFnSE5FNk1venZud0xUWFpORnR3ZlVYWFN1Slc2X18yS2JDRUhxcURSdEthY29DYmxtY1NkN3J3QnpYTkdYX29FeER2NVFma25TcTk0U0kwMEpYdHdjMExWQQ?oc=5)
+  - 기사일: 2026-03-12
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, ‘스토리업’ 단편영화 제작지원 공모… 주제어, 앤솔로지 등 새로운 시도 주목 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMkhLVE1hUXZoTU5haEluT1pIM0NZdTZlRjNIdnNkN3FNVWd4Y0RkOVk3Ql9jVTRRbUlpNGlaZmJOdnRlR3ZNZjhjd0xYcE13dDctQVdRcVJlYkRWTGJsNkFHQkpmUFlpU3hTdW1FX0lzZmQ3MWVvN3F4bU14Zk40VTFBSDBTalVGSDVzZjlRMjRUcVFFdzdXRVhsaEl5SmQ2eGZjVWVFNnpja01WeDlreGtmcFFwaWo1dUFMZm9ybHhYeXk0SS1wbzh2bVUxcGtfWFFqbVpkaUMxZzdQXzM5VExTWVU3YmxfdXAtRHAzLXQ2TlJZYy1kVXBtYURUMzBQNXA1M05oWDRoU1MzYTVhVy1kdWVjRDgtb1kyeG1ha0VTQTN6dEt5aA?oc=5)
+  - 기사일: 2026-03-05
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [평택시문화재단, 문화예술 후원 플랫폼 ‘WAT’ 공식 출범 - Daum](https://news.google.com/rss/articles/CBMiT0FVX3lxTE95dlpoczBHRzRJWGlEdTI0ZHkxX3F1OTdlM1NBR1pCa29CQmZYb0NVbUhmNFZwSEY0eXlmQ2dkOHdvMmZNTVhsTm94N24weTA?oc=5)
+  - 기사일: 2026-03-03
+  - 출처: Daum
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [서산장학재단, 설립 36주년 기념 '2026 지역 인재 장학금 전달식' - 충청탑뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sOGUwOVRGNS11RUxDVk1USS1hTHlYNHlTQ3htaVJydkVVdG9kMzBxZTE2Q1UwdmlibHpLUEh1WTJQZzFBVFEwaW1Ca3FMY0xKTHYwcTRsTU45eTdPRXpSUndnaXQ?oc=5)
+  - 기사일: 2026-02-26
+  - 출처: 충청탑뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 맞아 콘서트 시리즈 개최 - 더나은미래](https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Qk1sWTlFWkV2TUl3SXoyaXNGajVoNWd1dk9jS1BLZlozNHpsQno0S0tDTnNMemV3Wml0TFNKbk1mVks4QzNucjgtOXhaS3JtTFE?oc=5)
+  - 기사일: 2026-02-04
+  - 출처: 더나은미래
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 맞아 다채로운 행사 마련… 콘서트 시리즈로 포문 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiugJBVV95cUxNNVFQOTVNMTJRSVJvUF9Jdl9sVUJEdE9nUFIyR21PWS04UGVSUUU0NEV3UFJpWXBXaGRSX3VXZC1ET1FTaGo0R3I3VzVocm4wQldPYjdCd2UwNkZjOENLTHIzcmJnX1V0X2ZpSVVCTGw4ckVzeFR6bXQ4bnJWQ0xzczR4QXZTYl9KUHctMW01SS1OMktnMEdCRE00bXROc1NMV2JYZmFpRlgzb3dPd1lXbXFZR1lhVzFVVlZfWGtIbXhfREluOVJQbS1tQ0t2eFZKdmFBRklsODFkaTNFOU13Vk44LUZFaVVNRHJvV2FvSmVMckp3ajA0dE00d3l6M0xhWUdpMHZXMVRUM3cxeXlzY3lwMFJvdFB2dU5CcWpQd1hpQ21GR0dFNW5GazZYVHNrX1E3aTBpN0Z6dw?oc=5)
+  - 기사일: 2026-02-04
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [뮤지컬 콘서트·컬처 토크…CJ문화재단, 설립 20주년 잔치 연다 - 뉴데일리](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RDgxd1Rkand3ZTNRV0VzWUg1bkVER0daS3kzYnZIZmhYb2tEcWJjWnFTUDFvT2EtekhmQ3liTkFveWlnQUFqMkd2c2JaOWtZWTlRZEwyaVdsdmMxWVBKc2V3Wkd5eHo0eFRvaTRqSWZiTF8xT0NKX3VsRdIBgAFBVV95cUxNTmtwSFJkeUZ2YmZNSXptWVp6Q1VOSWFqbEdReUdhZ2lWVHBkaGtPWE0xampNXy1FTzJySExwNHprR2x0ZjR6YnhZTElOX2lTRFpzSld3LTVnSDBGbGZydXZ3blFBYms4dEJjUk4xblNITkl1TmRLTVhCQVYzcXlQdg?oc=5)
+  - 기사일: 2026-02-04
+  - 출처: 뉴데일리
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [TJB 우성문화재단, ‘충남 38호 나눔명문기업’ 가입 - 돼지와사람](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HT3FNdU1nOEI2SGRPbklsSlNpSDIxbFR1UXJBY3NaWWRsVmtaWVZnLUlVU3lUNzZKbVNtLXFSSEx2V0ZLYTV4M3NJY0NrdEZ3XzdOQlBNWXJWTF9tdXpIQVlB?oc=5)
+  - 기사일: 2026-01-29
+  - 출처: 돼지와사람
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [설립 20주년 맞은 전주문화재단, ‘통합 문화플랫폼’으로 대전환 선언 - 전북일보 인터넷신문](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2NkswMnhTU2FUM0pjQ0QwbVZhM1UzQmJnYXVwZXVQM29pZDhrTTZpcFpSWWt0ZnQ1RUFmNVBOamZuQ2h0MFdHWk1zREp1MUpaOGhKcNIBWEFVX3lxTE82ZU10aFR2OUdGX094V1pKYTdFWWtEN0xUZGlPWGtoamdBa3ktcmVKejVJbXltNkpNSXRhMjN1Y2ZwVTk0NFZfNHJabHpmYU5mVUl5cUtBRFc?oc=5)
+  - 기사일: 2026-01-22
+  - 출처: 전북일보 인터넷신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(의정부문화관광재단 설립①)"문화·관광 컨트롤타워 필요하다" - 뉴시스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRmVzXzZSN2pRRmZuVVJsVGxQdUs3c2JHbF9ZV2lYN0w1SjNmeEE1Rm5hMmZNT2Vvc25IRExEMXhIMFNmTHNxQmRQQkRqQ0dIaE5vY2RJRVJCbFJsdmVLcNIBeEFVX3lxTFBVVVl2N1k5Ty1oVUpHWnR1Z054U0g4UWtkSjl6d2VsV0NocGhELWd2VndiZmlQWDdwNGZXQldRZkF4SEs0ZE1oQktRRlJRVzN4TkV1XzlnR3dDX1dybC1OMkNTaGNmNXJteDMwTnhSeEJnNm44MnJBdg?oc=5)
+  - 기사일: 2026-01-13
+  - 출처: 뉴시스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [두을장학재단, 장학증서 수여식…이부진 이사장, 사재 추가 출연 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbnQzaVdLMmJYVF9LX2VzQmxpdnBQRGZaUEpWNXl0SWZfOEc4N0loRnRfamROcnc5OE9ONjloblJsVVNkNUdhOUsyNDdmazMzVVZaUWJ0RUJrOEHSAWBBVV95cUxQTm02Q2stdkNKOXFvTnV2Z09pMjB5THZrOENfSWJkNTExcHVNRTJwanF3aXQya01XM1J0UU1CcVZlN2d0b2I0b0w4LTJkb3RkaERFbnkwSHB4WGpVbWhsNFQ?oc=5)
+  - 기사일: 2026-01-09
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [이부진, 두을장학재단 수여식 참석…28기 장학생 30명 격려 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RX1ZhRk5SLUJkOEhjSzZqaGxaaUxxWlNodTBWZVcwSXN5b2RHckFsUmNPNGQ5NXpoNDFNQTAwREtQQ0lwaU9sbWJWMzVKcDhSdGfSAVNBVV95cUxPeVN4amxIY2JRRVNBS2hJQmJ3TWkydjZxZDNPc1ZGR2ZOajhGeFgyenROOEgyRi1jLTY1bGozLWNTSUV0MS1oaUk1VEJlWXZRaUNtdw?oc=5)
+  - 기사일: 2026-01-09
+  - 출처: 서울경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인다문화장학재단, 80명에 2억6000만원 장학금 전달 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sa19qMmVraVNKT1JVdkJZZ0RRSGl2YnV4S0g2OHlEX0UzX2JyTHZKdzduQzBNYzJReHZOdmt5LU1sdWZoWTd2UUJxV1ZWT2hCOC1xTlp6a0pIdmVnY0hrQUl0Yl9LTndRbk9J?oc=5)
+  - 기사일: 2025-12-24
+  - 출처: 히트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [충북문화재단, 오는 20일 ‘메세나로 잇는 아트브릿지 감사제’ 개최 - 충청타임즈](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OcW5yRGJQWEltZUFscHlsUVJNVDhBQmFYLU5CRDVVNlZaZXVEOG1xNmd2RkpRbzF5ZEg4V1BUc1hUS0FEdUtGUl85b0J4eDBFTjVNZjBPZnVmQmR5bi1ubFhHeTlEbEFB?oc=5)
+  - 기사일: 2025-11-13
+  - 출처: 충청타임즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [주진우 사조 회장, 39년간 이어온 장학재단…“‘공익’ 보다 ‘지배구조’ 수단 ‘우려’” - CEO스코어데일리](https://news.google.com/rss/articles/CBMia0FVX3lxTFBhb3ppc0FTaU5Cbm90MUZLNUhueDdHWFlMWmdXamxXaExtMF9mMks4aEpGY3VCZkZBTHVCcWFnekxtUk9jUmk1OXNRLXItZTl4QkVXclpYMzlEU001N09LN1FHV25iOGc0RjlV?oc=5)
+  - 기사일: 2025-11-11
+  - 출처: CEO스코어데일리
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [센트럴파크호텔 오법균 회장, ‘미래문화재단(가칭)’ 설립 추진 밝혀 - 복지투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYzVwSzVwTVl0UlNxOHlwOE5nUTJGU3JseVVYOFBBbnd2TEhZOUlTWlJrb1NOaVByWk1wUDJNQzE0UjdYZGVlczdpelhWc3lqdnZkUWphd0VwajlfMDlmeFNIMkFsS2NWYmdzdA?oc=5)
+  - 기사일: 2025-10-29
+  - 출처: 복지투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(클릭 핫이슈) 의왕시, 산업진흥원·문화재단 추진 - 경인일보](https://news.google.com/rss/articles/CBMiUkFVX3lxTE41OEc0QXpsVUpWUkFyWS0xS0tYcUdfR1R4RzNRYjJIV21LSnpiRHFUOWhvSHZBelAyV0p3Y2NJMlZtTTJYM1lRVnZ6YXhVTlc0eWc?oc=5)
+  - 기사일: 2025-10-28
+  - 출처: 경인일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [천안문화재단, 제3기 정책자문위원회 출범 - 지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNWdsUk1QcExCdGRsbVUxdHFrUTlLYXM3T29VOEY1cWstc1d5S2RSSURTNzlTRElTSHZfVTl0TGdBYndrTEgyUzI5ekJheGRadXAzNTVn?oc=5)
+  - 기사일: 2025-10-02
+  - 출처: 지디넷코리아
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인제약 오너家, IPO 앞두고 공익재단 설립 속내는 - 톱데일리](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBINXU4YkdXVFlIbUdkdW5fWnA3UlN5Vk5oejJmUGhwSkRLbWFEaWJ6VlhxNkFKTHc4NG5qNXRFZE1tZUxBVnRpcG9BNFVacHRW?oc=5)
+  - 기사일: 2025-08-28
+  - 출처: 톱데일리
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인 다문화장학재단 장학증서 수여식 - 의학신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE5KelM1dElla2d1NTZzUmF2ZFA0bWljWHVNVlB2bWtnMnpxSXRtdGh0Zjljc2h5bWhVMmU3aGNvZjBVRlFxa2RQS0FYYWU2R1JtU1pWZ1E2OVBPUkZpdFVobTBRMmY4STZ3bVE?oc=5)
+  - 기사일: 2025-06-20
+  - 출처: 의학신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [SGC그룹, 문화재단 설립 준비 '시동' - 딜사이트](https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ZndSTUs4ZjVQanhDeUpkd2I2blpjTFRmVVdZb0h6RC14eWsxNWRUSTFLbk9IeXY2ekxnOGVkamI4UEFILTJQTmN3Y3hmcVk?oc=5)
+  - 기사일: 2025-03-21
+  - 출처: 딜사이트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [문화예술 키우는 기업문화재단들…10년간 1조1천억원 후원 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0SDVUT2JHbGFmTl9lQTJMMmp2aGtoRjZhRVBMWDFVdnctbUJPdnZfWU5EbEU3SUx5OFhCbWh2NG1OR2JTZXQ5N0R5NFY3MG1WbUhYc0JiY1Z1XzDSAWBBVV95cUxPV0o4RlJ4aC14NGVrMnhEUjUwVm9HVHdkOU9NVmprcnpzbU9GeHdqSEtldzZiS1ExUVBJU2tCMWtjVlpmb29xSERGd3VZcFlfQXM2OEVjdHFGS3l4UDJjdWQ?oc=5)
+  - 기사일: 2025-02-11
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [이상설 명예교수, '호한상 장학재단' 설립하고 공대 학생들의 꿈이 되다 - 뉴스H](https://news.google.com/rss/articles/CBMia0FVX3lxTE9GZnRWVjZIR3M5RGJDNU9wYTZmWVZnX1dHcWN1eTQyWTI1N3lYdDdzdnc2YW1Dd0hoU3hXdmM3NUhpOERGczhPb3lNTGxLWWU4Z0x4YWh5U3l3aDV5anJvSUwzMUEzTTRqaS1J?oc=5)
+  - 기사일: 2025-01-31
+  - 출처: 뉴스H
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- ["땅 장사안해, 인재와 거목 키울 것" 고등교육재단 50주년···SK, 사재털어 사람 키우다 - 헬로디디](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jVGNpSlRrMVg0QjMyellIaEhtRFA3LXBXeTFsVUJzR2VRVWhUYU1oS1ZNNFhJQlRmeTcyZWkzWUJTdUx0ektWSjlIeFNHOE5qemZ1c1lGME5zZXk2MFJ0NU44by1pQWRXMGc?oc=5)
+  - 기사일: 2024-12-25
+  - 출처: 헬로디디
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(로컬) 관악문화재단 차민태 대표이사, 대한민국 중소·중견기업 대상 ‘경영혁신상’ 수상 - 스포츠경향](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rdmpYTndmTFZ1aE9UTWUtR3BULWFCRVRzbXZHY0VraS1ZbFFXVmJ3dVBqLV9rSkk5SmRVOVFyTHltb3h6ajlaMkNHWXlGX2pGeVFyVy1iV0xXLXI2M2fSAWNBVV95cUxPZWp3bVlmSGphdTMzMmRwREd6QVgwS3JfNlZtSENwN0laUEhxNzNvdWI3VE9KN1I4RXEzTVhwRjVRTGIzTElVT2dYN3RmX2lsVnZfS3VTcnpkS1RnSmtjdVRKUFk?oc=5)
+  - 기사일: 2024-12-23
+  - 출처: 스포츠경향
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [국내 첫 민간장학재단 설립 ‘인재보국’… “인재육성 뜻 계승, 나라의 미래 준비” - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTE42bTRBZzdaemhpSmIwQzRiSktuQ0Q2SGFPbGtRRUF4cndzd2tpQkdibEV5QkUtVTZ0ajBTMl94Ykh1aUEtaHYwWUlZVlNDTFJOczNEY3F1QmJ4RDlFc0JGUmdraTBIbDNUQjA5NGc0bUlsUUVDcGfSAWZBVV95cUxPb2plcTBQc1dWTG5rMEtKdFZOSTJpeUE2ckt0ZkdNcjd2aW5PRGdVY0VRenQtTTJ1UFVRb0UyLUo1OUlQcFduNGltZ0xTblM5Q1cyZVotMjRIMHBWQURocFI5bjhvSkE?oc=5)
+  - 기사일: 2024-12-06
+  - 출처: 동아일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [세무법인 리원, 유빈문화재단과 MOU 체결 - 한국세정신문](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVlpfZTVkd3o3ZVpMaVVUZ0VzUXZ4U3JlZkh0dlJ1d3R2a0N5SFJmZzk5MkR2N3h3ckRTc0NkTnZQYXQ2cDV6djhZS2lCRVRISHlTU3RHYUNPWkJLTVdWZzNjbXM?oc=5)
+  - 기사일: 2024-11-15
+  - 출처: 한국세정신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [“재능 있는 청소년·청년 음악가 키워준다”...씨앤엠문화재단 공식 출범 - 데일리한국](https://news.google.com/rss/articles/CBMib0FVX3lxTE1XX0ZXMEN4UmZFbFlHY1pCdjgxVm9VQ003UkVjXzB0Q3NHT25SeF9RT084VktCOEpkT2tBbW1vNHdMWHlNWTNfc3pweUVsY2NSUnlxb0pvQkZrOWhMN2NMQjFCSXg0TDhHV3NUSUI5TdIBc0FVX3lxTFA1dmdiUENvdWYzNkVMdngxbVlHZFB1bHJHNmJxdDJFRTlFWWoxRVFPOURJTHhDeENUcWN5RE5CNGhCd2ZaQ1Iyc3VjcU5FNWQzU0pLTVZieUMxa3VrdXY5X1BiTFo1eUZmaXZFU012blM1ZWc?oc=5)
+  - 기사일: 2024-09-02
+  - 출처: 데일리한국
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [GS그룹, GS문화재단 설립···초대 이사장에 허태수 회장 - 매일경제](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rMGVQeFF5bzF6bDZiQzg4eXYtR200eWxGZDJXekdGZ1hVd3BNYUp2Ukw1OWI0TWlfSXo2am85TzFkS1BDYTBNUzdUWGhBMFNsRVFSU0pR?oc=5)
+  - 기사일: 2024-08-29
+  - 출처: 매일경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [반도문화재단, 설립 5주년 특별콘서트 성료 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyd3RJMWh1NTN3ME5qbUpuZTNjcm5sZWxnMFBmazdZWmJLWlNlVXlMTkxGam1aRHJ2UWhRNG9wbkxkZjk0V2RWYzdZeUlmVmxFVUlsYWU2M1ZhQXYyQzBJazJrUUQ?oc=5)
+  - 기사일: 2024-07-10
+  - 출처: 매일일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(단독) ‘이재명 지지모임’ 인사, 장학재단 횡령 의혹 - 주간조선](https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVEtjOHBOczFsUmx3V1VacHNmOUpUYmF2UnZUblNxNldNREx0a3h2Wl9zVElJU1doQlBqSW9NTEJGTUVNRFhRMEhkYzgwQ2lLTUhwbVVLM3BhV2dEZ21rN2t5VW53WWJ1TGfSAW5BVV95cUxOZERxLU51bGxSTkVCZzJmZ3Q3S0ZoYmtwc3JsS2pwZXg2U0pWVXIzSGhUM2djTGpoT0NBNDR6TFpTQXFRSHNjdzJXczZJMTYzbUstMlduMG11a1MyaGdjNkVlYjF4WUlWSWRaRVMwdw?oc=5)
+  - 기사일: 2024-06-28
+  - 출처: 주간조선
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(오황택 두양문화재단 이사장) 빈 상자에 문화예술 가득 차는 그날까지 - 인천일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE9oWTVGdWU0MGMtb05rSXplaThzS1h3VnJCNG5USVZQQTdreDgwLXYwdkRDaHgxbnVkMGl1VXFsWnhWUjZONy1yMTdsYXVMXzFlSURpUzUtOUVYanAwYmwzLUJLNGV5NkM5SC1xczJvaFo?oc=5)
+  - 기사일: 2024-03-06
+  - 출처: 인천일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [종근당고촌재단, 장학생 453명에 장학금· 무상기숙사 지원 - 한국의약통신](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRTg5T2luckxJUnhyOFlqNGxIcEFvLXZQcHBzd0hEdVJITWhwZlFWYjN6YlVnT0ZqQTJsTWhLMDZ4YjdCajk0SXlIcC13WkdiNWFiQWFmVU5hWFFEWUUxTGRLcFdaZzM1X0NR?oc=5)
+  - 기사일: 2024-02-26
+  - 출처: 한국의약통신
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(기업) HD현대, 조선소 중대재해 유가족 위한 장학재단 설립 - YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VnkyZTNvT3dPZ0c5WVNaSGY4el8xM05keXhuaUlTVWtZcDdadFpGWFhQaHc1Ql9FcGNad1dQeGpWdHlzUHpRNWtkY01BYTc4TUgzcHF4MVgxeEJZN1E?oc=5)
+  - 기사일: 2024-02-07
+  - 출처: YTN
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- ['한미약품 경영권 분쟁 핵심' 가현문화재단 두고 공방 가열 - 마켓인](https://news.google.com/rss/articles/CBMickFVX3lxTE90UVdMRTZUb21fTEgyOEJzeW4wNTJBSWZZZG51cW82Z2dzQmZodUdiN2prdFZVMWZoVXdENlpnT0tfdVpiWXJLc0NwSXBpeVhaMHAwQUVOV2VLbFJibEdmRXNrNWN1ZW1Gbm90UGxqMmhVUQ?oc=5)
+  - 기사일: 2024-01-31
+  - 출처: 마켓인
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [단추로 번 600억으로 문화재단…“후세 영향 주니 남는 장사” - 중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SM3ZqYlFiYzBGY2RhUVpLRXZVV2RjbG56QW1BcFVidmpGS1JOZGgyblZ4Y25VRnM0ZFM4cVA0TU5zRG9GX0xsaEhnQzk0czBlbnI1WmRn?oc=5)
+  - 기사일: 2024-01-26
+  - 출처: 중앙일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [삼일니트, 섬산련 장학재단에 1천만 원 기탁 - TIN뉴스](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sODBycHMycDhSZ2p5dk9yUUtLYlJ0WVFoTS14NG1LY0VEWklwY2NSLWFZQ2hjU24zQUdHQi0zUUd0VEluekE?oc=5)
+  - 기사일: 2024-01-16
+  - 출처: TIN뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [두을장학재단, 장학증서 수여식 개최…신규 장학생 30여명 선발 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VN284QkF1amFwTzZWaVh0bkZqcnNSQUVPYmJrSDRsc2NJWG5DM0RpNEFnbFJUQXhPTkRfNFA1dHUwU0dCcXVfMzJyNmd0NHV4QzduZXZQSkVqcWfSAWBBVV95cUxON2VDMVZyTmJ4Zk4wNGMzNmVjb0s3Y0xkYnlGdnQtTjNtYXhSbU9oWUk5M0Jaekx0dDZET0pLY3gtM0ZqZjFjMWlpUkpiM1dyOXVsWV9xVTVyY1VCU19EUVI?oc=5)
+  - 기사일: 2024-01-04
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박근혜 미르재단 설립 행동대장이 경제부총리라니 - OhmyNews](https://news.google.com/rss/articles/CBMid0FVX3lxTE8tY01ublN5QTdjNU9ydXp6Y05vUl9TenM2dXNGa2MwQ1pYYlVFd2h0YmEzVzVXMVBHWE9mZDFITWlXcGQzQzJBVmxIcmpvWDRhNkRyRTg4d3cxOUdxcFlJTVpPem1NdThMNWlqQkhSb0JtdW9GSGk4?oc=5)
+  - 기사일: 2023-12-26
+  - 출처: OhmyNews
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [서울문화재단, ESG 경영위원회 공식 출범 - 뉴스와이어](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwaWhDTjdWblEybWRVeUROZlZ4YmR6T19MUTY1MHlTMDlWbUc0cjdOQTdZdTBPT1lQbTJFTmdsRjNSVUdSSmNEdDYtMG1oMHVQV1RNSXdoYm5CVTNjYXc?oc=5)
+  - 기사일: 2023-12-12
+  - 출처: 뉴스와이어
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인 다문화장학재단 첫 번째 수여식‥ 총 65명에 장학금 1억원 전달 - 메디파나뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE0tNk5sQ0ZJbnFnQWdwaGFlMUNpQk5ISlJDamFfNENiTFNtZXJHQVJZUVFfeWhZUFJsV29yS3dldHZhT2Jjc0d3SlVjT0ZiUTFLZHJrQ1RNRTZYYnhRRlJwUnFySWVBUll1UHB3?oc=5)
+  - 기사일: 2023-12-05
+  - 출처: 메디파나뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인 다문화장학재단, 65명에 장학금 첫 전달 - 한국의약통신](https://news.google.com/rss/articles/CBMia0FVX3lxTE91aW54Q3g4M0hESFBDRUxXbnY0ekxkNHR3YzlCbmR0WnRxOVpEejBPYW1jTFV1Zzh5NXRGLUgtY2tZYV9fNjF3YmQtQlE0LW5kUlBPTGxvbXMteExFSTBYZ2Uyb0VneHliYXkw?oc=5)
+  - 기사일: 2023-12-05
+  - 출처: 한국의약통신
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
