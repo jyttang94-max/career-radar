@@ -1,9 +1,17 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-10-19T09:00:11.628656+09:00
+수집 시각: 2026-10-19T13:35:08.163471+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [(사회공헌 특집 (189)) “35년 나눔에서 인문학 CSR까지” 한국콜마…"ESG·재단 연계" - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE1MOGdRMEZlcm02T2ttUlVlcXZuMTRoZ0ZuUjZrR0JNR3BVRnIzMVVzTnRNR21iQ2xRd051RGxFSzQ1Z0pRZm04bUx3cVkyYUk4djZBOVRycmFDaGx1OU45TXdGZkhwYnRtUVdfRA?oc=5)
+  - 기사일: 2026-10-19
+  - 출처: 이코노미톡뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표가 '우리맛문화재단'을 설립한 이유 - 더바이어](https://news.google.com/rss/articles/CBMia0FVX3lxTE5qNV8ySVhXOFB0TEZHZGpTVk01elhlelVnaXE1SGxPTmRwLVhTMjc0WkNLWUw5YW1wdXp2X3kxVFd5bkxDckFXR0RRbUNpR1BmVFduck9FemdTbi1xNVpiTzRocHg2RFllZURB?oc=5)
+  - 기사일: 2026-10-19
+  - 출처: 더바이어
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(ESG브리핑-10월3주) 티앤씨재단, 거제 피해지역에 ‘밥먹차’ 운영 외 - 파이낸셜투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE5CTTJtMVZlZHFCVkphVWpOLXM4dTZNWHlUcVFsZmRva0d5MlNnRHh6QWxoZDRVLUFXRzNIbTV3bm1sUmhjYTZyMnAyOW5mdmJzbVdJeWRQOURKTVJHd3dIU0g2YUU1MjVVNW5v0gFuQVVfeXFMTnpldlJkS3AwWWRfajNCQjg1TnVpTkh0cjhYdGRjVW1MaXlyRkFmdnlvTnJBVHdOTVFyRDBYUmNLVzU0M2I5bEk5UEVMNzFfN0MzenBqQ3lNNGE1eVR1YVRKUnNxR2JEMGFUaVprUFE?oc=5)
   - 기사일: 2026-10-18
   - 출처: 파이낸셜투데이
@@ -111,6 +119,10 @@
 - [수원도시재단 설립 10주년…수원시민의 페이스메이커 역할 (새빛수원) - 경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMUlUb09lOVdQSk1TajNqR3FWTzBEVzlkbzFXRUhxNUxwSHNWUHd6TkZyTmdERXVHN0JJU1pZVTJyYTFIOG9GamdOcnVNVjJFUWRSa21hOGJnTGc?oc=5)
   - 기사일: 2026-10-13
   - 출처: 경기일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [의정부도시교육재단, 인력감축으로 시 재정극복 ‘동참’ - 중부일보](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZZ2JFNlRheWdfcmQtWGM0Z0RELUV3N1hTZHp5b0VvZjVzVjNRc1NOSUp5U0xub1AzREF6WVV4V1lEenVHMkhtOXBURWdLMXAybzR2OFFmTi1UY2w3Ti1FU2dramtPeDFhMUVWMEdkbw?oc=5)
+  - 기사일: 2026-10-12
+  - 출처: 중부일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [고창문화관광재단, 경영평가 첫 A등급 - 전북도민일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxORzBCOTBfaXBNc191WGFfYXU0ZWp2SmNSQWxQZEJvN1BMUXB3LTVLSnhVOEgycjg4V2l3a19mcDFYY2JIVjdJR2VZRnNRT3YzWWNGZjhFeVo5d1BxYTFxYkY1QUhLRHJNNHNjVWNPbGxFbzRSWFpaaHFQSGQweGE1R040VGhGQVU?oc=5)
   - 기사일: 2026-10-07
@@ -252,6 +264,10 @@
   - 기사일: 2026-07-20
   - 출처: 한국경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [싱가포르한인회, 장학재단 설립으로 차세대 인재 양성한다 - 재외동포신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbnoybEtraGJoOHduaU1tdnBxWW5jZHJOSXVqU2ZpVGRvMk9pVXcwLVF3a2RYUDRtTHR0R05HYU9wbzM5cWIwOHluSFRvWm1xV2lzd2l2cEpacTVxT3NHX003MHBsSWpzekZyQQ?oc=5)
+  - 기사일: 2026-06-30
+  - 출처: 재외동포신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(기업) 명인다문화장학재단, 110명에 3억 8천만 원 전달 - YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wVk9FWkRwVGNydnFxdFZDVTVBb2djR2M0cWh0NTZ1TTRnUFF3d2VKVVJRZHlmaldyN3FXUWhISTdQcjFVejVtaEtSTUhlWk5TVHlqS0hXMnhFREFlcGc?oc=5)
   - 기사일: 2026-06-22
   - 출처: YTN
@@ -327,6 +343,10 @@
 - [이부진, 두을장학재단 수여식 참석…28기 장학생 30명 격려 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RX1ZhRk5SLUJkOEhjSzZqaGxaaUxxWlNodTBWZVcwSXN5b2RHckFsUmNPNGQ5NXpoNDFNQTAwREtQQ0lwaU9sbWJWMzVKcDhSdGfSAVNBVV95cUxPeVN4amxIY2JRRVNBS2hJQmJ3TWkydjZxZDNPc1ZGR2ZOajhGeFgyenROOEgyRi1jLTY1bGozLWNTSUV0MS1oaUk1VEJlWXZRaUNtdw?oc=5)
   - 기사일: 2026-01-09
   - 출처: 서울경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [이부진 두을장학재단 이사장, 여대생 30명에 장학증서 수여 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCZzNEQXdBZXJKLWlPQS1vSmlVS08tWUdQYW5GYk40X1MxNUhiX18tNVYwRXUyb3R3X1gwczJhSDhnSXpWYnZaR2lsdkI5emNmUUItZjFzaTlRQQ?oc=5)
+  - 기사일: 2026-01-09
+  - 출처: 한국경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [명인다문화장학재단, 80명에 2억6000만원 장학금 전달 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sa19qMmVraVNKT1JVdkJZZ0RRSGl2YnV4S0g2OHlEX0UzX2JyTHZKdzduQzBNYzJReHZOdmt5LU1sdWZoWTd2UUJxV1ZWT2hCOC1xTlp6a0pIdmVnY0hrQUl0Yl9LTndRbk9J?oc=5)
   - 기사일: 2025-12-24
