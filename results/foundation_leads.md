@@ -1,9 +1,21 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-10-19T13:35:08.163471+09:00
+수집 시각: 2026-10-20T10:38:34.118464+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [“빠르게 변하는 AI, 교육도 달라져야”…LG연암문화재단의 선택 - 더나은미래](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZDFmeHVQNksybTRPaG8yV0E1ajR4ZEFkTm5aQ0xXNFlSTDlFMl9wZVZtVklnaG54U3ZoQ2xGdXpET1RtRnNNcjNtdkVYcTRURFE?oc=5)
+  - 기사일: 2026-10-19
+  - 출처: 더나은미래
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [귀뚜라미문화재단, 무주군 중·고생 75명에 5천만원 전달 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUWFkRkNvX0RKVVNQaVBWcGwzS0IxXzgzalY0MDZRajFhb3pMVHpZbHFuUHFJQS16RWZLc3luM3U4UDZPNHhDSEVqbnU0cDV2RnhlWUduNnVOM03SAWBBVV95cUxON3F0a3F1Q01IVFFJelZkTmpTVlJGbEk2dThmM21zVXN2bU83WVZpbFRHbEF5SFRJUkFwU2tGcm9SQmJYYTE2LS12VURnNklYaFNHZVVqaGRvWGR0aHVWYTQ?oc=5)
+  - 기사일: 2026-10-19
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [귀뚜라미문화재단, 무주군 중·고생 75명에 5천만원 전달 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43cXRrcXVDTUhUUUl6VmROalNWUkZsSTZ1OGYzbXNVc3ZtTzdZVmlsVEdsQXlIVElSQXBTa0Zyb1JCYlhhMTYtLXZVRGc2SVhoU0dlVWpoZG9YZHRodVZhNNIBYEFVX3lxTE43cXRrcXVDTUhUUUl6VmROalNWUkZsSTZ1OGYzbXNVc3ZtTzdZVmlsVEdsQXlIVElSQXBTa0Zyb1JCYlhhMTYtLXZVRGc2SVhoU0dlVWpoZG9YZHRodVZhNA?oc=5)
+  - 기사일: 2026-10-19
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(사회공헌 특집 (189)) “35년 나눔에서 인문학 CSR까지” 한국콜마…"ESG·재단 연계" - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE1MOGdRMEZlcm02T2ttUlVlcXZuMTRoZ0ZuUjZrR0JNR3BVRnIzMVVzTnRNR21iQ2xRd051RGxFSzQ1Z0pRZm04bUx3cVkyYUk4djZBOVRycmFDaGx1OU45TXdGZkhwYnRtUVdfRA?oc=5)
   - 기사일: 2026-10-19
   - 출처: 이코노미톡뉴스
@@ -76,9 +88,17 @@
   - 기사일: 2026-10-15
   - 출처: 디지틀조선일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 지원 - 디지틀조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUNpbmFfYmMzRjZBSWxNaDdPQktvNmkzMWlmYU9NM1ZQUUU0U052WUJlVVNEWGdZVnJsSnByTGpzRk5LVnIzTm5XSEY0RE1QbmJ1M0taRTdMQnF1VnlsRm92QkJrVldJWldFdlFhNllpRlVGTXNZdVdtbmFlUGRQMi1lbjEwM1XSAXtBVV95cUxQZzhURW54WlpWSktaQUduRkdGWG1nMTc1RGtiamxFNFRCVWJianBmRFVybE9uV09oOXAxU0tvaXFiUG41YlIwNnRuekVzcndMdHEtRE5fVUVlUmRqc3o4ZE1uOGtzdWRtQkhvaGNYM29UbWhyeGUxR2pMajg?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 디지틀조선일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5)
   - 기사일: 2026-10-15
   - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립...해외 한식당 경쟁력 지원 - 아시아에이](https://news.google.com/rss/articles/CBMiakFVX3lxTE4zVklySW55Q1RqelN2N1d3VzR4c1ExVlNDTEsyX21JSlh1czBUTzgxaU5hSHBneTFYYnBIRXF1YjZBUnkxblJ2YzNCdXRtbFlRWlZOUzlldV9Odk5rNnRvUWRRRUZzR0pTLWfSAW5BVV95cUxOOGs5UjFQWDNoTno5djBLZ2hodzNNQUgyRE9ZZkUwYVpzNDNDWUNSd3Z1VWdObjFnckJIOFBCVklhVjUxNDcwNDB0RnR6c2RlSFNKQmdINXRoMWZMV1BwLTQ2djdaa2xsMzg1bVlBZw?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 아시아에이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - ["K푸드 맛 알린다"…박진선 샘표 대표, '샘표 우리맛문화재단' 설립 - 아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUXU3UGtsLUZJd1lIM09Nbmc4VXZNbGNKM2RMUUdValAxZVFYTlBVU3owNUdNc0hmTHpKUkZWWC1HS2NtN3lLdDlGcFlTclV1OUs2NXFJME9kdGdpVzNuUQ?oc=5)
   - 기사일: 2026-10-15
@@ -283,6 +303,10 @@
 - [CJ문화재단, 사회공헌 20년… 향후 20년은 어떨까 - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5hYzA3WEZEYzhYblZrMzRBS3EwT2IxRmpQRkdVNHgzOU8ycmhNRHpoVG92Zzk0dDI3bmZrQy1SbWx4VUhwQXlCXzF3dHdyTU5Ta1lUaC1ULXd0WTBtaXVjaE1ZV0xUeDBzdU0wSg?oc=5)
   - 기사일: 2026-05-26
   - 출처: 이코노미톡뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [한국장학재단 대구청년창업센터 입주기업 ‘킁랩’, 국내 최초 향수 지속제 와디즈 통해 출시 - 한국대학신문](https://news.google.com/rss/articles/CBMiZkFVX3lxTE44c2k4dGlqWURvUGR4eUlyQk1ycDNBbVJCR3R6Yi16bEhxZFBEcDV3RVFKUGN3M1g3Q2ZJN1lpYlNyYlMwcGRfV0JVQkZ6SjJSMXlpbXEtUDhsdkdkVmN2NnBnRnpsdw?oc=5)
+  - 기사일: 2026-05-22
+  - 출처: 한국대학신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 기념 ‘리더스 토크’ 성료… 대중문화예술 생태계 지속가능성 논의 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiogJBVV95cUxPVkQwSlpVbC1UeGFJbUEzc2xIRkZDemVSdXBzWjNIZXZucWo4QlNNU2l6UVgzbGp2YURCcWl1Rzk0ZEN4eWQ4Wll1VzVOamxxNGZ4eGNvN1JRMkxsWXNSSXZjTl81c1R2VVNDbmxyLXlmQ19ubl9Ha0l0VnRnTlN5NV91Rnk2S1JGUFdfSXJNbV9rQkZ5bzJCSXJMUnlyLVhwLTFueGkyYVpaMG1KbUdVWTVOUnlfcUZmV2dpV0hjSDZIOVViQnB0YlQ0NWdYLS04YVhBSVdFR01EaGNCWjJHV3pjbk5wS0Z5V2Yxd09BZ1RBOVRvRTVlbnktaXgyaTA1cUlzMjdkZi02SzZsbVBMc2dVTGVFMmxiQVZjN0MybGt3UQ?oc=5)
   - 기사일: 2026-05-13
