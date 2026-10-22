@@ -1,0 +1,41 @@
+
+name: Career Radar Mail
+
+on:
+  workflow_run:
+    workflows:
+      - "Career Radar V2"
+    types:
+      - completed
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  send-mail:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 저장소 불러오기
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 네이버 이메일 발송
+        env:
+          NAVER_MAIL_USER: ${{ secrets.NAVER_MAIL_USER }}
+          NAVER_MAIL_PASSWORD: ${{ secrets.NAVER_MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python send_digest.py
