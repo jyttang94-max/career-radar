@@ -1,6 +1,46 @@
 {
-  "run_at": "2026-10-23T10:19:33.005530+09:00",
+  "run_at": "2026-10-24T10:28:16.190853+09:00",
   "leads": [
+    {
+      "id": "550340dd404e26d5a942",
+      "title": "한국생명과학고, (재)금복문화재단 장학금 수여식 개최 - 안동인터넷신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5INUY0RTVPdVp3bTVObUUwN09NcHVMcVNQTExrNW4tbmwtRzV6bDhsLTBoeE9qLVZsZEUyT2o5ZlFWVk5FUk5VVzM4b2xXNlVOeEllMFQ1dE1VOERGU0xZTUNtZmhnTXRNa2VCMEFB?oc=5",
+      "published": "2026-10-23T16:55:13+09:00",
+      "source": "안동인터넷신문",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "cc9b0068197340cc0d9e",
+      "title": "시흥시의회 이상훈 의원, 문화·관광 통합재단 설립 제안 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5N1h5WFN0SzNXNENVa09ja0N0VUphQVRoYUViYjQyM3pHV2g3d0dhNUc5YmdFMXF2bkxCNkVNZ1otZk1KTFdtc05KR3hXNk1tVHEwNmFBeGN0bkVTdV9GR3JhYWxPd0pGVTVlV0hrT2I?oc=5",
+      "published": "2026-10-23T16:23:16+09:00",
+      "source": "신아일보",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "8b8feb591add8ff13698",
+      "title": "고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 영남신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM0lUN0pwdFoySkdVdUFhTDJfVjRsZFAzaVM4TDBXQ3Z4NVRadjlKVllXa0RpVTBkSEc3RWxRVUlqVHNSUlBlTlFMeFBaanEtNHlxTHBEeVc1TWN0dHBRUXl3NXRrN3FkNERXZ193?oc=5",
+      "published": "2026-10-23T11:23:54+09:00",
+      "source": "영남신문",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "7c406d51daf960fab84d",
+      "title": "부채표 가송재단-대한약학회, 윤광열 약학공로상에 손의동 교수, 약학상에 조동규 교수 선정 - 바이오타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNmVQNzh3NWd0R1MyYm1tZnZZc0xDTHM5VS1pb2JsaUZrQmpKU20ySEt5amY3c0ZmM2g3TDNzRW5mZ0t0dDRlM1JueThvbmVTYlY4Skk5SzM4dTFGa2cwOG5tX1dhU0dxMXkxNw?oc=5",
+      "published": "2026-10-23T10:17:58+09:00",
+      "source": "바이오타임즈",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
     {
       "id": "c9a81636c2dd08847be4",
       "title": "고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 시사뉴스",
@@ -89,7 +129,7 @@
       "source": "핀포인트뉴스",
       "first_seen": "2026-10-22T10:20:49.835939+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "f27d9ec6e8398fd4ec87",
@@ -245,7 +285,7 @@
       "id": "233e622e5de7f92ad324",
       "title": "박진선 샘표 대표, 우리맛문화재단 설립 : 기업·산업 - 재경일보",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZR190elZqY2lJSlppUmJaaGIxZXdlVlZESl8zRDI0WUFnU3QtdUtRN2hhdVVBOHpNaVU0THNwZkU2SnNZWmc3UGczVQ?oc=5",
-      "published": "2026-10-15T20:00:00+09:00",
+      "published": "2026-10-15T20:00:54+09:00",
       "source": "재경일보",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
@@ -439,7 +479,7 @@
       "source": "핀포인트뉴스",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "d8c9639ebab73bcf5ccb",
@@ -639,7 +679,7 @@
       "source": "뉴시스",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "314dca96f653221dad95",
@@ -670,6 +710,16 @@
       "first_seen": "2026-10-22T10:20:49.835939+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "c110e043e4c85224319b",
+      "title": "SNT 최평규, 460억 주식 기부…운해재단 1,760억 '주가 모범' : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wUV96eXhEMWo0MVpGMHc5YWtHbk0tNThFQV96WXoySkhiajRMODNLN2cxa3BBMGZaRVhaWjZHUUFIWkxJbmFzd1h3aw?oc=5",
+      "published": "2026-09-30T16:00:00+09:00",
+      "source": "재경일보",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "9872e737a1bc66b8cf77",
@@ -820,6 +870,16 @@
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "1d996ae1d051b29cc19a",
+      "title": "적자 계열사까지…한미그룹, 가현재단에 5년간 240억 기부 - KPI뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WWlWNzVOMFJiWnRtekxtQVo3YS1hTEFkU2tqNXFodUtweVVUMzRsVWxyN1JJMGF1S1F6Q2xldlZ6TUFzdVAydXFUNm40MThWam1fTUx4dw?oc=5",
+      "published": "2026-09-07T16:00:00+09:00",
+      "source": "KPI뉴스",
+      "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "2d311c96f0e8e359fa15",

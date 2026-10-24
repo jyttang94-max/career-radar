@@ -1,9 +1,25 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-10-23T10:19:33.005530+09:00
+수집 시각: 2026-10-24T10:28:16.190853+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [한국생명과학고, (재)금복문화재단 장학금 수여식 개최 - 안동인터넷신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5INUY0RTVPdVp3bTVObUUwN09NcHVMcVNQTExrNW4tbmwtRzV6bDhsLTBoeE9qLVZsZEUyT2o5ZlFWVk5FUk5VVzM4b2xXNlVOeEllMFQ1dE1VOERGU0xZTUNtZmhnTXRNa2VCMEFB?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 안동인터넷신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [시흥시의회 이상훈 의원, 문화·관광 통합재단 설립 제안 - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTFB5N1h5WFN0SzNXNENVa09ja0N0VUphQVRoYUViYjQyM3pHV2g3d0dhNUc5YmdFMXF2bkxCNkVNZ1otZk1KTFdtc05KR3hXNk1tVHEwNmFBeGN0bkVTdV9GR3JhYWxPd0pGVTVlV0hrT2I?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 신아일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 영남신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM0lUN0pwdFoySkdVdUFhTDJfVjRsZFAzaVM4TDBXQ3Z4NVRadjlKVllXa0RpVTBkSEc3RWxRVUlqVHNSUlBlTlFMeFBaanEtNHlxTHBEeVc1TWN0dHBRUXl3NXRrN3FkNERXZ193?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 영남신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [부채표 가송재단-대한약학회, 윤광열 약학공로상에 손의동 교수, 약학상에 조동규 교수 선정 - 바이오타임즈](https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNmVQNzh3NWd0R1MyYm1tZnZZc0xDTHM5VS1pb2JsaUZrQmpKU20ySEt5amY3c0ZmM2g3TDNzRW5mZ0t0dDRlM1JueThvbmVTYlY4Skk5SzM4dTFGa2cwOG5tX1dhU0dxMXkxNw?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 바이오타임즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 시사뉴스](https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVFJDLXZIRG9pVkRNbk5NVS1PMXRDekQteUU4ZGJDMFQzRXNPalF2S2lyYU4tbC1sTjdNQngwYWZkMHBCOWltUXhXaHVVRzN3cHA4ZWlCZTMwQkxwX0dtNDh2WQ?oc=5)
   - 기사일: 2026-10-22
   - 출처: 시사뉴스
@@ -272,6 +288,10 @@
   - 기사일: 2026-09-30
   - 출처: 연합뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [SNT 최평규, 460억 주식 기부…운해재단 1,760억 '주가 모범' : 기업·산업 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wUV96eXhEMWo0MVpGMHc5YWtHbk0tNThFQV96WXoySkhiajRMODNLN2cxa3BBMGZaRVhaWjZHUUFIWkxJbmFzd1h3aw?oc=5)
+  - 기사일: 2026-09-30
+  - 출처: 재경일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [명인다문화장학재단, 2학기 대학 장학생 모집 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE9KcC1fbHlxVXFZaFNHT1JOY1BsRkdlVXZnU0g2YU1qVFg3V0VCUXA4b3o4SlBnbks3M2Z5UFlhV3cza2hSTXlmanMwUTlENDJMNjhTYmNwa252aE5ZTUZ3N2FEYVlLb3NPV0pn?oc=5)
   - 기사일: 2026-09-29
   - 출처: 히트뉴스
@@ -331,6 +351,10 @@
 - [계룡장학재단, 학생들의 꿈 응원하는 장학금 전달 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBId0lVbVJ2cnhBWXJacGc0dHZ4LVM4OW0xLThLVGFrNzhlMWRZZVkxVFlyTDRNalZHVzZPWG1VR2xabE1ubUtOUDZsSnQ3SFl0aGc3US05VVJsQQ?oc=5)
   - 기사일: 2026-09-08
   - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [적자 계열사까지…한미그룹, 가현재단에 5년간 240억 기부 - KPI뉴스](https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WWlWNzVOMFJiWnRtekxtQVo3YS1hTEFkU2tqNXFodUtweVVUMzRsVWxyN1JJMGF1S1F6Q2xldlZ6TUFzdVAydXFUNm40MThWam1fTUx4dw?oc=5)
+  - 기사일: 2026-09-07
+  - 출처: KPI뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(사회공헌 특집(178)) “30년 문화·장학의 향기” 동서식품…CSR·장학재단·오너 일가 사회적 헌신 - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTFBqYzhpckpvQnN3MXRKU0VuZjMyYmw4WGEwSXEtSDRTTFhHZ1cyOEN4N3JKdkdiMWJ2S0ZRTmhwOVI2RzRmSnEzUk9PdHZLZ2k0d0kxbVBZTWNtQ0E3RHVabmdnWXRTYlY1c3hWeg?oc=5)
   - 기사일: 2026-08-27
