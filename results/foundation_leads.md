@@ -1,12 +1,36 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-10-29T11:13:42.072049+09:00
+수집 시각: 2026-10-30T11:27:09.106702+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [정산장학재단, 고교생 52명에 장학금 1억 1600만 원 - 부산일보](https://news.google.com/rss/articles/CBMieEFVX3lxTE96SmtwZXNBTjR5OWVPN2pjZkp6djNlOVVWSUtoZkdNTWZJQ1dvQjhaOWEyOGdEUDBrT0pCWWVWeG1ZWllUdGZsX0s2ZWlnRWR0RnpiQnF3NkwyaDRuZE40aUhFRU5QYXVjeTdCeERacVA5Vm51Q3JCcQ?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 부산일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [정산장학재단, 경남 고교생 52명에 장학금 1억1천600만원 지원 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE41UmxZS0g5X3ktUjd6RGJNdGZ4dUUwVlBRLWlWZWtsLXNWRzBMY2p6emtxcVJSR2FOejZHX2d5QUp5VF9jajlFUHZraE9NTi03S0JjMmlQUnBLSm95U1RxctIBYEFVX3lxTE41UmxZS0g5X3ktUjd6RGJNdGZ4dUUwVlBRLWlWZWtsLXNWRzBMY2p6emtxcVJSR2FOejZHX2d5QUp5VF9jajlFUHZraE9NTi03S0JjMmlQUnBLSm95U1Rxcg?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [NH농협금융, 1000억 벤처모펀드·미소금융재단 신설…9276억 채권 소각 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzWFFXMFo2TW9YRUxaUEhUZmtxUzhKdGh6T3J1aWZUWG1UNEo4SjIzVk9QOUJxQnB4dnVWTV8ydUs2OFRKSDdRS0x1Z0Judw?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 전자신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [TKG태광 정산장학재단, 경남과학고·김해외고에 장학금 - 뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcVJpanVQLURUNFl2RGpqLXpTaEw1QzA2R1lrX1huY0gtbk1xZEZyUjJYNnlCTk5Xc2NQTWZqckVzSzJaSkpudEw3Ull4YjIxS0lLMl9zby1mX3RGQm5DT2JSU21NOGJZNzNTcnBJQ3NnUUFNQ0ZqM9IBeEFVX3lxTFBrcVJpanVQLURUNFl2RGpqLXpTaEw1QzA2R1lrX1huY0gtbk1xZEZyUjJYNnlCTk5Xc2NQTWZqckVzSzJaSkpudEw3Ull4YjIxS0lLMl9zby1mX3RGQm5DT2JSU21NOGJZNzNTcnBJQ3NnUUFNQ0ZqMw?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 뉴시스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(문화 트렌드) CJ문화재단, 설립 20주년 기념 ‘재즈위크’ 개최 外 - 베이비뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDFkMlpULVNmQkNjT1RyaG0yVmJUeUs3ekpacHhfWl95THFEYndQMWwwdW9OQ1JUS2lJNTN5c0UwOS1GVnpqRE81YnlnbWhRaTk4WFBrMEVpWlR3Vmx0U1hOdmt1bXlKTmJMUw?oc=5)
   - 기사일: 2026-10-29
   - 출처: 베이비뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [BNK경남은행, 인애복지재단 80주년 기념식서 감사패 수상 - 워크투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTFBzT05QTmR4TWRVaDdyTUlFQkh0VGZGelRBTWhQZXhYV2ROTlBjTVlEUk9WeWxhUEpQamdEMW85bUQ0UXZsVlBoN1Zpa0o1TWU0bUtXTW9KdEJsNGxrMjlobnNKWGNGZ2xGUkVUUA?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 워크투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [서울문화재단, 서울형 국제 공연예술 유통 플랫폼 신설해 해외 판로 개척 나선다 - 미디어데일](https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVms4NFR4ZDhRMDlnOUdnYjhVZWVPZ0VMQzBxQWNIbGJ4dDlhRDN2VVFCSk5rbmppRzg0VzM3bmlwVzRJd0gzYTVVWExRM1pmTnB6eXlfczltclRQNGNZWG50LXdDMTZWeHIw?oc=5)
+  - 기사일: 2026-10-29
+  - 출처: 미디어데일
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5)
   - 기사일: 2026-10-28
@@ -23,6 +47,10 @@
 - [CJ문화재단·재즈피플, 창립 20주년 맞아 재즈위크 개최…전 공연 무료 - 스마트경제](https://news.google.com/rss/articles/CBMib0FVX3lxTE9ydVFGV3MtcnZ3bGN0akxCc196eWhnU3ZNVS10TlhGeE9QaUxkM2Fvd2tZQnBXMm1hR096NFY3amtqbFo2eGZEdnFwMWtUcXc5RG00MUdRaDdyLXhGRVBOaXlXUy1lYV9oVE05bU1EOA?oc=5)
   - 기사일: 2026-10-28
   - 출처: 스마트경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [“재즈 8팀이 나흘간 무료 공연”…CJ문화재단, 창립 20주년 맞아 ‘재즈위크’ 개최 - 더게이트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KQ1RWaW85WjE4dTd0VTJIU3hkdFZzVlJvZUVrVlVJc0dweWp3bGVrM1p0YjhzWnB1T1F6Y05vLVdRR1hkc1ZCazhQQTR3Sko1bEJUQzRHOEVCbDBVTVg1cURMWV9pbmJL0gFsQVVfeXFMTnJySk1pc1kyMFhMeTdnbXQ0QWxLdUs2ZDV0NThSU3JOTVdock53bm1tdEkxQUZ6VWJKT0REUHVRMUlPSHdUalQ0TkJid2dQQzJKS243QlZyZm95TzZSTEdnYTdRRzNvUXgta25o?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 더게이트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단·퐁피두센터 한화, 설립 20주년 맞아 ‘재즈위크’ 개최·두번째 컬렉션 전시 ‘샤갈, 너머의 여정’ 진행 - 여성소비자신문](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPRTFyMHlBcFNFRTFZRFgxc2JSVUc0amJ0X0tIMWpZa0NsOWxRd1dsNldBTU5kT1VUazhKZlVfNk12bi1aM052b0FUTm9LM3pkSUY5OUY1LWstbWlkZFFBRXdoYVNudw?oc=5)
   - 기사일: 2026-10-28
@@ -91,6 +119,10 @@
 - [상주소식 - 귀뚜라미문화재단, 상주 학생 70명에 장학금 1억 원 전달 - 상주의소리](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ1FWOW9mcW5la29pUmJGMEozczdidXlaZVNUNVp1b3dicHJjb09wQmxyVXpiQW5QNTZSSGVIRkphaGdRbjFaWDJLNTU0dEwyV3V2U2NwOVg3dw?oc=5)
   - 기사일: 2026-10-23
   - 출처: 상주의소리
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 경쟁력 강화 본격화 - 뉴데일리 대구경북](https://news.google.com/rss/articles/CBMiekFVX3lxTE5JUXFtR1lqZXpWMGcxem9ESUxvYkhSbjZ1TXZCS2RGaEZYSHEtVmVKenRVY1JtUFl3bW40ME50d2dzWUF6cU85VklZZThGZzA0ZlBCWnVGZnV3aXo1OHBOMTY5SFBMdkJ0czNMY0pWN0RoalhjX01UaVhB0gF_QVVfeXFMTUl1cWtMdk9WX2ZOblAxZ3JzZ1BiQ2dXVy1ncWFuV1puTUxhdl9OaF9QLWdZOVV4cU1KQ04xRTFXWXBpbE9DZnlucFJFU2FyWmxCQmN4eHI3NWZ5UG9JNjRPUlIyOWp0b0p3bDRhNUZEVTUzaXNDN3M0SUxCNlAxYw?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 뉴데일리 대구경북
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [한국생명과학고, (재)금복문화재단 장학금 수여식 개최 - 안동인터넷신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5INUY0RTVPdVp3bTVObUUwN09NcHVMcVNQTExrNW4tbmwtRzV6bDhsLTBoeE9qLVZsZEUyT2o5ZlFWVk5FUk5VVzM4b2xXNlVOeEllMFQ1dE1VOERGU0xZTUNtZmhnTXRNa2VCMEFB?oc=5)
   - 기사일: 2026-10-23
@@ -864,6 +896,10 @@
   - 기사일: 2024-05-29
   - 출처: 매일신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(단독)통일교 재단 200억대 탈세 의혹…임직원 만든 신생업체에 기부금 134억 썼다 - 시사저널](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVVlHY1YxcEliZnViaUw3Zzdfa0RIVmlqY0cydUNwSENMR3hPcXE2YS1Rek5rc0RNeW9qNmVXcVB1bjRKM01BS1JXWFNwRVZFV0t6ZU1XZUdBa2U1NHNCZE42bUV5RE90NnpIMS11UdIBc0FVX3lxTE1PdWxzclFSSTVkZ254V0dSRkZqdHVVLTZBZlBtTHRJVHhoanBqaWloSE44c1pMWGR4SzN4VGlvYy1lZjFtZzJHczJjaFZ5OE5qUENORDBnX3RoWkh2b2xjMjNrMjZLOEFjdGJTb0l6cXlPcTQ?oc=5)
+  - 기사일: 2024-05-01
+  - 출처: 시사저널
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(오황택 두양문화재단 이사장) 빈 상자에 문화예술 가득 차는 그날까지 - 인천일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE9oWTVGdWU0MGMtb05rSXplaThzS1h3VnJCNG5USVZQQTdreDgwLXYwdkRDaHgxbnVkMGl1VXFsWnhWUjZONy1yMTdsYXVMXzFlSURpUzUtOUVYanAwYmwzLUJLNGV5NkM5SC1xczJvaFo?oc=5)
   - 기사일: 2024-03-06
   - 출처: 인천일보
@@ -872,12 +908,20 @@
   - 기사일: 2024-02-26
   - 출처: 한국의약통신
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT&G 장학재단, '발레 인재 발굴·육성' 장학사업 협약 - 뉴스드림](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RktUbHA1SWVxT2hKLUhHd09aYm41ZWRlMjVLRGlaUTFKNGV5eWVNMkJuenF3TzhBbmtueXVZYXhYLWg3aG9xTmV6R3hyVVV4T2ZHUHJuZF9fRnVuaGMxUTdxc2gxbTdB0gFsQVVfeXFMT2NmZ1lhN1ZlU3Y5ck1NTHFySEZUbENXaU9udVAxcXlQZU9lRnhuLXU4RW0zWmEzQ1dkTHBMbmZXdlNlWHUzczAwUVpEakFaWGJ4UXRmT2JyTENJZUotVndSNURHRWNhenczNzVZ?oc=5)
+  - 기사일: 2024-02-16
+  - 출처: 뉴스드림
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(기업) HD현대, 조선소 중대재해 유가족 위한 장학재단 설립 - YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VnkyZTNvT3dPZ0c5WVNaSGY4el8xM05keXhuaUlTVWtZcDdadFpGWFhQaHc1Ql9FcGNad1dQeGpWdHlzUHpRNWtkY01BYTc4TUgzcHF4MVgxeEJZN1E?oc=5)
   - 기사일: 2024-02-07
   - 출처: YTN
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - ['한미약품 경영권 분쟁 핵심' 가현문화재단 두고 공방 가열 - 마켓인](https://news.google.com/rss/articles/CBMickFVX3lxTE90UVdMRTZUb21fTEgyOEJzeW4wNTJBSWZZZG51cW82Z2dzQmZodUdiN2prdFZVMWZoVXdENlpnT0tfdVpiWXJLc0NwSXBpeVhaMHAwQUVOV2VLbFJibEdmRXNrNWN1ZW1Gbm90UGxqMmhVUQ?oc=5)
   - 기사일: 2024-01-31
+  - 출처: 마켓인
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [한미-OCI 합병에 등장한 가현문화재단…이번엔 배임 논란 - 마켓인](https://news.google.com/rss/articles/CBMickFVX3lxTE54N3pOeGQ0NTNxbWh5VXN2R19JVXl3NXA0UXhfaDFBX0ZkR1BVanQ1VkhVMXJ5c1B6ZnlNa0xnTTRtRGFlVVh1V2g4dkdmQm1KOU55cFV6SnN4a3NZUFNldUdYZ2hLWmZ4UXZVMkNVaThvUQ?oc=5)
+  - 기사일: 2024-01-29
   - 출처: 마켓인
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [단추로 번 600억으로 문화재단…“후세 영향 주니 남는 장사” - 중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SM3ZqYlFiYzBGY2RhUVpLRXZVV2RjbG56QW1BcFVidmpGS1JOZGgyblZ4Y25VRnM0ZFM4cVA0TU5zRG9GX0xsaEhnQzk0czBlbnI1WmRn?oc=5)
