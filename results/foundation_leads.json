@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-31T11:06:47.312491+09:00",
+  "run_at": "2026-11-01T10:58:02.497791+09:00",
   "leads": [
     {
       "id": "591a2de4c13eb5f95b34",
@@ -2522,6 +2522,27 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94+OR+%EC%B0%BD%EB%A6%BD%29+%28%EB%AC%B8%ED%99%94+OR+%EC%98%88%EC%88%A0+OR+%ED%95%99%EC%88%A0+OR+%EC%9E%A5%ED%95%99%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%8B%A0%EC%84%A4+%EC%9E%AC%EB%8B%A8+%28%EC%B1%84%EC%9A%A9+OR+%EC%82%AC%EB%AC%B4%EA%B5%AD+OR+%EC%A7%81%EC%9B%90%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "query": "기업 문화재단 (설립 OR 출범) when:3y",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "query": "기업 장학재단 (설립 OR 출범) when:3y",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "query": "샘표 우리맛문화재단 채용 when:30d",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%83%98%ED%91%9C+%EC%9A%B0%EB%A6%AC%EB%A7%9B%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%EC%B1%84%EC%9A%A9+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    }
+  ],
   "note": "신설·초기 기업재단 발굴 후보입니다. 실제 채용 공고가 아니며 기업재단 여부도 별도 확인해야 합니다. 공식 채용 출처를 확인한 뒤 sources.json에 등록합니다."
 }
