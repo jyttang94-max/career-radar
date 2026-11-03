@@ -1,6 +1,26 @@
 {
-  "run_at": "2026-11-02T11:10:55.986517+09:00",
+  "run_at": "2026-11-03T12:52:56.003185+09:00",
   "leads": [
+    {
+      "id": "3c86c7503288a9f0dec5",
+      "title": "반도문화재단, 설립 7주년 기념 홍시야 작가 특별전 개최 - 뉴스포스트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejBhTHVCeWQ3NC1qc2tfZ0lUbE1QYnhpLWp5MlhHLXM4VlpfS2Vmc19HaVEyX2VSQjVjNWFNMGtyOFhhYlBsVlFveTVfQ2RkSGVKRGluMkY3ODdrQ2JRWGZiZjdTNEdX?oc=5",
+      "published": "2026-11-03T12:03:48+09:00",
+      "source": "뉴스포스트",
+      "first_seen": "2026-11-03T12:52:56.003185+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "a6e1cfb52a0cef42fbda",
+      "title": "닥터세이프티, 달서인재육성장학재단에 후원금 전달 - OMATE 시니어",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbnE2QUw4OFZNVl9EQzhYem9OaWtzZ25CeUlPM1lkeC1nYk1QUHBYUmNNakc0QjdrWlJNT3lOMW0zNG5rcUtBbEh6b190cFcxV0JTeTM1NHZEdUZ3clVhZ3VLY08?oc=5",
+      "published": "2026-11-03T11:36:04+09:00",
+      "source": "OMATE 시니어",
+      "first_seen": "2026-11-03T12:52:56.003185+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
     {
       "id": "7f6e9122d9c5be62a4a9",
       "title": "귀뚜라미문화재단, 구미 중·고등학생 100명에 장학금 1억 원 전달 - 다경뉴스",
@@ -652,6 +672,16 @@
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "6aa9edf99424db3a8723",
+      "title": "롯데장학재단, 장애예술인 10명에 4000만원 지원…클래식·국악·무용 등 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYWtxYzZwMXdXMllfZTN3OHV0YkFKbk9QUnkwMTNyeWUxSldMdFZQbGJtRnUwajU1U295Sk1Jckd3eDlKZ1pDYzBram5nSlVVeGVYUUw1Ykx6WXlSSlA4?oc=5",
+      "published": "2026-10-21T16:00:00+09:00",
+      "source": "뉴스1",
+      "first_seen": "2026-11-03T12:52:56.003185+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
       "id": "95c672043d17a93f2901",
       "title": "한국장학재단·한국벤처캐피탈협회, 청년 창업기업 투자유치 지원 맞손 - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YazJIcDBFdEtmNmd0eVZaanM0Y3UwUWFCYXM4QTdlSUYwWFVjQ1JSQkV0dHRWSEpZQW51Nnl1bjY3MmE1QTI2WGhFODVWMWJkNWxDOUhobi1xdjNxa0NzNG9PRVhhZGhoZUVlUjYtWTNBbDjSAXdBVV95cUxNcE9vbUNwZ092cGFvX3BGVEwtZFJIZk5SMUpaMDFBWVB5YnFrM2hUR3U3aURhT3c5NHhFbVl4TVpvdEw0Tmw2bXZHSGY4MnJaYkdma0pPcDV0czJXekNPeWhEQkMtdEhNVFYyMnp5aUQzNVJkZzVWSQ?oc=5",
@@ -972,6 +1002,16 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "3f3ff6db5fbf0fa70e99",
+      "title": "박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5",
+      "published": "2026-10-15T16:00:00+09:00",
+      "source": "한국경제",
+      "first_seen": "2026-10-19T09:00:11.628656+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "30696db82dc4b8e64ee5",
       "title": "박진선 샘표 대표, ‘우리맛문화재단’ 설립…식문화 공익사업 나선다 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wWkVsTnFRM2VOal9yRGMxSWlBeXV5TnBrN2RnbE9qeFY0aGJNYndyYmptU1hERnY4NFFXUEFoV2pRbWIxd2VGU2N5b09hM2lMT3hsNDlQeUc0djRsNFRvMXl4Mks?oc=5",
@@ -1050,16 +1090,6 @@
       "first_seen": "2026-10-20T10:38:34.118464+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
-    },
-    {
-      "id": "3f3ff6db5fbf0fa70e99",
-      "title": "박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5",
-      "published": "2026-10-15T10:48:11+09:00",
-      "source": "한국경제",
-      "first_seen": "2026-10-19T09:00:11.628656+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "e3ae96be298693d4296b",
@@ -1518,6 +1548,16 @@
       "published": "2026-09-07T16:00:00+09:00",
       "source": "KPI뉴스",
       "first_seen": "2026-10-24T10:28:16.190853+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "564739d8792f971da2c7",
+      "title": "적자 계열사까지…한미그룹, 가현재단에 5년간 240억 기부 - KPI뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WWlWNzVOMFJiWnRtekxtQVo3YS1hTEFkU2tqNXFodUtweVVUMzRsVWxyN1JJMGF1S1F6Q2xldlZ6TUFzdVAydXFUNm40MThWam1fTUx4d9IBU0FVX3lxTE5uMi1TbXhhN3h0RVBJMFVWOTQxNEJDcTktazRhbk5UYjF2ZUQtNkJvWFR4R3JiY1BXMHU4VXVEYU9lTkF2UHFUSTNBNWdsUlFFN2xv?oc=5",
+      "published": "2026-09-07T16:00:00+09:00",
+      "source": "KPI뉴스",
+      "first_seen": "2026-11-03T12:52:56.003185+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },

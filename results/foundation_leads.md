@@ -1,9 +1,17 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-02T11:10:55.986517+09:00
+수집 시각: 2026-11-03T12:52:56.003185+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [반도문화재단, 설립 7주년 기념 홍시야 작가 특별전 개최 - 뉴스포스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ejBhTHVCeWQ3NC1qc2tfZ0lUbE1QYnhpLWp5MlhHLXM4VlpfS2Vmc19HaVEyX2VSQjVjNWFNMGtyOFhhYlBsVlFveTVfQ2RkSGVKRGluMkY3ODdrQ2JRWGZiZjdTNEdX?oc=5)
+  - 기사일: 2026-11-03
+  - 출처: 뉴스포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [닥터세이프티, 달서인재육성장학재단에 후원금 전달 - OMATE 시니어](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbnE2QUw4OFZNVl9EQzhYem9OaWtzZ25CeUlPM1lkeC1nYk1QUHBYUmNNakc0QjdrWlJNT3lOMW0zNG5rcUtBbEh6b190cFcxV0JTeTM1NHZEdUZ3clVhZ3VLY08?oc=5)
+  - 기사일: 2026-11-03
+  - 출처: OMATE 시니어
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [귀뚜라미문화재단, 구미 중·고등학생 100명에 장학금 1억 원 전달 - 다경뉴스](https://news.google.com/rss/articles/CBMiREFVX3lxTE9pVjZ6Wk5kUVNUQ2FlNFdyS2Y3b3F6anM1aGF1ODVDVlgzZzgzdTJRWGJhQk93Qkl2bzVPQW1aQ1dsc3Iy?oc=5)
   - 기사일: 2026-11-01
   - 출처: 다경뉴스
@@ -264,6 +272,10 @@
   - 기사일: 2026-10-21
   - 출처: 핀포인트뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [롯데장학재단, 장애예술인 10명에 4000만원 지원…클래식·국악·무용 등 - 뉴스1](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYWtxYzZwMXdXMllfZTN3OHV0YkFKbk9QUnkwMTNyeWUxSldMdFZQbGJtRnUwajU1U295Sk1Jckd3eDlKZ1pDYzBram5nSlVVeGVYUUw1Ykx6WXlSSlA4?oc=5)
+  - 기사일: 2026-10-21
+  - 출처: 뉴스1
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [한국장학재단·한국벤처캐피탈협회, 청년 창업기업 투자유치 지원 맞손 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE1YazJIcDBFdEtmNmd0eVZaanM0Y3UwUWFCYXM4QTdlSUYwWFVjQ1JSQkV0dHRWSEpZQW51Nnl1bjY3MmE1QTI2WGhFODVWMWJkNWxDOUhobi1xdjNxa0NzNG9PRVhhZGhoZUVlUjYtWTNBbDjSAXdBVV95cUxNcE9vbUNwZ092cGFvX3BGVEwtZFJIZk5SMUpaMDFBWVB5YnFrM2hUR3U3aURhT3c5NHhFbVl4TVpvdEw0Tmw2bXZHSGY4MnJaYkdma0pPcDV0czJXekNPeWhEQkMtdEhNVFYyMnp5aUQzNVJkZzVWSQ?oc=5)
   - 기사일: 2026-10-21
   - 출처: 핀포인트뉴스
@@ -392,6 +404,10 @@
   - 기사일: 2026-10-15
   - 출처: 뉴스투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5)
+  - 기사일: 2026-10-15
+  - 출처: 한국경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [박진선 샘표 대표, ‘우리맛문화재단’ 설립…식문화 공익사업 나선다 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wWkVsTnFRM2VOal9yRGMxSWlBeXV5TnBrN2RnbE9qeFY0aGJNYndyYmptU1hERnY4NFFXUEFoV2pRbWIxd2VGU2N5b09hM2lMT3hsNDlQeUc0djRsNFRvMXl4Mks?oc=5)
   - 기사일: 2026-10-15
   - 출처: 매일일보
@@ -423,10 +439,6 @@
 - [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 지원 - 디지틀조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUNpbmFfYmMzRjZBSWxNaDdPQktvNmkzMWlmYU9NM1ZQUUU0U052WUJlVVNEWGdZVnJsSnByTGpzRk5LVnIzTm5XSEY0RE1QbmJ1M0taRTdMQnF1VnlsRm92QkJrVldJWldFdlFhNllpRlVGTXNZdVdtbmFlUGRQMi1lbjEwM1XSAXtBVV95cUxQZzhURW54WlpWSktaQUduRkdGWG1nMTc1RGtiamxFNFRCVWJianBmRFVybE9uV09oOXAxU0tvaXFiUG41YlIwNnRuekVzcndMdHEtRE5fVUVlUmRqc3o4ZE1uOGtzdWRtQkhvaGNYM29UbWhyeGUxR2pMajg?oc=5)
   - 기사일: 2026-10-15
   - 출처: 디지틀조선일보
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [박진선 샘표 대표, ‘우리맛문화재단’ 설립…한식 세계화 나선다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNPNkRhTG5qUnJJYWdCdnBDVHM2X0V0MVVLV2xVa295NVZ3dWVwblc4ejVHQnF3SWwwdUcwSDJjVzg1NmFGd2RHWE9kb3NFTWxDRFMxWmxYQQ?oc=5)
-  - 기사일: 2026-10-15
-  - 출처: 한국경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [박진선 샘표 대표, ‘우리맛문화재단’ 설립...해외 한식당 경쟁력 지원 - 아시아에이](https://news.google.com/rss/articles/CBMiakFVX3lxTE4zVklySW55Q1RqelN2N1d3VzR4c1ExVlNDTEsyX21JSlh1czBUTzgxaU5hSHBneTFYYnBIRXF1YjZBUnkxblJ2YzNCdXRtbFlRWlZOUzlldV9Odk5rNnRvUWRRRUZzR0pTLWfSAW5BVV95cUxOOGs5UjFQWDNoTno5djBLZ2hodzNNQUgyRE9ZZkUwYVpzNDNDWUNSd3Z1VWdObjFnckJIOFBCVklhVjUxNDcwNDB0RnR6c2RlSFNKQmdINXRoMWZMV1BwLTQ2djdaa2xsMzg1bVlBZw?oc=5)
   - 기사일: 2026-10-15
@@ -609,6 +621,10 @@
   - 출처: 한국경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [적자 계열사까지…한미그룹, 가현재단에 5년간 240억 기부 - KPI뉴스](https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WWlWNzVOMFJiWnRtekxtQVo3YS1hTEFkU2tqNXFodUtweVVUMzRsVWxyN1JJMGF1S1F6Q2xldlZ6TUFzdVAydXFUNm40MThWam1fTUx4dw?oc=5)
+  - 기사일: 2026-09-07
+  - 출처: KPI뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [적자 계열사까지…한미그룹, 가현재단에 5년간 240억 기부 - KPI뉴스](https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WWlWNzVOMFJiWnRtekxtQVo3YS1hTEFkU2tqNXFodUtweVVUMzRsVWxyN1JJMGF1S1F6Q2xldlZ6TUFzdVAydXFUNm40MThWam1fTUx4d9IBU0FVX3lxTE5uMi1TbXhhN3h0RVBJMFVWOTQxNEJDcTktazRhbk5UYjF2ZUQtNkJvWFR4R3JiY1BXMHU4VXVEYU9lTkF2UHFUSTNBNWdsUlFFN2xv?oc=5)
   - 기사일: 2026-09-07
   - 출처: KPI뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
