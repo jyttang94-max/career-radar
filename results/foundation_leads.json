@@ -1,6 +1,36 @@
 {
-  "run_at": "2026-11-05T12:18:06.372793+09:00",
+  "run_at": "2026-11-06T12:17:01.442120+09:00",
   "leads": [
+    {
+      "id": "422a487605b5cb372e1e",
+      "title": "서울문화재단, 亞최초 아트앤테크 시상제 '서울 언폴드엑스 어워즈' 신설 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUVNQZUI5dUtINGZwdUJ1ZDFWQm1hOWtSSW5WRmtZRmk3RHl3b2sxVFBUS2ZwcWtqaXF5SUpybVd1bk5OXzJyTEhsQ0d0cUhSRjlNYTRENVg4Yllv?oc=5",
+      "published": "2026-11-05T15:35:00+09:00",
+      "source": "뉴스핌",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
+      "id": "759aabeb9f793d050b05",
+      "title": "49년 장애인 봉사·70억 장학재단…'나눔국민대상' 132명 포상 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Od1M3cVZ6UkdER2VJNnFWQnlFQm1nTlpOU2o3VzI3blNmTEJRSWxsUENHU2tIVFFrSUl3aG91ZHlkYW9tV05aRmFIb3UxYjNpRkRIN2hUby1leWF6WkZQc3ZyOVFDaDlRYzY2bnNDNTVZS2pFa1dibtIBeEFVX3lxTE9Od1M3cVZ6UkdER2VJNnFWQnlFQm1nTlpOU2o3VzI3blNmTEJRSWxsUENHU2tIVFFrSUl3aG91ZHlkYW9tV05aRmFIb3UxYjNpRkRIN2hUby1leWF6WkZQc3ZyOVFDaDlRYzY2bnNDNTVZS2pFa1dibg?oc=5",
+      "published": "2026-11-05T15:32:33+09:00",
+      "source": "뉴시스",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "f2eaae2fc71f0c5827a6",
+      "title": "기술이 빚은 미학 찾는다…서울문화재단 '서울 언폴드엑스 어워즈' 신설 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUm91WkFvVkRDRFI3OE4tQWZlUnNLNkhKQXZTZmhzTU9LeEtKTkJqUkl6MlA0S1Brc0Myc3BZajZyWng5UDFBWEo5SE5US2RRWHg4ajQ2QjVSZ1A4WmVvQTZHZEhpMjR0b1E?oc=5",
+      "published": "2026-11-05T09:25:31+09:00",
+      "source": "뉴스1",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
     {
       "id": "5c42f9dda1d53be45365",
       "title": "서울문화재단, 국제 아트앤테크 시상제 신설…총상금 3500만원·후보작 10점 공개 - 싱글리스트",
@@ -192,6 +222,16 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "569874b2b1f662d3058a",
+      "title": "[게시판] 반도문화재단 설립 7주년 특별 초대전 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52LWNHa2N2NF9sYVhsTkJrRGF5TEVDclhNTm95MWFZaE14ckNlLW5NLVdTSHJJZGhua3ZXMlRDTmNHNU9xVHFhRHYyZ3FBTXhaRHNXVlRCNTk2WXfSAWBBVV95cUxOdWxXcl9jTi0zc3RxTmJUTXlDSHJyVHhrX2xLcVNuZDBzREI3b1pLWTU2eDczWFVDUV96UVowT3RscnNmcVN2bGNIb05PYXJwLWdERkNwaEd6UVYyc0tTYUU?oc=5",
+      "published": "2026-11-03T10:59:10+09:00",
+      "source": "연합뉴스",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "f2eac1a67e14dc7c06c0",
       "title": "반도건설, 반도문화재단 설립 7주년… ‘집’ 주제 기념전 연다 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yODJ1VlVxOFd5ZjlYektmcWF3YlM5VERvemxCYnVjenlYU1J5YVR6S0p6WG5DaDA0LUd4WUJLUG9CakRIdUJueVhwRkhaMTI0SDJLaGNPbzQ2dnpjMUdvS2hKZ2E?oc=5",
@@ -199,7 +239,7 @@
       "source": "매일일보",
       "first_seen": "2026-11-04T11:56:45.941349+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "f3eb41399eb317bfce81",
@@ -209,7 +249,17 @@
       "source": "뉴스밸류",
       "first_seen": "2026-11-04T11:56:45.941349+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "e7bfdca5bb2285c8a2ea",
+      "title": "세종시문화관광재단, 창립 10주년 기념 아카이브전 개최 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5LTIyMFdiOHNCdzh1bXowMGZkNkdXWldEb1lXOGFHRzhRV3U5ZGNGXzdqMXNINndoTTMzYTM3Ym5rTjc1NzVmMFdJMGl3cnlqZVZ2WUZHY3Fnb3F5MjVKb0hOVkJZVS00QzVTZm1R?oc=5",
+      "published": "2026-11-03T09:34:52+09:00",
+      "source": "국제뉴스",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "7f6e9122d9c5be62a4a9",
@@ -462,6 +512,26 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "628bcf1a3bc9256cfd9f",
+      "title": "복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vk9FaTlhSE1oT3FrZXU1TVVFR18ydUlIVDNLQmVUeHV2T3I4OFdVT21CTWxCeS12OC1QMnJFMTdqd3ZTYXZPTGJ0QmlQOEY4UXpnekZ1ODFfMlNyY3lNaTA2d1hmdVRLYUHSAW9BVV95cUxQNFNZWXp1RlAtYVZGZzYzQ3NVX2hCWHotUFlBajdlTHQwa1ZJcUdpOFcyNFJmanJEWUE2X1MxMDFvUC1oUXZPVlhsS29FTm51SnFLSW9LZkxERXFUeEJvRUNISmFLd2hGdVR1QzlHMGc?oc=5",
+      "published": "2026-10-28T16:00:00+09:00",
+      "source": "머니투데이",
+      "first_seen": "2026-11-05T12:18:06.372793+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
+      "id": "a8bdc83d704352c76e2d",
+      "title": "도라에몽 장학재단은 형편이 어려운 학생들에게 490개의 장학금을 수여했습니다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEdOOWY1cGc3elpwRmNSWDgyZkRWRUNla0pQMXBLRjhET01HWWdmYnJWMWs0ZndfeG9xM2p2WU42SExNSDBYQmZXUmw5MmoxVW1uZzg2VTNjWE80dXhKdWFxVV9qQ1Q1clBXaUE1WnBldmxWSmxvUWFtbVhJT2FFUE92ZXRPcWdxZjRtVHRqVTBRcUtRT0pn?oc=5",
+      "published": "2026-10-28T16:00:00+09:00",
+      "source": "Vietnam.vn",
+      "first_seen": "2026-11-06T12:17:01.442120+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
       "id": "ca9033868fd7726a3f06",
       "title": "CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5",
@@ -498,16 +568,6 @@
       "published": "2026-10-28T12:00:00+09:00",
       "source": "머니투데이",
       "first_seen": "2026-11-02T11:10:55.986517+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
-    },
-    {
-      "id": "628bcf1a3bc9256cfd9f",
-      "title": "복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vk9FaTlhSE1oT3FrZXU1TVVFR18ydUlIVDNLQmVUeHV2T3I4OFdVT21CTWxCeS12OC1QMnJFMTdqd3ZTYXZPTGJ0QmlQOEY4UXpnekZ1ODFfMlNyY3lNaTA2d1hmdVRLYUHSAW9BVV95cUxQNFNZWXp1RlAtYVZGZzYzQ3NVX2hCWHotUFlBajdlTHQwa1ZJcUdpOFcyNFJmanJEWUE2X1MxMDFvUC1oUXZPVlhsS29FTm51SnFLSW9LZkxERXFUeEJvRUNISmFLd2hGdVR1QzlHMGc?oc=5",
-      "published": "2026-10-28T12:00:00+09:00",
-      "source": "머니투데이",
-      "first_seen": "2026-11-05T12:18:06.372793+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
@@ -889,7 +949,7 @@
       "source": "경남신문",
       "first_seen": "2026-10-23T10:19:33.005530+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "db09626ec42492de9c03",

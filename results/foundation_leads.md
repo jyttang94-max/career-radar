@@ -1,9 +1,21 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-05T12:18:06.372793+09:00
+수집 시각: 2026-11-06T12:17:01.442120+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [서울문화재단, 亞최초 아트앤테크 시상제 '서울 언폴드엑스 어워즈' 신설 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUVNQZUI5dUtINGZwdUJ1ZDFWQm1hOWtSSW5WRmtZRmk3RHl3b2sxVFBUS2ZwcWtqaXF5SUpybVd1bk5OXzJyTEhsQ0d0cUhSRjlNYTRENVg4Yllv?oc=5)
+  - 기사일: 2026-11-05
+  - 출처: 뉴스핌
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [49년 장애인 봉사·70억 장학재단…'나눔국민대상' 132명 포상 - 뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTE9Od1M3cVZ6UkdER2VJNnFWQnlFQm1nTlpOU2o3VzI3blNmTEJRSWxsUENHU2tIVFFrSUl3aG91ZHlkYW9tV05aRmFIb3UxYjNpRkRIN2hUby1leWF6WkZQc3ZyOVFDaDlRYzY2bnNDNTVZS2pFa1dibtIBeEFVX3lxTE9Od1M3cVZ6UkdER2VJNnFWQnlFQm1nTlpOU2o3VzI3blNmTEJRSWxsUENHU2tIVFFrSUl3aG91ZHlkYW9tV05aRmFIb3UxYjNpRkRIN2hUby1leWF6WkZQc3ZyOVFDaDlRYzY2bnNDNTVZS2pFa1dibg?oc=5)
+  - 기사일: 2026-11-05
+  - 출처: 뉴시스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [기술이 빚은 미학 찾는다…서울문화재단 '서울 언폴드엑스 어워즈' 신설 - 뉴스1](https://news.google.com/rss/articles/CBMiakFVX3lxTE9EUm91WkFvVkRDRFI3OE4tQWZlUnNLNkhKQXZTZmhzTU9LeEtKTkJqUkl6MlA0S1Brc0Myc3BZajZyWng5UDFBWEo5SE5US2RRWHg4ajQ2QjVSZ1A4WmVvQTZHZEhpMjR0b1E?oc=5)
+  - 기사일: 2026-11-05
+  - 출처: 뉴스1
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [서울문화재단, 국제 아트앤테크 시상제 신설…총상금 3500만원·후보작 10점 공개 - 싱글리스트](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GY01kVGJHeXVnbHF5NnNPanNaXzJwYWZIM25QZGVFVGlTZ3pBWHRoZzJqNGhyd1AtOXJUV190VWxycTkyQ0lMY0l2MkdERkhQVkNwdXJYckRCNFN4VHB1VjhnamxiZw?oc=5)
   - 기사일: 2026-11-05
   - 출처: 싱글리스트
@@ -80,6 +92,10 @@
   - 기사일: 2026-11-03
   - 출처: 매일경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(게시판) 반도문화재단 설립 7주년 특별 초대전 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52LWNHa2N2NF9sYVhsTkJrRGF5TEVDclhNTm95MWFZaE14ckNlLW5NLVdTSHJJZGhua3ZXMlRDTmNHNU9xVHFhRHYyZ3FBTXhaRHNXVlRCNTk2WXfSAWBBVV95cUxOdWxXcl9jTi0zc3RxTmJUTXlDSHJyVHhrX2xLcVNuZDBzREI3b1pLWTU2eDczWFVDUV96UVowT3RscnNmcVN2bGNIb05PYXJwLWdERkNwaEd6UVYyc0tTYUU?oc=5)
+  - 기사일: 2026-11-03
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [반도건설, 반도문화재단 설립 7주년… ‘집’ 주제 기념전 연다 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yODJ1VlVxOFd5ZjlYektmcWF3YlM5VERvemxCYnVjenlYU1J5YVR6S0p6WG5DaDA0LUd4WUJLUG9CakRIdUJueVhwRkhaMTI0SDJLaGNPbzQ2dnpjMUdvS2hKZ2E?oc=5)
   - 기사일: 2026-11-03
   - 출처: 매일일보
@@ -87,6 +103,10 @@
 - [(심층분석) 건설사의 사회공헌, 주거 공급 넘어 지역 문화 인프라로…반도문화재단 7년의 과제 - 뉴스밸류](https://news.google.com/rss/articles/CBMiakFVX3lxTE56bUxjbmhOY2dsVlNQWDFKRzRoUjBMTjFlMmlaOWM5TmJVOHRqcWRub1dsb0dvVV9SdGRFSVFYa3JVYm5XRDJSOHU1d1JEVVNYc1I1alpuNUpIbzdBVDJCekhfV3JVaEZFQ2c?oc=5)
   - 기사일: 2026-11-03
   - 출처: 뉴스밸류
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [세종시문화관광재단, 창립 10주년 기념 아카이브전 개최 - 국제뉴스](https://news.google.com/rss/articles/CBMibkFVX3lxTFA5LTIyMFdiOHNCdzh1bXowMGZkNkdXWldEb1lXOGFHRzhRV3U5ZGNGXzdqMXNINndoTTMzYTM3Ym5rTjc1NzVmMFdJMGl3cnlqZVZ2WUZHY3Fnb3F5MjVKb0hOVkJZVS00QzVTZm1R?oc=5)
+  - 기사일: 2026-11-03
+  - 출처: 국제뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [귀뚜라미문화재단, 구미 중·고등학생 100명에 장학금 1억 원 전달 - 다경뉴스](https://news.google.com/rss/articles/CBMiREFVX3lxTE9pVjZ6Wk5kUVNUQ2FlNFdyS2Y3b3F6anM1aGF1ODVDVlgzZzgzdTJRWGJhQk93Qkl2bzVPQW1aQ1dsc3Iy?oc=5)
   - 기사일: 2026-11-01
@@ -188,6 +208,14 @@
   - 기사일: 2026-10-28
   - 출처: 뉴스포스트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vk9FaTlhSE1oT3FrZXU1TVVFR18ydUlIVDNLQmVUeHV2T3I4OFdVT21CTWxCeS12OC1QMnJFMTdqd3ZTYXZPTGJ0QmlQOEY4UXpnekZ1ODFfMlNyY3lNaTA2d1hmdVRLYUHSAW9BVV95cUxQNFNZWXp1RlAtYVZGZzYzQ3NVX2hCWHotUFlBajdlTHQwa1ZJcUdpOFcyNFJmanJEWUE2X1MxMDFvUC1oUXZPVlhsS29FTm51SnFLSW9LZkxERXFUeEJvRUNISmFLd2hGdVR1QzlHMGc?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 머니투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [도라에몽 장학재단은 형편이 어려운 학생들에게 490개의 장학금을 수여했습니다. - Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxObEdOOWY1cGc3elpwRmNSWDgyZkRWRUNla0pQMXBLRjhET01HWWdmYnJWMWs0ZndfeG9xM2p2WU42SExNSDBYQmZXUmw5MmoxVW1uZzg2VTNjWE80dXhKdWFxVV9qQ1Q1clBXaUE1WnBldmxWSmxvUWFtbVhJT2FFUE92ZXRPcWdxZjRtVHRqVTBRcUtRT0pn?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: Vietnam.vn
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5)
   - 기사일: 2026-10-28
   - 출처: 핀테크경제신문
@@ -201,10 +229,6 @@
   - 출처: 머니투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FNG8yaFhhMWwyeFVDd3hfckpNMVJjdzcwNHlaWDZLaE53WHYyTTZzMEo1ZGpSVmI4NkVtbHA1QlpXdUd0R3l1TEFwdnd2VWRmaWpxc1NzN3dGTmwtN0dncTFBeGc3TllJNmFrbU1xOVR0WEtTVHNr0gF8QVVfeXFMTXNZR3h5MTh2UzBOaFdwYlJjR3RrVjcxZ2tFT1IwVk16aHBZUi16dzVkSEpiSFVoa2hYQmZRSlI4YmE1VmtNaWFWRFdNRlh1VkFidHZ2MWtsVEJDSWFTOGxoQUN5OUplMUV5bkdUWWZ4b01XSmxfWUZlYmhiSg?oc=5)
-  - 기사일: 2026-10-28
-  - 출처: 머니투데이
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vk9FaTlhSE1oT3FrZXU1TVVFR18ydUlIVDNLQmVUeHV2T3I4OFdVT21CTWxCeS12OC1QMnJFMTdqd3ZTYXZPTGJ0QmlQOEY4UXpnekZ1ODFfMlNyY3lNaTA2d1hmdVRLYUHSAW9BVV95cUxQNFNZWXp1RlAtYVZGZzYzQ3NVX2hCWHotUFlBajdlTHQwa1ZJcUdpOFcyNFJmanJEWUE2X1MxMDFvUC1oUXZPVlhsS29FTm51SnFLSW9LZkxERXFUeEJvRUNISmFLd2hGdVR1QzlHMGc?oc=5)
   - 기사일: 2026-10-28
   - 출처: 머니투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
