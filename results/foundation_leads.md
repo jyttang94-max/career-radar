@@ -1,6 +1,6 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-06T12:17:01.442120+09:00
+수집 시각: 2026-11-07T11:36:23.416819+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
@@ -216,6 +216,14 @@
   - 기사일: 2026-10-28
   - 출처: Vietnam.vn
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [진흥원 기능 확대·첨단의료재단 통합…바이오헬스 지원체계 재편 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMXRZWHpJZFpFZm1BR3BFYTdtNTg0SnM0N3FfdVJsVU9ESGpNWW00WUpRTVpId0ZudzJuclptLXNwT1hGeDdCN3l1UUxFVGpnVUFNbTRzYnp6WHhIOE9WeVkyTjhzQmxoQ1pN?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 히트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최… 스무 살 동갑내기 재즈피플과 펼치는 재즈의 향연 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMioAJBVV95cUxNSDFNTER2UlJJTlJLOG80czBhcGtDV0haTC12MXJaUEJ3cmxNWHBJRDMyWlg3TklPYm1sV0VuSTVuaTc0dkNCTEN6VGdMR0E0STN2UjVZTTkyNFlCQjRKQ0ZhVEJCRm5OcThxZHlvUTBIemtVOHJTYTBmTVVnQzRjbDNpTmx6ZnFqNjJqOEMwZDBQaUo0LXo4MmI0dHpBZ0hMWnkwLUhnZFpmM09pc3dUMk41QzZ6TXFjUVJBNjFoeDNPeUdCQ2RXUlJmYlZDdVg1enk2UE9pZjZva2U1Q19kMlpjVzNicjJoZWQxT1J4eFJWdE9YeGZFRDI3Smd1SENjTW5Cek96aTJZQl9DRUIxS0FUaW9ONU81RmhnTGdGTG4?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5)
   - 기사일: 2026-10-28
   - 출처: 핀테크경제신문
@@ -284,13 +292,13 @@
   - 기사일: 2026-10-26
   - 출처: 로컬투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [진흥원 기능 확대·첨단의료재단 통합…바이오헬스 지원체계 재편 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMXRZWHpJZFpFZm1BR3BFYTdtNTg0SnM0N3FfdVJsVU9ESGpNWW00WUpRTVpId0ZudzJuclptLXNwT1hGeDdCN3l1UUxFVGpnVUFNbTRzYnp6WHhIOE9WeVkyTjhzQmxoQ1pN?oc=5)
-  - 기사일: 2026-10-26
-  - 출처: 히트뉴스
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [국제약품 '효림장학재단', 관내 고등·대학생 장학금 4000만원 전달 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBjUzRPeDBhdTNGUWFTOFBRTjVtMmpjY0pnZFMwT1o1Q0lZbGp0aF94YmtXRVNaVzd2UEJ4VGdQSzMyejBySk5rcjRDX0FTNVJFMGtFeTROcWdwc1pqVldQR25UaF9vR2lkTmlv?oc=5)
   - 기사일: 2026-10-26
   - 출처: 히트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [“예술은 어떻게 사회를 바꾸는가”...저스피스재단 오희영 대표가 전한 나눔과 연대의 이야기 - 소셜임팩트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE5tcFJkS2M0NXpwSmI5ekJuZG5EUE5CcUdCb29wWXM4a0hGbjhYbkZiT0Z0b2otVjRVcFhRVWxmWVBVdnQ4ZkV3amlYSG5sSHB6dDZTZENkNkpBR2F4Q2gwbHJxcDUtejlSVDNndEUzZjFJVlXSAXdBVV95cUxPOEk2S2RkNE9ZaTVYZVVOT2swcDNINF9QbnpBbXZzOUVCNDVVb1BEbkg4QlNJQ3dJT21pMC1Sc0p2VXhaZmtqYU1kVERUSEpuTEhTc09Od0NxUlJvNDRsQWE2Y3djTi04X0Z0c0JtSzhsZkdNY2Fkcw?oc=5)
+  - 기사일: 2026-10-26
+  - 출처: 소셜임팩트뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [고령문화관광재단, 창립 1주년 지역 문화관광 발전 새로운 도약 다짐 - 서울일보](https://news.google.com/rss/articles/CBMia0FVX3lxTE53d1JfSjktOElNRTBwV1U5MkpfUTJoOUF1U0ktV2dwRTlyN0ZYQkVsWUFmdzE3UFljOV8waENaSzdnMUJWVEU0V1FrSFlMLV85WTgwRlN2QnZfZmplY0tWelMyd2RRdVJjTjJF0gFvQVVfeXFMTVpLVGpEZjItZmtqeV9JZ1RYQ2FvZE9iZFotWTZLVFhjbzFWN05mNGRud3IyNzVlaDJzYTkyWDFaZ21NTHZTekNlSlVkWHkyeUJjV3dlRzdobDBlRkhsU2EyeWIzS1QtRUoxM1U1TlBr?oc=5)
   - 기사일: 2026-10-26
@@ -315,10 +323,6 @@
 - [(ESG 한발 더) 연구 지원부터 해양환경 정화까지…기업·재단의 사회적 가치 실현 - 뉴스투데이](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vTm1wZDM0a2lIcUY1YkRHN1J3OHNpbHQ3SDlja19GRDJFUGFBRGQ2dVdIYmlKNW1jeFJ5eHljcXBRUnZUWHZSSTJuR1BTejVJQndCNXcwcnhEVE9HQ3c?oc=5)
   - 기사일: 2026-10-26
   - 출처: 뉴스투데이
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [“예술은 어떻게 사회를 바꾸는가”...저스피스재단 오희영 대표가 전한 나눔과 연대의 이야기 - 소셜임팩트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE5tcFJkS2M0NXpwSmI5ekJuZG5EUE5CcUdCb29wWXM4a0hGbjhYbkZiT0Z0b2otVjRVcFhRVWxmWVBVdnQ4ZkV3amlYSG5sSHB6dDZTZENkNkpBR2F4Q2gwbHJxcDUtejlSVDNndEUzZjFJVlXSAXdBVV95cUxPOEk2S2RkNE9ZaTVYZVVOT2swcDNINF9QbnpBbXZzOUVCNDVVb1BEbkg4QlNJQ3dJT21pMC1Sc0p2VXhaZmtqYU1kVERUSEpuTEhTc09Od0NxUlJvNDRsQWE2Y3djTi04X0Z0c0JtSzhsZkdNY2Fkcw?oc=5)
-  - 기사일: 2026-10-26
-  - 출처: 소셜임팩트뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 동방일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE1yRlJzNS1GMElQRXpRandfX194RHBWNDBtQmEzR3A4WXJ1RjZCeC0tblc5MExoZ1dLSkwzTm13SU9SZXFqQVRNdGZlcWdMYlpUemFMOGNKOHlfWl9mSnk4VVZyZjQ2THRpOWt2bE1RRFdQcHM?oc=5)
   - 기사일: 2026-10-25
@@ -348,13 +352,13 @@
   - 기사일: 2026-10-23
   - 출처: 신아일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 영남신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM0lUN0pwdFoySkdVdUFhTDJfVjRsZFAzaVM4TDBXQ3Z4NVRadjlKVllXa0RpVTBkSEc3RWxRVUlqVHNSUlBlTlFMeFBaanEtNHlxTHBEeVc1TWN0dHBRUXl3NXRrN3FkNERXZ193?oc=5)
-  - 기사일: 2026-10-23
-  - 출처: 영남신문
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [부채표 가송재단-대한약학회, 윤광열 약학공로상에 손의동 교수, 약학상에 조동규 교수 선정 - 바이오타임즈](https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNmVQNzh3NWd0R1MyYm1tZnZZc0xDTHM5VS1pb2JsaUZrQmpKU20ySEt5amY3c0ZmM2g3TDNzRW5mZ0t0dDRlM1JueThvbmVTYlY4Skk5SzM4dTFGa2cwOG5tX1dhU0dxMXkxNw?oc=5)
   - 기사일: 2026-10-23
   - 출처: 바이오타임즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 영남신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM0lUN0pwdFoySkdVdUFhTDJfVjRsZFAzaVM4TDBXQ3Z4NVRadjlKVllXa0RpVTBkSEc3RWxRVUlqVHNSUlBlTlFMeFBaanEtNHlxTHBEeVc1TWN0dHBRUXl3NXRrN3FkNERXZ193?oc=5)
+  - 기사일: 2026-10-23
+  - 출처: 영남신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [고령문화관광재단, 창립 1주년 맞아 지역 문화관광 발전의 새로운 도약 다짐 - 시사뉴스](https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVFJDLXZIRG9pVkRNbk5NVS1PMXRDekQteUU4ZGJDMFQzRXNPalF2S2lyYU4tbC1sTjdNQngwYWZkMHBCOWltUXhXaHVVRzN3cHA4ZWlCZTMwQkxwX0dtNDh2WQ?oc=5)
   - 기사일: 2026-10-22
