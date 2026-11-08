@@ -1,6 +1,6 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-07T11:36:23.416819+09:00
+수집 시각: 2026-11-08T11:06:44.098821+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
@@ -47,6 +47,10 @@
 - [오금란 서울시의원 “120다산콜재단, 반복되는 직원 처우 불만… 실질적 보상체계 마련해야” - 서울신문](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhYzZfVUowSTdSUk1qaXJYbk9HbndfWjlEemlDMXVzS2pWb1Vkc3l4dkE3QmxvdFpnVWhDNjlxeTRSSUpnOHFjRGs4eGtXR0ZJWldj?oc=5)
   - 기사일: 2026-11-04
   - 출처: 서울신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [오금란 시의원 "120다산콜재단 내부 직원 목소리부터 귀 기울여야" - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdmoyeWRWN3RSVEdZNUtZWjhvVzBNdHhHQjlEN3o5WHVWTVdQSUtYNGcyZF9WSnFNRGp6amQxUDdvM2FIb3RTbER5U3BBTFVhNEdvbXI0SlBrNXEw?oc=5)
+  - 기사일: 2026-11-04
+  - 출처: 뉴스핌
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최... 스무 살 동갑내기 재즈피플과 펼치는 재즈의 향연 - 뉴스에이](https://news.google.com/rss/articles/CBMiakFVX3lxTFBUckwwWkw2RC1teEFJT2JqaHhWaFVDdmdLTGdFSzI0VTA2VWlOeS1PVkZiSnc2MWkwOWhJb3UwNHl5U094amQxaEtUQXpIOE1wVXdnRjcyelRBQ2k4VGk4N0lpeWw0ZnZaQmc?oc=5)
   - 기사일: 2026-11-03
@@ -224,6 +228,10 @@
   - 기사일: 2026-10-28
   - 출처: CJ 뉴스룸
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 기념 재즈위크 개최 - 금융신문](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyajZxbEhzSlJkSHkxZ1hOd0NrZUtjal84SF9jeUotZVdzWENjSDVYYUlEYU9CMEJBOVZXU1FCV2JKU1RYSU4xZ2M2bWdjQkJsd3BrZXhZeWcycjBNNzlDY09vbDNTN2VPMzdKTWo0cjZzdGVUUl9xakpWZm0?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 금융신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5)
   - 기사일: 2026-10-28
   - 출처: 핀테크경제신문
@@ -284,13 +292,13 @@
   - 기사일: 2026-10-27
   - 출처: 경상일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [국제약품 "효림장학재단, 학생 44명에 장학금 4000만원 지원" - 아시아타임즈](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NeEtNSG5NUjEwRVVjTjZmSXNtUTc4VXhUUUZkOGlRSWFuaHBJYjZ2WEtpcEh1WEVkNS1HbGFrcU1oQUs3ZG0zdFVhaXhFc091R0hpcjI3d0FxR2JUSUE?oc=5)
-  - 기사일: 2026-10-26
-  - 출처: 아시아타임즈
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [HD현대1%나눔재단, 나눔문화 확산 대통령 표창 - 로컬투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1jNGJwaWh5SDRpNHNvUE9QRzdubU1yM2V5UnBFbHZGcTNRSDJJR1RDT2JnbEhYTUQzak5Ua2xKUTdlclJiZ1JlN19lbnh5alZUcWRwMVB4RWV5a0RXR196MFJ1NkxjcUFSY1JvMGxickI?oc=5)
   - 기사일: 2026-10-26
   - 출처: 로컬투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [국제약품 "효림장학재단, 학생 44명에 장학금 4000만원 지원" - 아시아타임즈](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NeEtNSG5NUjEwRVVjTjZmSXNtUTc4VXhUUUZkOGlRSWFuaHBJYjZ2WEtpcEh1WEVkNS1HbGFrcU1oQUs3ZG0zdFVhaXhFc091R0hpcjI3d0FxR2JUSUE?oc=5)
+  - 기사일: 2026-10-26
+  - 출처: 아시아타임즈
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [국제약품 '효림장학재단', 관내 고등·대학생 장학금 4000만원 전달 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBjUzRPeDBhdTNGUWFTOFBRTjVtMmpjY0pnZFMwT1o1Q0lZbGp0aF94YmtXRVNaVzd2UEJ4VGdQSzMyejBySk5rcjRDX0FTNVJFMGtFeTROcWdwc1pqVldQR25UaF9vR2lkTmlv?oc=5)
   - 기사일: 2026-10-26
@@ -368,6 +376,10 @@
   - 기사일: 2026-10-22
   - 출처: 브레이크뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [STX장학·복지재단, 20년간 나눔·상생 이어왔다 - 경남신문](https://news.google.com/rss/articles/CBMia0FVX3lxTFAwOUkyWDBCUEVybDNUc25LSXpKZ1YtU3VQakNmN0w1aERSQ0Q4M2p0QjhiNHVxektWVEF6anhITnA5cVFUN2R5dkRZOEQ0R1I1LURCcF9Id2J2T3dCM0ZnOE1XZGwtUHV0aHpZ?oc=5)
+  - 기사일: 2026-10-22
+  - 출처: 경남신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [씨킴문화재단, 제주 예술인재 육성 장학금 2000만원 전달 - 대전일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE85X3diWGJ1azMzZnBKQ0Y2eGhmMkU0V2c0TFpNU0JrTXEwb08zcjZPakJmUkJJLVgtM2xtUElMTC1OdkpXWmJfTHpEOUZtaHBrZHlqamxuMWt4NTBGVTd4V1FFVW01OEQtWV9fWTJXa9IBc0FVX3lxTE9zeWZhWVF0UTNjVHZJSU5FaWs5NF83NURJcmdISVUwSUFEb1FHaU5QRWZGdTBsU3FPNDJZRW5RU2hMbUhpWDJzVHZ5S1RVQXlSZWNKQTJ3b3BaYnBNbzd1RUJWNjV0bjJpRTNTLWt2Wl9wVFU?oc=5)
   - 기사일: 2026-10-22
   - 출처: 대전일보
@@ -381,10 +393,6 @@
   - 출처: 핀포인트뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [STX장학·복지재단, 20년간 나눔·상생 이어왔다 - 경남신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE9RbTNva25jbjV1Sk9rdm8xVEJQLWhUZlJoenRNZXdJUTd1OHl6OUFJMmhFQUhBTXN4QlJTMkpmQjJ1cFNVVzcwN2FsMDZYVmRtdzZ2WnB4WXRvdzhuSXVQLXVlT0dPVlN0Umc?oc=5)
-  - 기사일: 2026-10-22
-  - 출처: 경남신문
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [STX장학·복지재단, 20년간 나눔·상생 이어왔다 - 경남신문](https://news.google.com/rss/articles/CBMia0FVX3lxTFAwOUkyWDBCUEVybDNUc25LSXpKZ1YtU3VQakNmN0w1aERSQ0Q4M2p0QjhiNHVxektWVEF6anhITnA5cVFUN2R5dkRZOEQ0R1I1LURCcF9Id2J2T3dCM0ZnOE1XZGwtUHV0aHpZ?oc=5)
   - 기사일: 2026-10-22
   - 출처: 경남신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
