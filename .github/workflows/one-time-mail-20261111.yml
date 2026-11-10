@@ -1,0 +1,49 @@
+name: Career Radar one-time verified mail 20261111
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/one-time-mail-20261111.yml']
+permissions:
+  contents: read
+concurrency:
+  group: career-radar-one-time-mail-20261111
+  cancel-in-progress: false
+jobs:
+  send:
+    if: github.run_attempt == 1
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send verified test digest
+        env:
+          NAVER_MAIL_USER: ${{ secrets.NAVER_MAIL_USER }}
+          NAVER_MAIL_PASSWORD: ${{ secrets.NAVER_MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          python - <<'PY'
+          import os,json,ssl,smtplib,html
+          from datetime import datetime,timezone,timedelta
+          from email.message import EmailMessage
+          from email.utils import getaddresses
+          jobs=json.loads("[[\"가톨릭대학교 성신교정\",\"일반행정\",\"정규직 공고: 최초 1년 시용 후 평가로 정규직 임용 결정\",\"서울 종로구\",\"2026-11-29 23:59\",\"학사 이상. 영어, 교정과 교열 및 편집 업무 가능자 우대. 대학 동종 업무 경력 인정.\",\"https://stt.catholic.ac.kr/ko/songsin-community/Job-posting.do?article.offset=0&articleLimit=16&articleNo=54974&mode=view\"],[\"중앙대학교 산학협력단\",\"연구행정(구매)\",\"한시계약직: 1년 단위, 최대 2년\",\"서울캠퍼스\",\"2026-11-15 23:00\",\"초임 연봉 3,181만원 수준, 경력 인정 가능. 세부 지원자격은 첨부 공고문 확인 필요.\",\"https://iacf.cau.ac.kr/service/notice/view/11346\"],[\"서울과학기술대학교 산학협력단\",\"행정원보 1명\",\"고용형태와 지원자격은 첨부 HWP 확인 필요\",\"서울 노원구 소재 기관, 실제 배치 확인 필요\",\"2026-11-15 18:00\",\"공식 본문에서 모집 직급과 접수기간 확인. 정규직 여부와 상세 조건은 미확인.\",\"https://www.seoultech.ac.kr/service/info/recruit/?bidx=897493&bnum=3601&cate=&do=commonview&nowpage=1&profboardidx=&searchtext=&searchtype=\"],[\"성신여자대학교\",\"교학팀 일반행정\",\"계약직 1년\",\"수정캠퍼스 / 운정캠퍼스 해당 교학팀\",\"2026-11-20 16:00\",\"학사 이상, 대학 행정 경험 우대. 연봉 2,600만원. 12월 임용 예정으로 2027년 3월 이직 목표와 일정 조율 필요. 공석에 따라 평가하는 상시모집.\",\"https://www.sungshin.ac.kr/main_kor/11117/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbWFpbl9rb3IlMkYzMjA3JTJGMTYxNDUwJTJGYXJ0Y2xWaWV3LmRvJTNG\"]]")
+          now=datetime.now(timezone(timedelta(hours=9)))
+          assert now.date().isoformat()=='2026-11-11', 'One-time mail expired'
+          user=os.environ['NAVER_MAIL_USER'].strip()
+          recipients=[a for _,a in getaddresses([os.environ['MAIL_TO']]) if a]
+          assert recipients, 'No configured recipients'
+          esc=lambda s:html.escape(str(s),quote=True)
+          body='<h1>CAREER RADAR</h1><p>'+esc(now.strftime('%Y-%m-%d %H:%M KST'))+' 검증용 수동 발송</p><p>공식 원문에서 확인한 4건입니다. 전체 자동 수집 결과가 아니며, 신규 게시 공고만으로 구성한 목록도 아닙니다. 세부 조건 미확인 사항은 각 카드에 표시했습니다. 정기 메일은 화요일과 목요일입니다.</p>'
+          for institution,role,employment,location,deadline,note,url in jobs:
+           body+='<div style="border-bottom:1px solid #ddd;padding:18px 0"><h2>'+esc(institution)+' / '+esc(role)+'</h2><p>고용형태: '+esc(employment)+'<br>근무지: '+esc(location)+'<br>마감: '+esc(deadline)+'</p><p>'+esc(note)+'</p><a href="'+esc(url)+'">공식 공고 보기</a></div>'
+          msg=EmailMessage();msg['Subject']='[Career Radar] 11월 11일 원문 확인 공고 4건 | 발송 테스트';msg['From']=user;msg['To']=', '.join(recipients)
+          msg.set_content('오늘 원문 확인한 공고 4건의 수동 검증 메일입니다.\n'+'\n'.join(x[0]+' / '+x[1]+' / '+x[4]+'\n'+x[6] for x in jobs))
+          msg.add_alternative('<html><body style="font-family:Arial,sans-serif;max-width:680px;margin:auto;padding:24px">'+body+'</body></html>',subtype='html')
+          with smtplib.SMTP_SSL('smtp.naver.com',465,context=ssl.create_default_context(),timeout=30) as smtp:
+           smtp.login(user,os.environ['NAVER_MAIL_PASSWORD'])
+           refused=smtp.send_message(msg)
+           if refused:raise RuntimeError('Some recipients refused')
+          print('SMTP_ACCEPTED jobs=4 recipients='+str(len(recipients)))
+          PY
