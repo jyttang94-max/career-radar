@@ -1,0 +1,49 @@
+name: Career Radar supplemental discoveries 20261111
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/supplement-mail-20261111.yml']
+permissions:
+  contents: read
+concurrency:
+  group: career-radar-supplement-mail-20261111
+  cancel-in-progress: false
+jobs:
+  send:
+    if: github.run_attempt == 1
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send verified test digest
+        env:
+          NAVER_MAIL_USER: ${{ secrets.NAVER_MAIL_USER }}
+          NAVER_MAIL_PASSWORD: ${{ secrets.NAVER_MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          python - <<'PY'
+          import os,json,ssl,smtplib,html
+          from datetime import datetime,timezone,timedelta
+          from email.message import EmailMessage
+          from email.utils import getaddresses
+          jobs=json.loads("[[\"숭실대학교\",\"일반직(행정) 신입직원\",\"고용형태 세부 조건은 첨부 PDF 확인 필요\",\"서울 동작구\",\"2026-11-15 17:00\",\"11월 3일 공식 공고. 행정 분야와 접수기간 확인. 필수 어학요건 및 임용조건은 첨부 미확인으로 지원 가능성 확정 전.\",\"https://scatch.ssu.ac.kr/공지사항/?category=&f=&keyword=2차&slug=2026-2차-숭실대학교-신입직원-채용공고\"],[\"서울아산병원\",\"국책과제 연구행정 / 과제관리, 예산, 경영지원\",\"계약직 1년\",\"서울 송파구\",\"2026-11-25 23:59\",\"채용 플랫폼 게시 원문 확인. 경력 1년 이상. 연구비 및 과제관리 경력과 연결. 병원 본부 직접 고용인지 과제 단위 고용인지 추가 확인 필요. 학력무관, 엑셀과 회계 활용 우대.\",\"https://m.saramin.co.kr/job-search/view?rec_idx=55387845\"],[\"스마트제조혁신협회\",\"정부지원사업관리 / 기획운영관리 / 총무\",\"계약직 2년\",\"서울 서초구\",\"2026-11-29\",\"잡코리아 게시 원문 확인. 경력과 학력 무관. 정부지원사업 운영 경력과 연결 가능. 세부 급여와 임용일은 확인 필요.\",\"https://www.jobkorea.co.kr/Recruit/GI_Read/50272395\"],[\"서울특별시120다산콜재단\",\"홍보 6급 상당 / 경영지원 6급 상당\",\"기간제, 경영지원 일부는 육아휴직 대체\",\"서울 동대문구\",\"2026-11-16 17:00\",\"채용 플랫폼 게시 공고 전문 확인. 해당 6급 분야는 학력 및 경력 제한 없음. 행사기획, ESG, MOU 또는 인사운영 업무. 12월 14일 임용 예정으로 현 계약 종료일과 일정 조율 필요.\",\"https://job.career.co.kr/recruit/view/22203733\"]]")
+          now=datetime.now(timezone(timedelta(hours=9)))
+          assert now.date().isoformat()=='2026-11-11', 'One-time mail expired'
+          user=os.environ['NAVER_MAIL_USER'].strip()
+          recipients=[a for _,a in getaddresses([os.environ['MAIL_TO']]) if a]
+          assert recipients, 'No configured recipients'
+          esc=lambda s:html.escape(str(s),quote=True)
+          body='<h1>CAREER RADAR</h1><p>'+esc(now.strftime('%Y-%m-%d %H:%M KST'))+' 추가 발굴 공고</p><p>학교 공식 공고와 채용 플랫폼 게시 원문에서 추가 확인한 4건입니다. 전체 자동 수집 결과가 아니며, 신규 게시 공고만으로 구성한 목록도 아닙니다. 세부 조건 미확인 사항은 각 카드에 표시했습니다. 정기 메일은 화요일과 목요일입니다.</p>'
+          for institution,role,employment,location,deadline,note,url in jobs:
+           body+='<div style="border-bottom:1px solid #ddd;padding:18px 0"><h2>'+esc(institution)+' / '+esc(role)+'</h2><p>고용형태: '+esc(employment)+'<br>근무지: '+esc(location)+'<br>마감: '+esc(deadline)+'</p><p>'+esc(note)+'</p><a href="'+esc(url)+'">공식 공고 보기</a></div>'
+          msg=EmailMessage();msg['Subject']='[Career Radar] 11월 11일 추가 발굴 공고 4건';msg['From']=user;msg['To']=', '.join(recipients)
+          msg.set_content('새로 발굴한 공고 4건입니다. 조건 미확인 사항과 임용일 제약을 각 항목에 표시했습니다.\n'+'\n'.join(x[0]+' / '+x[1]+' / '+x[4]+'\n'+x[6] for x in jobs))
+          msg.add_alternative('<html><body style="font-family:Arial,sans-serif;max-width:680px;margin:auto;padding:24px">'+body+'</body></html>',subtype='html')
+          with smtplib.SMTP_SSL('smtp.naver.com',465,context=ssl.create_default_context(),timeout=30) as smtp:
+           smtp.login(user,os.environ['NAVER_MAIL_PASSWORD'])
+           refused=smtp.send_message(msg)
+           if refused:raise RuntimeError('Some recipients refused')
+          print('SMTP_ACCEPTED jobs=4 recipients='+str(len(recipients)))
+          PY
