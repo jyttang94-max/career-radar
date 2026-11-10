@@ -1,5 +1,6 @@
 
 import os
+import hashlib
 import json
 import ssl
 import smtplib
@@ -41,7 +42,18 @@ def load_jobs():
     if age.total_seconds() < -300 or age > timedelta(hours=4):
         raise RuntimeError("수집 결과가 최신이 아닙니다. 발송을 중단합니다.")
 
-    return data.get("jobs", [])
+    jobs = {}
+    for previous in sorted(Path("results").glob("????-??-??.json")):
+        if previous.stem < (TODAY - timedelta(days=7)).isoformat():
+            continue
+        payload = json.loads(previous.read_text(encoding="utf-8"))
+        for job in payload.get("jobs", []):
+            if job.get("url"):
+                jobs[job["url"]] = job
+    for job in data.get("jobs", []):
+        if job.get("url"):
+            jobs[job["url"]] = job
+    return list(jobs.values())
 
 
 def classify(job):
@@ -137,15 +149,9 @@ def build_html(jobs):
         </h2>
         """
 
-        for job in items[:limits[group]]:
+        for job in items:
             body += job_html(job)
 
-        if len(items) > limits[group]:
-            body += (
-                '<p style="font-size:12px;color:#777">'
-                f"이외 {len(items) - limits[group]}건은 생략했습니다."
-                "</p>"
-            )
 
     if not body:
         body = "<p>오늘 발송 기준에 해당하는 공고가 없습니다.</p>"
@@ -173,6 +179,9 @@ def build_html(jobs):
 
 
 def main():
+    if TODAY.weekday() not in (1, 3):
+        print("COLLECT_ONLY: mail runs Tuesday and Thursday KST")
+        return
     username = os.environ["NAVER_MAIL_USER"].strip()
     password = os.environ["NAVER_MAIL_PASSWORD"]
     raw_recipients = os.environ["MAIL_TO"]
@@ -186,7 +195,14 @@ def main():
     if not recipients:
         raise RuntimeError("MAIL_TO 수신 주소가 없습니다.")
 
-    jobs = load_jobs()
+    ledger = Path("data/mail_sent.json")
+    sent = json.loads(ledger.read_text()) if ledger.exists() else {}
+    def job_key(job):
+        return hashlib.sha256((job["url"] + "|" + str(job.get("deadline") or "")).encode()).hexdigest()
+    jobs = [job for job in load_jobs() if classify(job) and job_key(job) not in sent]
+    if not jobs:
+        print("NO_UNSENT_JOBS")
+        return
     html = build_html(jobs)
 
     message = EmailMessage()
@@ -205,6 +221,10 @@ def main():
         smtp.login(username, password)
         smtp.send_message(message)
 
+    for job in jobs:
+        sent[job_key(job)] = TODAY.isoformat()
+    ledger.parent.mkdir(exist_ok=True)
+    ledger.write_text(json.dumps(sent, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"이메일 발송 완료: 수신자 {len(recipients)}명")
 
 
