@@ -1,25 +1,59 @@
 {
-  "run_at": "2026-11-12T12:40:02.383697+09:00",
+  "run_at": "2026-11-13T12:15:09.896091+09:00",
   "jobs": [
     {
-      "id": "f13949dc927a9e2aa345",
-      "institution": "미등록 기관: 원문 확인",
-      "category": "판교·기흥·지정기업 후보",
-      "title": "Who Is Aishah Sofey? All About The Influencer Turned Streamer’s Career ...",
-      "url": "https://sports.ndtv.com/us/us-streamers/who-is-aishah-sofey-all-about-the-influencer-turned-streamer-s-career-and-bop-house-career-amid-tiktok-and-instagram-retirement-12297348",
-      "published": null,
+      "id": "d35ef10ffe52f536b68e",
+      "institution": "대산문화재단",
+      "category": "기업재단",
+      "title": "시립청소년문화교류센터 기획운영팀 직원 채용 공고",
+      "url": "https://www.daesan.or.kr/news.html?Table=ins_bbs18&cate_code=&mode=view&page=1&section=&uid=34",
+      "published": "2025-11-10",
       "deadline": null,
-      "role_group": "기타·직무 확인 필요",
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
       "status": "확인 필요",
-      "employment": "미확인",
+      "employment": "확인 필요",
       "employment_evidence": "",
       "location_evidence": "",
-      "requirements_evidence": "",
       "reasons": [
-        "검색 결과만 확보, 원문 접근 실패: HTTPError: 403 Client Error: Forbidden for url: https://sports.ndtv.com/us/us-streamers/who-is-aishah-sofey-all-about-the-influencer-turned-streamer-s-career-and-bop-house-career-amid-tiktok-and-instagram-retirement-12297348"
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
-      "query": "판교 정규직 채용 인사 총무",
-      "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "attachments": [
+        "https://www.daesan.or.kr/bbs/download.php?Table=ins_bbs18&file_micro=2025%EB%85%84+%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81%ED%8C%80+%EC%A7%81%EC%9B%90+%EC%B1%84%EC%9A%A9+%EA%B3%B5%EA%B3%A0%EB%AC%B8.hwp&file_name=2025%EB%85%84+%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81%ED%8C%80+%EC%A7%81%EC%9B%90+%EC%B1%84%EC%9A%A9+%EA%B3%B5%EA%B3%A0%EB%AC%B8.hwp",
+        "https://www.daesan.or.kr/bbs/download.php?Table=ins_bbs18&file_micro=%EC%9D%91%EC%8B%9C%EC%9B%90%EC%84%9C%28%EC%A7%80%EC%A0%95%EC%96%91%EC%8B%9D%29.hwp&file_name=%EC%9D%91%EC%8B%9C%EC%9B%90%EC%84%9C%28%EC%A7%80%EC%A0%95%EC%96%91%EC%8B%9D%29.hwp"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "2f47a25a92f8a514d903",
+      "institution": "대산문화재단",
+      "category": "기업재단",
+      "title": "[미지센터] 시립청소년문화교류센터 사업팀 계약직 채용 공고",
+      "url": "https://www.daesan.or.kr/news.html?Table=ins_bbs18&cate_code=&mode=view&page=1&section=&uid=30",
+      "published": "2025-02-20",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "이해교육 사업\n다\n.\n청소년 참여보급 사업\n라\n.\n기타 업무 지원\n3.\n응시자격\n구분\n자격기준\n공통\n가\n.\n지역\n,\n성별 제한 없음\n나\n.\n정년\n(\n만\n60\n세\n)\n을 초과하지 않는 자\n다\n.\n청소년과 청소년 문화교류에 관한 이해를 갖춘 자\n라\n.\n지방공무원",
+      "duties_evidence": "시립청소년문화교류센터 소장\n1.\n채용인원\n:\n사업팀 계약직\n1\n명\n2.\n담당 업무\n구분\n채용분야\n채용인원\n업무내용\n계약직\n사업팀\n1\n명\n가\n.\n문화다양성 사업\n나\n.\n국제이해교육 사업\n다\n.\n청소년 참여보급 사업\n라\n.\n기타 업무 지원\n3.\n응시자격\n구분\n자격",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "격증 소지자\n다\n.\n업무관련 경험자\n라\n.\n영어 및 외국어 능통자\n4.\n고용형태 및 근무조건\n가\n. 4\n대 보험 가입\n나\n.\n월\n~\n금\n/\n주\n40\n시간\n, 1\n일\n8\n시간 근무\n(\n휴게시간 포함\n)\n다\n.\n평일\n/\n주말 당직 및 근무 시 시간외 수당 및 대",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://www.daesan.or.kr/bbs/download.php?Table=ins_bbs18&file_micro=%EC%8B%9C%EB%A6%BD%EC%B2%AD%EC%86%8C%EB%85%84%EB%AC%B8%ED%99%94%EA%B5%90%EB%A5%98%EC%84%BC%ED%84%B0+%EC%82%AC%EC%97%85%ED%8C%80+%EA%B3%84%EC%95%BD%EC%A7%81+%EC%B1%84%EC%9A%A9+%EA%B3%B5%EA%B3%A0.pdf&file_name=%EC%8B%9C%EB%A6%BD%EC%B2%AD%EC%86%8C%EB%85%84%EB%AC%B8%ED%99%94%EA%B5%90%EB%A5%98%EC%84%BC%ED%84%B0+%EC%82%AC%EC%97%85%ED%8C%80+%EA%B3%84%EC%95%BD%EC%A7%81+%EC%B1%84%EC%9A%A9+%EA%B3%B5%EA%B3%A0.pdf",
+        "https://www.daesan.or.kr/bbs/download.php?Table=ins_bbs18&file_micro=%EC%9D%91%EC%8B%9C%EC%9B%90%EC%84%9C%28%EC%A7%80%EC%A0%95%EC%96%91%EC%8B%9D%29_.hwp&file_name=%EC%9D%91%EC%8B%9C%EC%9B%90%EC%84%9C%28%EC%A7%80%EC%A0%95%EC%96%91%EC%8B%9D%29_.hwp"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
@@ -146,6 +180,30 @@
       "change": "기존"
     },
     {
+      "id": "9ffdf0049bd053e73ed2",
+      "institution": "샘표 우리맛문화재단",
+      "category": "기업재단",
+      "title": "[채용공고] 샘표 우리맛문화재단 사무국 직원 모집 (10/8~10/25) 2026.10.08",
+      "url": "https://sempiofoundation.org/news/view?id=12",
+      "published": "2026-10-08",
+      "deadline": "2026-10-25",
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "마감",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 추가 검증 필요"
+      ],
+      "attachments": [],
+      "first_seen": "2026-10-19T09:00:13.900220+09:00",
+      "change": "기존"
+    },
+    {
       "id": "8af6cedccc5ca6e10340",
       "institution": "포스코청암재단",
       "category": "기업재단",
@@ -171,30 +229,6 @@
         "https://www.postf.org/NXFUNCTION/download?name=%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%B2%AD%EC%95%94%EC%9E%AC%EB%8B%A8%EA%B3%84%EC%95%BD%EC%A7%81%EC%82%AC%EC%9B%90%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%282025%29.docx&url=%2Fuploads%2Fboard%2F%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%B2%AD%EC%95%94%EC%9E%AC%EB%8B%A8_%EA%B3%84%EC%95%BD%EC%A7%81_%EC%82%AC%EC%9B%90_%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%282025%29.docx"
       ],
       "first_seen": "2026-11-04T11:56:48.426179+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "9ffdf0049bd053e73ed2",
-      "institution": "샘표 우리맛문화재단",
-      "category": "기업재단",
-      "title": "[채용공고] 샘표 우리맛문화재단 사무국 직원 모집 (10/8~10/25) 2026.10.08",
-      "url": "https://sempiofoundation.org/news/view?id=12",
-      "published": "2026-10-08",
-      "deadline": "2026-10-25",
-      "role_group": "우선 직무",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 추가 검증 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-10-19T09:00:13.900220+09:00",
       "change": "기존"
     },
     {
@@ -279,13 +313,13 @@
       "title": "채용공고 Notice",
       "url": "https://hyumc-cms.recruiter.co.kr/app/jobnotice/list",
       "published": null,
-      "deadline": "2026-11-09",
+      "deadline": "2026-11-12",
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "",
       "duties_evidence": "",
       "status": "마감",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "보 | 한양대학교병원(서울)\n채용정보 > 채용공고\n전체\n기간제직\n간호사\n정규직\n계약직\n임시직\n전공의\n임시직\n보험심사팀 간호사 (임시직)\n2026.11.11(수) 18:00 ~ 2026.11.24(화) 23:59\nD-12\n접수중\n임시직\n진단검사의학과 수혈관리",
+      "employment_evidence": "보 | 한양대학교병원(서울)\n채용정보 > 채용공고\n전체\n기간제직\n간호사\n정규직\n계약직\n임시직\n전공의\n정규직\n간호국 서무원 (간호간병통합서비스병동) (정규직)\n2026.11.12(목) 18:00 ~ 2026.11.25(수) 23:59\nD-12\n접수중\n정규직",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -294,7 +328,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-10-19T13:35:10.842613+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "27e178b2402596160d90",
@@ -475,32 +509,6 @@
       "change": "기존"
     },
     {
-      "id": "a649064cdfc69417fc18",
-      "institution": "분당서울대학교병원",
-      "category": "대학병원",
-      "title": "26년 11월 신입(업무지원직) 직원 채용 공고",
-      "url": "https://snubh.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271977&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-20",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "면접전형 합격자에 한해 실시\n※ 전형단계별 합격자에 한하여 다음 단계 응시자격 부여\n※ 면접전형 시 시행하는 실무평가는 면접전형의 참고자료로만 활용함\n※ 신체검사 미응시자,부적격자 또는 관계법령에 의한 조회(성범죄 등) 부적격자는 합격취소,임용취소 또는\n근",
-      "duties_evidence": "1\n개 이상 소지자\n1.\n환경기능사\n2.\n수질환경산업기사 이상\n※\n미화 직무 분야에 한하여 타 직무와 중복 지원 가능\n(\n미화 채용 공고 및 접수\n:\nhttps://snubh.recruiter.co.kr/app/jobnotice/view?systemKin",
-      "status": "확인 필요",
-      "employment": "정규직",
-      "employment_evidence": "인사관리 상 지원직무 외 타 직무에서 근무할 수 있음\n※ 업무지원직은 정규직으로 3개월간의 수습기간을 두며, 1차 평가 점수 60점 이상인 경우 수습기간이 종료되고, 미달한 경우 추가 2개월간(총 5개월간)의 수습기간을 거쳐 2차 평가결과 60점 이상은",
-      "location_evidence": "근무지\n>",
-      "reasons": [
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "https://snubh.recruiter.co.kr/mrs2/attachFile/downloadFile?fileUid=87906709-378b-4aef-b853-b67f3c54c68e.pdf"
-      ],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
-    },
-    {
       "id": "57bff4690856c0a20ec7",
       "institution": "분당서울대학교병원",
       "category": "대학병원",
@@ -517,7 +525,6 @@
       "location_evidence": "",
       "reasons": [
         "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
         "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
       "attachments": [
@@ -543,7 +550,6 @@
       "location_evidence": "",
       "reasons": [
         "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
         "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
       "attachments": [
@@ -656,198 +662,6 @@
       "change": "기존"
     },
     {
-      "id": "5458bc1a53fa1ff9387c",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "채용공고 입사지원하실 분야를 확인하세요",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/list",
-      "published": null,
-      "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-10-19T09:00:13.900220+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "9c655cb717f8f151d4ac",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[상시 채용-신촌] 기능원(계약직:간호조무사) 간호간병통합서비스병동 2026년 상시 모집안내",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=268798&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2027-02-28",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "27.02.28(일) 23:59\nD-108\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n지망구분(근무부서)\n모집인원\n응시자격\n기능원 : 간호조무사\n(계약직)\n세브란스병원 및 연세암병원\n입원간호팀\n(간호간병통합서비스병동)\n상시모집\n[필수]\n고등학교 이상 학력",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "상자 : 장애인확인서(기타 서류 미인정)\n-\n경력사항 기재방법 안내\n① 정규직, 계약직, 인턴\n: \"경력사항\"에 기재\n※ 상기\n경력사항에 대해서는 경력증명서/건강보험자격득실확인서로 증명이 가능해야 함\n② 단순 아르바이트·자원봉사\n·실습\n·근로학생 등 :\n자",
-      "location_evidence": "근무처(병원) 기입시",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-10-19T09:00:13.900220+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "d8cf68a2bb0518e1fbf5",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[일반-용인]사회사업팀 사회복지사(계약직) 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271609&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-17",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "2026.11.17(화) 23:59\nD-5\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n모집인원\n응시자격\n사회사업팀\n사회복지사\n(계약직)\n1명\n[\n필수사항\n]\n-\n대학교(원) 관련학과 졸업자\n- 의료사회복지사 자격증 소지자\n-\n남성의 경우\n,\n병역필 또는",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무처 기입시",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-06T12:17:03.193563+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "48f103ff2e4b47f33c46",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[일반-용인] 행정교육팀 수술진료지원파트(외과부) 정규직 간호사 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271603&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-17",
-      "role_group": "우선 직무",
-      "requirements_evidence": "2026.11.17(화) 23:59\nD-5\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n부문 및 모집인원\n응시자격\n행정교육팀\n수술진료지원파트\n(외과부 수술실)\n정규직 간호사\n(1명)\n[필수사항]\n- 대학(교) 관련학과(간호) 졸업자\n- 간호사 면허 소지자",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "정규직",
-      "employment_evidence": "채용공고 내용\n공고명\n[일반-용인] 행정교육팀 수술진료지원파트(외과부) 정규직 간호사 신규채용 26.11\n접수기간\n2026.11.06(금) 00:00\n                     ~\n                    2026.11.17(화) 23",
-      "location_evidence": "근무처 기입시",
-      "reasons": [
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-06T12:17:03.193563+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "2ba83b08bcd95f1b95df",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[용인] 약제팀 약사(휴직대체 계약직) 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271371&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-12",
-      "role_group": "의료·면허 직무",
-      "requirements_evidence": "2026.11.12(목) 23:59\nD-0\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n소속\n모집인원\n응시자격\n약사\n(휴직대체 계약직)\n약제팀\n1명\n[필수사항]\n⋅ 대학교 관련 학과 졸업자 (2026년 8월 졸업자까지)\n⋅ 약사 면허 소지자\n⋅ 남성의 경우",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무처(병원) 기입시 '건강보험심사평가원'에서 검색되는 공식 명칭으로 기입하시기 바랍니다.",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-06T12:17:03.193563+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "bbd355cb44ad32bd73f4",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[일반-용인] 정신건강의학과 인턴직 임상심리사(1·2급) 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271618&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-17",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "26.11.17(화) 23:59\nD-5\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n소속\n모집인원\n응시자격\n정신건강임상심리사\n1·2\n급 수련생\n임상심리사\n(\n인턴직\n)\n정신건강의학과\n각 1명\n[필수사항]\n⋅ 대학원\n(\n석사\n)\n학위 취득자 및 취득예정",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "근무처 기입시",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-07T11:36:25.275133+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "0bb203596869c65d29f5",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[일반-용인] 산부인과 초음파실 방사선사(계약직) 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272087&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-17",
-      "role_group": "의료·면허 직무",
-      "requirements_evidence": "26.11.17(화) 23:59\nD-5\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n지망 구분\n모집인원\n응시자격\n방사선사\n(\n계약직\n)\n영상의학팀\n(산부인과 초음파실)\n1명\n[\n필수사항\n]\n-\n대학\n(\n교\n)\n관련학과 졸업자\n-\n방사선사 면허 소지자",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무처 기입시",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "f62c465c6958a1f058b2",
-      "institution": "연세의료원",
-      "category": "대학병원",
-      "title": "[일반-용인] 임상연구관리실 사무원(계약직) 신규채용 26.11",
-      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272085&systemKindCode=MRS2",
-      "published": null,
-      "deadline": "2026-11-17",
-      "role_group": "우선 직무",
-      "requirements_evidence": "26.11.17(화) 23:59\nD-5\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n지망 구분\n모집인원\n응시자격\n임상연구관리실\n사무원\n계약직\n1명\n[\n필수사항\n]\n-\n대학\n(\n교\n) 관련학\n과 졸업자\n-\n남성의 경우\n,\n병역필 또는 면제자\n[\n우대사항",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무처 기입시",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
-    },
-    {
       "id": "8e1dd7a88bb3bc9b104e",
       "institution": "가톨릭중앙의료원",
       "category": "대학병원",
@@ -872,30 +686,6 @@
       "change": "기존"
     },
     {
-      "id": "ab7b3b2584dbfe288e8b",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모]수술전담간호사(간호행정교육팀/계약직) 공개채용 2026-10-27",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16560",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "우선 직무",
-      "requirements_evidence": "년 단위 계약 / 최대 2년까지 근무 가능\n4. 모집인원 : O명\n5. 응시자격\n가. 필수조건\n- 전문\n학사 학위 이상 소지자\n- 간호사 면허 소지자\n- 임상경력 3년 이상 및 진료지원 1년 6개월 이상 경력자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사",
-      "duties_evidence": ")\n6. 모집 임상과 : 간담췌외과, 비뇨의학과, 심장혈관흉부외과\n7. 담당업무 및 근무시간\n가. 담당업무 : 각 임상과 수술 전담간호 업무\n나. 근무시간 : 교대근무(야간근무 포함), 콜 당직\n8. 전형절차\n가. 1차 : 서류전형\n나. 2차 : 인성검사(온",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "전담간호사(간호행정교육팀/계약직) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n간호행정교육팀\n직종\n간호직\n접수기간\n2026-10-27 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026-1",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-10-28T11:04:01.680387+09:00",
-      "change": "변경"
-    },
-    {
       "id": "fdd6ca82f75e19b263c2",
       "institution": "가톨릭중앙의료원",
       "category": "대학병원",
@@ -918,54 +708,6 @@
       "attachments": [],
       "first_seen": "2026-11-02T11:10:57.946985+09:00",
       "change": "기존"
-    },
-    {
-      "id": "a08a457673482c5d61fd",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모]사무직(적정진료관리팀/휴직대체) 공개채용 2026-11-02",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16582",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "우선 직무",
-      "requirements_evidence": "28년 2월 29일 (15개월 휴직대체)\n4.\n모집인원\n: O\n명\n5.\n응시자격\n가. 필수조건\n-\n학사 학위 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 간호사 면허 소지자\n- 임상경력 5년 이상 경력자\n- 보험심사직 경력 2년 이상 경력자",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "]사무직(적정진료관리팀/휴직대체) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n적정진료관리팀\n직종\n사무직\n접수기간\n2026-11-02 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026-1",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-02T11:10:57.946985+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "e1a57d9f0fd8d6320b8e",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모]방사선직(심뇌혈관병원운영팀/계약직) 공개채용 2026-11-02",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16593",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "모집인원 : O명\n5. 담당업무 :\n심혈관 중재 시술 관련 분야\n6. 응시자격\n가. 필수조건\n- 전문학사 학위 이상 소지자\n- 방사선사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 심혈관시술 경력자\n- 취업지원대상자\n7. 전형절차\n가.",
-      "duties_evidence": "1일 ~ 2027년 2월 28일(3개월)\n4. 모집인원 : O명\n5. 담당업무 :\n심혈관 중재 시술 관련 분야\n6. 응시자격\n가. 필수조건\n- 전문학사 학위 이상 소지자\n- 방사선사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 심혈관시",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "사선직(심뇌혈관병원운영팀/계약직) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n심뇌혈관병원운영팀\n직종\n방사선직\n접수기간\n2026-11-02 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t202",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-03T12:52:58.799734+09:00",
-      "change": "변경"
     },
     {
       "id": "071cef9ab4535d98eb46",
@@ -1069,12 +811,12 @@
       "category": "대학병원",
       "title": "새로운글 [서울성모]방사선직(방사선종양학팀) 공개채용 2026-11-06",
       "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16621",
-      "published": "2026-11-06",
+      "published": null,
       "deadline": "2026-11-12",
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "(일정기간 시용평가 후 정규직 전환 가능)\n3. 모집인원 : O명\n4. 응시자격\n가. 필수조건\n- 전문학사 학위 소지자\n- 방사선사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 방사선종양학과 임상 경력자\n- 방사선종양학과 치료계획 임상",
       "duties_evidence": "",
-      "status": "확인 필요",
+      "status": "마감",
       "employment": "확인 필요",
       "employment_evidence": "모병원 방사선종양학팀\n2. 모집직종 : 방사선직\n(일정기간 시용평가 후 정규직 전환 가능)\n3. 모집인원 : O명\n4. 응시자격\n가. 필수조건\n- 전문학사 학위 소지자\n- 방사선사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 방사선종양",
       "location_evidence": "",
@@ -1085,7 +827,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "7051b3cd1ffd57a74e71",
@@ -1093,7 +835,7 @@
       "category": "대학병원",
       "title": "새로운글 [서울성모]보건의료정보관리직(외래원무팀/계약직) 공개채용 2026-11-06",
       "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16619",
-      "published": "2026-11-06",
+      "published": null,
       "deadline": "2026-11-13",
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "년 단위 계약 / 최대 2년까지 근무 가능\n4. 모집인원 : O명\n5. 응시자격\n가. 필수조건\n- 전문학사 학위 소지자\n- 보건의료정보관리사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n-\n제증명 및 의무기록사본발행, 영상자료복사 등 업무",
@@ -1109,7 +851,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "2e993dff44cda8c7a1f4",
@@ -1136,78 +878,6 @@
       "change": "기존"
     },
     {
-      "id": "84da8930be8c0e376c78",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모]병원지원직(수술간호팀/계약직) 공개채용 2026-11-05",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16614",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "년 단위 계약 / 최대 2년까지 근무 가능\n4. 모집인원 : O명\n5. 응시자격\n가. 필수조건\n- 고졸 학력 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 종합병원 근무 경력자\n- 병원 지원업무 유경험자\n- 수술실 세척경력자\n- 취업지원대상자",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "모]병원지원직(수술간호팀/계약직) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n간호행정교육팀\n직종\n병원지원직\n접수기간\n2026-11-05 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "297c4db69b0c21c7693d",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모][상시모집] 병원지원직(간호행정교육팀/계약직) 공개채용 2026-11-05",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16613",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "우선 직무",
-      "requirements_evidence": "년 단위 계약 / 최대 2년까지 근무 가능\n4. 모집인원 : O명\n5. 응시자격\n가. 필수조건\n- 고졸 학력 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 종합병원 근무 경력자\n- 병원 지원업무 유경험자\n- 취업지원대상자\n(보훈대상자 등)\n6.",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "병원지원직(간호행정교육팀/계약직) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n간호행정교육팀\n직종\n병원지원직\n접수기간\n2026-11-05 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "ea15ec114140773c1c22",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "새로운글 [서울성모][상시모집] 외래간호직(간호행정교육팀/계약직) 공개채용 2026-11-05",
-      "url": "https://recruit.cmcnu.or.kr/cmcseoul/application/appView.do?cPage=1&seq_no=16612",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "우선 직무",
-      "requirements_evidence": "년 단위 계약 / 최대 2년까지 근무 가능\n4. 모집인원 : O명\n5. 응시자격\n가. 필수조건\n- 전문\n학사 학위 소지자\n- 간호사 면허 소지자\n- 남자의 경우 병역필 또는 면제자\n나. 우대사항\n- 종합병원 근무 경력자\n- 취업지원대상자\n(보훈대상자 등)\n6",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "외래간호직(간호행정교육팀/계약직) 공개채용\n기관\n서울성모병원\n교직구분\n비정규직\n부서\n간호행정교육팀\n직종\n간호직\n접수기간\n2026-11-05 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026-1",
-      "location_evidence": "근무지 : 임상과 및 중점육성센터(예 : 심뇌혈관병원, 혈액병원, 암병원, 장기이식센터, 안센터 등)",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "변경"
-    },
-    {
       "id": "54f74db32259e5854c76",
       "institution": "가톨릭중앙의료원",
       "category": "대학병원",
@@ -1232,30 +902,6 @@
       "change": "기존"
     },
     {
-      "id": "3f69b75b8b37585331d2",
-      "institution": "가톨릭중앙의료원",
-      "category": "대학병원",
-      "title": "공지 새로운글 [여의도성모] 건강검진팀 시간제 계약직 방사선직 채용 2026-11-02",
-      "url": "https://recruit.cmcnu.or.kr/cmcsungmo/application/appView.do?cPage=1&seq_no=16597",
-      "published": null,
-      "deadline": "2026-11-11",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "근무 부서 : 건강검진팀\n나. 직종 : 시간제 방사선직 / 0명\n다. 지원 자격 및 우대사항\n(1) 전문학사 학위 이상 소지자\n(2) 방사선사 면허 소지자\n(3) 종합병원 1년 이상 일반촬영 경력자 우대\n▶장애인 및 보훈대상자는 관계 법령에 근거하여 우대합니",
-      "duties_evidence": "함\n※ 입사지원서 허위 기재 발견시 합격을 취소 함.\n※ 채용검진 결과 직무수행에 어려움이 야기될 수 있는 검진 결과인 경우, 불합격될 수 있음\n5. 기타 사항\n가. 최종합격자의 임용 포기 또는 추가적인 응급 퇴직에 따른 결원 발생 시, 면접자 중 개별",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "건강검진팀 시간제 계약직 방사선직 채용\n기관\n여의도성모병원\n교직구분\n비정규직\n부서\n건강검진팀\n직종\n임시직\n접수기간\n2026-11-02 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026-11-",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
-    },
-    {
       "id": "ff3e0acf7dcd0707fb50",
       "institution": "가톨릭중앙의료원",
       "category": "대학병원",
@@ -1277,7 +923,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "93c95b2fb8402be5a220",
@@ -1301,7 +947,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "7040e9170fd3fb7ffb62",
@@ -1325,6 +971,247 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "44689d917806e29bbe76",
+      "institution": "가톨릭중앙의료원",
+      "category": "대학병원",
+      "title": "새로운글 [부천성모]영상의학팀 방사선직(계약직) 공개채용 공고 2026-11-13",
+      "url": "https://recruit.cmcnu.or.kr/cmcbucheon/application/appView.do?cPage=1&seq_no=16635",
+      "published": "2026-11-13",
+      "deadline": "2026-11-18",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "영상의학팀 방사선직(계약직) 공개채용 공고\n기관\n부천성모병원\n교직구분\n비정규직\n부서\n영상의학팀\n직종\n방사선직\n접수기간\n2026-11-13 ~  \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2026-11",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "5458bc1a53fa1ff9387c",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "채용공고 입사지원하실 분야를 확인하세요",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/list",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": ".02.28(일) 23:59\nD-107\n접수중\n강남\n[일반-강남] 약사(정규직) 약제팀 26.11 모집\n2026.11.12(목) 00:00 ~ 2026.11.18(수) 23:59\nD-5\n접수중\n신촌\n[일반-신촌] 조리사(계약직) 세브)영양팀 26.11 모집",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-10-19T09:00:13.900220+09:00",
+      "change": "변경"
+    },
+    {
+      "id": "9c655cb717f8f151d4ac",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[상시 채용-신촌] 기능원(계약직:간호조무사) 간호간병통합서비스병동 2026년 상시 모집안내",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=268798&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2027-02-28",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "27.02.28(일) 23:59\nD-107\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n지망구분(근무부서)\n모집인원\n응시자격\n기능원 : 간호조무사\n(계약직)\n세브란스병원 및 연세암병원\n입원간호팀\n(간호간병통합서비스병동)\n상시모집\n[필수]\n고등학교 이상 학력",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "상자 : 장애인확인서(기타 서류 미인정)\n-\n경력사항 기재방법 안내\n① 정규직, 계약직, 인턴\n: \"경력사항\"에 기재\n※ 상기\n경력사항에 대해서는 경력증명서/건강보험자격득실확인서로 증명이 가능해야 함\n② 단순 아르바이트·자원봉사\n·실습\n·근로학생 등 :\n자",
+      "location_evidence": "근무처(병원) 기입시",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-10-19T09:00:13.900220+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "d8cf68a2bb0518e1fbf5",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인]사회사업팀 사회복지사(계약직) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271609&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-17",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "2026.11.17(화) 23:59\nD-4\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n모집인원\n응시자격\n사회사업팀\n사회복지사\n(계약직)\n1명\n[\n필수사항\n]\n-\n대학교(원) 관련학과 졸업자\n- 의료사회복지사 자격증 소지자\n-\n남성의 경우\n,\n병역필 또는",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-06T12:17:03.193563+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "48f103ff2e4b47f33c46",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인] 행정교육팀 수술진료지원파트(외과부) 정규직 간호사 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271603&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-17",
+      "role_group": "우선 직무",
+      "requirements_evidence": "2026.11.17(화) 23:59\nD-4\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n부문 및 모집인원\n응시자격\n행정교육팀\n수술진료지원파트\n(외과부 수술실)\n정규직 간호사\n(1명)\n[필수사항]\n- 대학(교) 관련학과(간호) 졸업자\n- 간호사 면허 소지자",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "정규직",
+      "employment_evidence": "채용공고 내용\n공고명\n[일반-용인] 행정교육팀 수술진료지원파트(외과부) 정규직 간호사 신규채용 26.11\n접수기간\n2026.11.06(금) 00:00\n                     ~\n                    2026.11.17(화) 23",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-06T12:17:03.193563+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "2ba83b08bcd95f1b95df",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[용인] 약제팀 약사(휴직대체 계약직) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271371&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-12",
+      "role_group": "의료·면허 직무",
+      "requirements_evidence": "026.11.12(목) 23:59\n접수마감\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n소속\n모집인원\n응시자격\n약사\n(휴직대체 계약직)\n약제팀\n1명\n[필수사항]\n⋅ 대학교 관련 학과 졸업자 (2026년 8월 졸업자까지)\n⋅ 약사 면허 소지자\n⋅ 남성의 경우",
+      "duties_evidence": "",
+      "status": "마감",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처(병원) 기입시 '건강보험심사평가원'에서 검색되는 공식 명칭으로 기입하시기 바랍니다.",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-06T12:17:03.193563+09:00",
+      "change": "변경"
+    },
+    {
+      "id": "bbd355cb44ad32bd73f4",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인] 정신건강의학과 인턴직 임상심리사(1·2급) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271618&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-17",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "26.11.17(화) 23:59\nD-4\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n소속\n모집인원\n응시자격\n정신건강임상심리사\n1·2\n급 수련생\n임상심리사\n(\n인턴직\n)\n정신건강의학과\n각 1명\n[필수사항]\n⋅ 대학원\n(\n석사\n)\n학위 취득자 및 취득예정",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-07T11:36:25.275133+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "0bb203596869c65d29f5",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인] 산부인과 초음파실 방사선사(계약직) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272087&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-17",
+      "role_group": "의료·면허 직무",
+      "requirements_evidence": "26.11.17(화) 23:59\nD-4\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n지망 구분\n모집인원\n응시자격\n방사선사\n(\n계약직\n)\n영상의학팀\n(산부인과 초음파실)\n1명\n[\n필수사항\n]\n-\n대학\n(\n교\n)\n관련학과 졸업자\n-\n방사선사 면허 소지자",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-11T11:35:57.958469+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "f62c465c6958a1f058b2",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인] 임상연구관리실 사무원(계약직) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272085&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-17",
+      "role_group": "우선 직무",
+      "requirements_evidence": "26.11.17(화) 23:59\nD-4\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시 부문\n지망 구분\n모집인원\n응시자격\n임상연구관리실\n사무원\n계약직\n1명\n[\n필수사항\n]\n-\n대학\n(\n교\n) 관련학\n과 졸업자\n-\n남성의 경우\n,\n병역필 또는 면제자\n[\n우대사항",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-11T11:35:57.958469+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "caad7c0f69d0f8cb1bcd",
+      "institution": "연세의료원",
+      "category": "대학병원",
+      "title": "[일반-용인] 외래응급간호팀 치과위생사(계약직) 신규채용 26.11",
+      "url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272281&systemKindCode=MRS2",
+      "published": null,
+      "deadline": "2026-11-18",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "26.11.18(수) 23:59\nD-5\n​\n<모집공고>\n○\n모집인원 및 응시자격\n응시부문\n지망구분(근무부서)\n모집인원\n응시자격\n치과위생사\n(계약직)\n외래응급간호팀\n1명\n[필수사항]\n- 대학(교) 관련학과 졸업자\n- 치과위생사 면허 소지자\n- 남성의 경우, 병",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처 기입시",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
@@ -1351,51 +1238,6 @@
       "attachments": [],
       "first_seen": "2026-10-19T09:00:13.900220+09:00",
       "change": "기존"
-    },
-    {
-      "id": "5b1a7e037ac6ded168aa",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "지능형의료로봇연구센터 연구전문직 경력직 채용",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026EAJ0036&cPage=1",
-      "published": null,
-      "deadline": "2026-11-05",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "정규직",
-      "employment_evidence": "11월 19일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n연구원\n채용형태\n정규직\n경력구분\n경력\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3124\n접수형태\n온라인접수\n남은시간\nD-7\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-06T12:17:03.193563+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "b3c05311b7c0d82c20ac",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "영상의학검사실 계약직 방사선사 채용",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAC10030&cPage=1",
-      "published": null,
-      "deadline": "2026-11-06",
-      "role_group": "의료·면허 직무",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "1월 13일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n방사선사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-1\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-07T11:36:25.275133+09:00",
-      "change": "변경"
     },
     {
       "id": "950117f24c71625b5431",
@@ -1426,14 +1268,14 @@
       "category": "대학병원",
       "title": "재활치료실 계약직 물리치료사 채용(기간한정)",
       "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAC30003&cPage=1",
-      "published": "2026-11-10",
-      "deadline": null,
+      "published": null,
+      "deadline": "2026-11-10",
       "role_group": "의료·면허 직무",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "제외",
+      "status": "마감",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n물리치료사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-5\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n물리치료사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1441,7 +1283,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "959384781cd047aab84a",
@@ -1449,14 +1291,14 @@
       "category": "대학병원",
       "title": "간호본부 외래 계약직 간호사 채용(5hr)",
       "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAB0138&cPage=1",
-      "published": "2026-11-10",
-      "deadline": null,
+      "published": null,
+      "deadline": "2026-11-10",
       "role_group": "의료·면허 직무",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "제외",
+      "status": "마감",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 16일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n간호사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "11월 16일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n간호사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-3\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1464,7 +1306,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "5c4310d52a2ac0502c87",
@@ -1472,29 +1314,6 @@
       "category": "대학병원",
       "title": "신경과(신경심리언어삼킴 검사실) 계약직 접수사원 채용",
       "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026AAHF0140&cPage=1",
-      "published": "2026-11-10",
-      "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-5\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "53639745be5e76bbecd3",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "치과지원실 계약직 치과위생사 채용",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAC60005&cPage=1",
       "published": null,
       "deadline": "2026-11-10",
       "role_group": "기타·직무 확인 필요",
@@ -1502,76 +1321,7 @@
       "duties_evidence": "",
       "status": "마감",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "월 16일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n치과위생사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "f31cf3825c7887c837c9",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "안과검사실 계약직 간호사 채용",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAB0137&cPage=1",
-      "published": null,
-      "deadline": "2026-11-09",
-      "role_group": "의료·면허 직무",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 16일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n간호사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "d1bf3a549889ed79e0d3",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "영양팀 계약직 영양사 채용(기간한정)",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAD30005&cPage=1",
-      "published": null,
-      "deadline": "2026-11-09",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 16일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n영양사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "ca32c9a97a0150dfae7a",
-      "institution": "삼성서울병원",
-      "category": "대학병원",
-      "title": "AX의료정보팀 계약직 보건의료정보관리사 채용(기간한정)",
-      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAD60010&cPage=1",
-      "published": null,
-      "deadline": "2026-11-09",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n보건의료정보관리사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1602,7 +1352,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "250160b51814e65e550c",
@@ -1617,7 +1367,7 @@
       "duties_evidence": "",
       "status": "제외",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "1월 18일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n방사선사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-6\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "1월 18일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n방사선사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-5\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1625,7 +1375,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "9177e5ce0e75ba45c6e2",
@@ -1640,7 +1390,7 @@
       "duties_evidence": "",
       "status": "제외",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-5\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1648,7 +1398,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "e6af32aa7a26dde6ba7d",
@@ -1663,7 +1413,7 @@
       "duties_evidence": "",
       "status": "제외",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-5\n지원접수형태\n입사지원작성\n첨부파일",
+      "employment_evidence": "11월 17일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n기타\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-4\n지원접수형태\n입사지원작성\n첨부파일",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -1671,105 +1421,76 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "775eb4e297e449a4023d",
+      "institution": "삼성서울병원",
+      "category": "대학병원",
+      "title": "신경외과 계약직 사무직 채용",
+      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026AAH0092&cPage=1",
+      "published": "2026-11-13",
+      "deadline": null,
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "23일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n행정(사무)직\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-3127\n접수형태\n온라인접수\n남은시간\nD-10\n지원접수형태\n입사지원작성\n첨부파일",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
-      "id": "34afad7b66200bb692d8",
-      "institution": "이화여자대학교",
-      "category": "대학",
-      "title": "[채용] 호크마교양대학 호크마학부 전공결정지원센터 계약직연구원 채용 공고 (~11/16(월))",
-      "url": "https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367812&mode=view&no=323",
-      "published": "2026-11-05",
+      "id": "6be902c3c3eb4dd52d36",
+      "institution": "삼성서울병원",
+      "category": "대학병원",
+      "title": "간호본부 계약직 외래 기록 간호사 채용",
+      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAB0141&cPage=1",
+      "published": "2026-11-12",
       "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "대길\n52)\n4)\n급여\n:\n본교 대학혁신지원사업 급여 기준에 의함\n2.\n지원 자격\n가\n.\n석사학위 소지자\n나\n.\n우대사항\n-\n대학혁신지원사업 등 대학 재정 지원 국가 사업 운영 유경험자\n-\n교육학 관련 전공 석사학위 소지자\n-\n상담 관련 자격증 소지자 또는 상",
-      "duties_evidence": "직위 및 인원\n:\n기관장발령 계약직연구원\n1\n명\n(\n석사급\n)\n나\n.\n담당 업무\n:\n대학혁신지원사업 관련 호크마학부 전공결정지원센터 운영 및 행정 실무 전반\n1)\n전공 자율 선택 입학생 대상 전공\n(\n학과\n)\n탐색 비교과 프로그램 기획\n·\n운영\n2)\n전공 탐",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무 장소\n:",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "69ba3a009abe36ecca9a",
-      "institution": "이화여자대학교",
-      "category": "대학",
-      "title": "재미한인과학자·동창 교류 통해 글로벌 네트워크 강화   본교는 미국 주요 대학 및 연구자들과의 교류를 확대하며 글로벌 인재 유치와 연구 협력 네트워크 강화에 나섰다. 이향숙 총장은 8월 3일(월)부터 8일(토)까지 미국을 방문해 한미과학기술학술대회(UKC 2026)에 참석하고 미국 주요 대학 및 동창들과 만나 AI·바이오 등 미래전략 분야의 교육·연구 협력과 글로벌 인재 유치 방안을 논의했다.  이향숙 총장은 8월 5일(수)부터 8일(토)까지 미국 플로리다주 올랜도에서 열린 ‘UKC 2026’에 참가했다. UKC 2026은 한국과학기술단체총연합회와 재미한인과학기술자협회, 한미과학협력센터, 한국연구재단이 한미 연구자 교류와 기술이전·창업 협력, 글로벌 우수인재 유치를 위해 매년 개최하는 학술 행사다. UKC 2026 ‘SEED 워크숍’에서 발표하는 이향숙 총장 | ‘대학 리더십 포럼’ 참석자들과 함께 이 총장은 UKC 2026 ‘시드(SEED) 워크숍’에서 본교의 연구 성과와 최첨단 연구 인프라를 소개하고 AI·바이오·첨단 소재 등 미래 융합연구를 이끌 해외 우수 신진 연구자들과 교류했다. 또한 ‘글로벌 커넥트 이화 2026’을 개최해 재미한인 동문 및 과학기술인들과 본교 발전 방향과 글로벌 연구중심대학으로의 도약 비전을 공유했다.  ‘대학 리더십 포럼’에서는 국내 대학 총장들과 AI 시대 대학의 교육·연구·행정 혁신 방향을 논의했다. 이향숙 총장은 “AI 기술의 대전환을 계기로 대학 본연의 역할과 사명을 재고하고, 140년 이화여대의 핵심 이념인 ‘진(眞)’을 바탕으로 인간 중심의 가치와 학문적 탐구를 담아내는 포용적 혁신이 필요하다”고 강조했다. 아울러 “AI 시대에는 디지털 감시보다 학생 평가 방식을 근본적으로 재설계해 학문적 진실성을 지키고, AI 시대를 선도할 융합형 인재 양성을 지원하겠다”고 밝혔다. UKC 2026 본교 상담 부스 | (왼쪽부터) 황은숙 교수, 강동섭 한국연구재단 국제협력본부장, 박선규 한국건설기술연구원장, 이향숙 총장, 홍원화 한국연구재단 이사장, 노태영 산학협력단장 UKC 2026 행사 기간에는 상담 부스를 운영해 스탠퍼드대학교(Stanford University), 플로리다대학교(University of Florida), 퍼듀대학교(Purdue University) 등 재미 한인과학자들에게 본교의 과학 및 공학 분야 우수 연구역량을 소개하고, 연구·산학협력 및 우수인재 채용 상담을 진행했다. 노태영 산학협력단장은 글로벌 공동연구, 기술이전, 인력 교류, 스타트업 육성·투자 등 다양한 협력 모델을 통한 글로벌 연구 생태계 구축을 제안했다. (오른쪽 사진 가운데) 모에즈 리마옘 USF 총장과 이향숙 총장 8월 6일(목)에는 미국 사우스플로리다대학교(University of South Florida, USF)를 방문해 모에즈 리마옘(Moez Limayem) 총장과 만나 양교 간 교육·연구 협력 확대 방안을 논의했다. 양측은 AI 분야 공동교육 프로그램을 개발하고 AI·사이버보안, 의공학, 간호학, 생명과학, 화학, 약학 등 분야의 공동연구와 연구자 교류를 확대하기로 했다. 또한 한·미 기업이 참여하는 산학연 공동연구 등 실질적인 협력 기회를 발굴해 교육·연구·산학협력으로 협력 범위를 넓혀가기로 했다. 이화 가족행사 ‘GLOBAL CONNECT EWHA 2026’ | 최윤정 대외협력처장, 강순영 동창, 이향숙 총장, 노태영 산학협력단장 | 서순경 동창과 이향숙 총장 앞서 8월 3일(월)~4일(화) 이 총장은 미국 로스앤젤레스를 방문해 현지 동창 및 잠재 기부자들과 만나 소통의 시간을 가졌다. ‘GLOBAL CONNECT EWHA 2026‘를 통해 학교 발전계획과 비전을 공유하고 ‘이화 웨스트 캠퍼스 건립기금’을 비롯한 주요 모금 사업에 대한 따뜻한 관심과 동참을 부탁하는 등 미주 지역 내 이화 글로벌 네트워크를 공고히 다졌다. 이 총장은 “이화여대의 140년 전통과 AI를 비롯한 첨단 기술을 결합해 글로벌 명문으로 도약하기 위해서는 세계 유수 대학과 연구기관, 글로벌 기업 및 동창들과의 긴밀한 협력이 중요하다”며 “국제 공동연구와 교육 교류를 확대하고 글로벌 연구·산학협력 네트워크를 지속적으로 강화해 ‘포용적 혁신으로 대전환 시대를 선도하는 이화’를 실현해 나가겠다”고 밝혔다. 본교는 이번 미국 방문을 통해 해외 우수 연구자 유치와 미국 대학과의 교육·연구 협력을 확대하고, 동창 네트워크를 강화하는 성과를 거뒀다. 앞으로도 해외 우수 기관 및 동문과의 협력을 확대해 글로벌 연구중심대학으로서의 경쟁력을 높여 나갈 계획이다.",
-      "url": "https://www.ewha.ac.kr/ewha/research/research-news.do?article.offset=0&articleLimit=10&articleNo=366331&mode=view",
-      "published": "2026-08-19",
-      "deadline": null,
-      "role_group": "우선 직무",
+      "role_group": "의료·면허 직무",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "포용적 혁신이 필요하다”고 강조했다. 아울러 “AI 시대에는 디지털 감시보다 학생 평가 방식을 근본적으로 재설계해 학문적 진실성을 지키고, AI 시대를 선도할 융합형 인재 양성을 지원하겠다”고 밝혔다.\nUKC 2026 본교 상담 부스 | (왼쪽부터) 황",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "3544002e99302c60f35e",
-      "institution": "이화여자대학교",
-      "category": "대학",
-      "title": "총장 공약 실천으로 2년 연속 간담회 개최, 학생들과 소통 이어가 교원 확충·학생복지 확대 등 주요 성과 공유하고 교육환경 개선 방향 논의 학생들의 다양한 제안에 귀 기울이며 상호 존중과 신뢰의 소통 강화 본교는 10월 7일(수) 오후 5시 국제교육관 LG컨벤션홀에서 「2026학년도 총장간담회」를 개최했다. 이날 행사에는 이향숙 총장을 비롯해 박성연 학사부총장, 박정수 연구·대외부총장, 각 대학(원)장과 처장단, 총학생회와 학생 대표, 재학생들이 참석해 학사·재정·복지·시설·학생자치 등 대학 운영 전반에 관한 다양한 의견을 나눴다. 이번 간담회는 이향숙 총장의 학생 소통 확대 공약 실천의 일환으로 지난해에 이어 마련된 자리로, 학생들의 의견을 직접 듣고 대학의 주요 정책과 학생 지원 성과를 공유하며 이화의 발전 방향을 함께 모색하는 자리로 마련됐다. 이향숙 총장은 “학교가 추진하는 모든 변화는 학생들의 배움과 성장으로 이어져야 한다”며 “인공지능 시대를 살아갈 학생들이 급변하는 사회에 필요한 역량과 비전을 갖추고 각자의 가능성을 펼치도록 교육하고 지원하는 것이 대학의 책무”라고 말했다. 이어 “학생 한 사람 한 사람의 성장이 곧 이화의 미래”라며 “이를 뒷받침할 교육 환경과 지원 체계를 더욱 내실 있게 갖춰 나가겠다”고 밝혔다. 정예진 총학생회장은 \"올해도 많은 학우들의 지지 서명과 다양한 이화인의 의견 등 한 사람 한 사람의 목소리가 모여 이화인 4대 요구안과 단과대학별 요구안이 마련됐다\"며 \"오늘 이 자리가 학생들의 이야기가 답으로 이어지는 계기가 되길 바란다\"고 말했다. 이향숙 총장(가운데)와 정예진 총학생회장 이날 간담회에서 대학은 지난 1년간 학생들의 의견을 반영해 추진한 교육환경 개선과 학생 지원 성과를 공유했다. 이향숙 총장은 취임 이후 다양한 간담회와 정기협의체 등을 통해 학생들의 의견을 수렴하고, 이를 학습권 보장과 교육의 질 향상, 학생복지 증진 등 실질적인 개선으로 연결하고자 노력해 왔다. 특히 2026학년도 공개채용과 특별채용을 통해 총 71명의 교원을 초빙했으며, 2027학년도에도 교원 초빙을 준비하는 등 안정적인 수업권 보장과 교육 여건 개선에 힘쓰고 있다. 또한 학생 수요를 반영한 수강제도 개선, 질병 결석 증빙 기준 완화를 비롯해 2028학년도 교육과정 개편 시 학생 의견 수렴 절차 마련 등 학생의 학업과 성장을 지원하기 위한 다양한 정책을 추진하고 있다. 학생복지와 교육환경 개선을 위한 노력도 이어졌다. 창립 140주년을 맞아 대동제 지원 예산을 두 배로 확대하고, 학생문화관 수면휴게실을 정비하는 등 학생복지와 자치활동 지원을 강화했다. 이와 함께 교내 노후시설 정비와 보행 안전 강화, 장애학생의 이동 및 학습 환경 개선, 기숙사 운영 개선 등 안전하고 편리한 캠퍼스 환경을 조성하는 데 힘썼다. 또한 장학금 신설 및 확대, 취·창업 활동 지원 강화, 고시 준비반 확대, 악성 게시물 신고센터 운영 등 학생들을 위한 다양한 정책을 추진했다. 또한 올해부터 잡페어를 연 2회 정기 개최하며 학생들의 진로 탐색과 취업 준비를 돕고 있다. 대학은 이러한 교육·연구 환경 개선과 학생 지원을 안정적으로 추진하기 위해 재원 확충에도 힘쓰고 있다. 기부금 모금과 국고보조금 확보, 대학혁신지원사업 등 다양한 재원을 적극적으로 발굴하고 있으며, 특히 대학혁신지원사업을 통해 약 110억 원의 사업비를 확보하며 대학의 지속가능한 발전을 위한 재정 기반을 강화해 나가고 있다. 간담회에서는 전공 수업권 보장, 음악관 개방시간 연장, EWC 건립에 따른 교육공간 확보 등 학생들의 학습권과 교육환경 개선에 관한 여러 현안이 논의됐다. 대학은 전공 수업권 보장을 위해 본부 차원의 교과목 수요조사 도입을 긍정적으로 검토하고, 음악관 연습실 개방시간 역시 단과대학의 여건과 학생들의 이용 수요를 고려하여 연장하는 방안을 검토하기로 했다. 또한 EWC 건립에 따른 교육공간 확보를 위해 교내 유휴 공간 활용과 모듈러 건축물 설치 등 다양한 방안을 추진하고, 강의실과 실험·실습실 등 필수 교육공간을 우선 확보하여 학습권을 보장하고 교육 공백을 최소화할 계획이다. 다만 온라인 채플 운영과 학점포기제 도입에 대해서는 이화의 교육이념과 정체성, 학사 운영의 공정성 및 학생 간 형평성 등을 종합적으로 고려하여 현 단계에서는 시행이 어렵다는 입장을 밝혔다. 이향숙 총장은 학생들의 적극적인 참여와 제안이 대학 발전의 중요한 원동력임을 강조하며, 학생들이 더 나은 교육환경에서 성장할 수 있도록 대학 차원의 지원과 노력을 지속하겠다는 뜻을 밝혔다. 또한 학생들의 성장을 위한 교원 확충과 교육·연구 환경 개선, 학생 복지 증진 및 인프라 확충에 지속적으로 힘쓰는 한편, 학교와 학생이 서로의 입장을 이해하고 존중하며 신뢰를 바탕으로 소통해 나가는 것이 중요하다고 강조했다. 이번 총장간담회는 총장 공약 실천의 일환으로 지난해에 이어 학생들과 직접 소통하고, 그동안 대학이 추진해 온 다양한 개선 성과를 공유하며 학교의 발전 방향을 공유했다는 점에서 의미가 있다. 본교는 앞으로도 학생들을 포함하여 대학 구성원 간 상호 존중과 신뢰를 바탕으로 소통과 협력을 강화하고, 교육·연구 환경의 지속적인 개선과 대학의 발전을 위해 함께 노력해 나갈 계획이다.",
-      "url": "https://www.ewha.ac.kr/ewha/news/ewha-news.do?article.offset=0&articleLimit=10&articleNo=367490&mode=view",
-      "published": "2026-10-19",
-      "deadline": null,
-      "role_group": "우선 직무",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "8e261db0e078c4cad5c9",
-      "institution": "이화여자대학교",
-      "category": "대학",
-      "title": "[채용] 호크마교양대학 호크마학부 전공결정지원센터 계약직연구원 채용 공고 (~11/16(월))",
-      "url": "https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367812&mode=view&no=316",
-      "published": "2026-11-05",
-      "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "대길\n52)\n4)\n급여\n:\n본교 대학혁신지원사업 급여 기준에 의함\n2.\n지원 자격\n가\n.\n석사학위 소지자\n나\n.\n우대사항\n-\n대학혁신지원사업 등 대학 재정 지원 국가 사업 운영 유경험자\n-\n교육학 관련 전공 석사학위 소지자\n-\n상담 관련 자격증 소지자 또는 상",
-      "duties_evidence": "직위 및 인원\n:\n기관장발령 계약직연구원\n1\n명\n(\n석사급\n)\n나\n.\n담당 업무\n:\n대학혁신지원사업 관련 호크마학부 전공결정지원센터 운영 및 행정 실무 전반\n1)\n전공 자율 선택 입학생 대상 전공\n(\n학과\n)\n탐색 비교과 프로그램 기획\n·\n운영\n2)\n전공 탐",
       "status": "제외",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "근무 장소\n:",
+      "employment_evidence": "11월 19일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n간호사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-6\n지원접수형태\n입사지원작성\n첨부파일",
+      "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+        "서울·경기 실제 근무지 확인 필요"
       ],
       "attachments": [],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "기존"
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "900925cba786b0e2e148",
+      "institution": "삼성서울병원",
+      "category": "대학병원",
+      "title": "간호본부 외래 계약직 간호사 11월 추가채용",
+      "url": "https://www.samsunghospital.com/home/recruit/recruitInfo/recruitNoticeView.do?RECRUIT_CD=2026HAB0140&cPage=1",
+      "published": "2026-11-12",
+      "deadline": null,
+      "role_group": "의료·면허 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "11월 19일 \n\t\t\t\t\t\t\t\t09시\n\t\t\t\t\t\t\t\t00분\n직종\n간호사\n채용형태\n계약직\n경력구분\n무관\n담당자\nCaregiver인재지원팀\n문의전화\n02-3410-6951\n접수형태\n온라인접수\n남은시간\nD-6\n지원접수형태\n입사지원작성\n첨부파일",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
     },
     {
       "id": "2ca1ff32f544cc2f8712",
@@ -1825,7 +1546,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-04T11:56:48.426179+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
       "id": "0a52346ce1f5ff821628",
@@ -1853,34 +1574,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-05T12:18:08.531904+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "7264871a66192128fb04",
-      "institution": "서울대학교",
-      "category": "대학",
-      "title": "서울대학교 규장각한국학연구원 자체직원(기간제) 채용 공고문 첨부파일 있음",
-      "url": "https://www.snu.ac.kr/snunow/notice/job-openings?bbsidx=178757&md=v",
-      "published": null,
-      "deadline": "2026-11-05",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "※\n임용 이후 내부 업무분장 등에 따라 담당업무가 변경될 수 있음\n2. 지원자격 및 우대사항\n가.\n자격요건\n○\n「서울대학교 자체직원 취업규칙」에 준용하여 결격사유가 없는 자\n○\n만 18세 이상(단, 남자의 경우 군복무를 마쳤거나 면제된 자), 60세 미만인",
-      "duties_evidence": "간제) 채용 공고문\n1. 채용 계획\n채용 계획 : 채용분야, 채용인원, 담당 업무를 제공하는 표\n채용분야\n채용인원\n담당 업무\n일반행정 및 비서\n1명\n- 시설안전관리업무 및 물품관리\n- 원장 및 부원장(부장) 비서 업무\n- 근로학생 관리 업무\n- 기타 규장각한국",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "률』에 의하여 취업 제한에 해당하는 자\n3. 계약기간 및 근무조건\n가.\n고용형태: 서울대학교 규장각한국학연구원 자체직원(기간제)\n나.\n계약기간: 2026.12.1.~2027.11.30. (1년)\n○\n무기계약직 전환 대상 아님\n○\n계약기간 및 임용예정일은 기관",
-      "location_evidence": "근무장소: 서울대학교 규장각한국학연구원",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인"
-      ],
-      "attachments": [
-        "https://admission.snu.ac.kr/materials/downloads/press?sc=y",
-        "https://www.snu.ac.kr/about/downloads?sc=y",
-        "https://admission.snu.ac.kr/materials/downloads/press",
-        "https://www.snu.ac.kr/about/downloads"
-      ],
-      "first_seen": "2026-11-06T12:17:03.193563+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
       "id": "ca51a0c5ddbba9508b21",
@@ -1899,8 +1593,7 @@
       "location_evidence": "근무장소: 강원도 평창군 대화면 평창대로 1447 서울대학교 그린바이오과학기술연구원 공동기기센터",
       "reasons": [
         "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요"
+        "서울·경기 실제 근무지 확인 필요"
       ],
       "attachments": [
         "https://admission.snu.ac.kr/materials/downloads/press?sc=y",
@@ -1909,7 +1602,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-07T11:36:25.275133+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
       "id": "2e2e812cb3c3307d7351",
@@ -2019,7 +1712,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "b50c049fff8c82ca523b",
@@ -2047,7 +1740,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "22ed3464110a482135d9",
@@ -2062,7 +1755,7 @@
       "duties_evidence": "및 지원 자격 : 채용 분야, 직렬, 인원, 지원 자격 및 우대조건, 담당업무를 제공하는 표\n채용 분야\n직렬\n인원\n지원 자격 및 우대조건\n행정직(8급)\n행정\n2명 이내\n지원 자격(필수조건)\n- (응시연령) 만 18세 이상\n- (학력/성별) 제한 없음\n- (",
       "status": "확인 필요",
       "employment": "확인 필요",
-      "employment_evidence": "이지의 게시판(공지 사항 채용)에 별도 공지 예정\n5. 임용사항 등\n○\n수습: 채용 후 6개월(6개월 후 근무성적 평가)\n○\n정년제도: 만 60세에 도달하는 달이 속한 반기 말일 (「서울대학교 산학협력단 인사규정」 제42조(정년))\n○\n보수: 산학협력단",
+      "employment_evidence": "이지의 게시판(공지 사항-채용)에 별도 공지 예정\n5. 임용사항 등\n○\n수습: 채용 후 6개월(6개월 후 근무성적 평가)\n○\n정년제도: 만 60세에 도달하는 달이 속한 반기 말일\n「서울대학교 산학협력단 인사규정」 제42조(정년)\n○\n보수: 산학협력단 내규",
       "location_evidence": "",
       "reasons": [
         "정규직 근거 없음",
@@ -2075,7 +1768,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "ab65d70bd51b46d05415",
@@ -2102,7 +1795,7 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "6194f272703ba4c9326b",
@@ -2131,7 +1824,105 @@
         "https://www.snu.ac.kr/about/downloads"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
+    },
+    {
+      "id": "34afad7b66200bb692d8",
+      "institution": "이화여자대학교",
+      "category": "대학",
+      "title": "[채용] 호크마교양대학 호크마학부 전공결정지원센터 계약직연구원 채용 공고 (~11/16(월))",
+      "url": "https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367812&mode=view&no=323",
+      "published": "2026-11-05",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "대길\n52)\n4)\n급여\n:\n본교 대학혁신지원사업 급여 기준에 의함\n2.\n지원 자격\n가\n.\n석사학위 소지자\n나\n.\n우대사항\n-\n대학혁신지원사업 등 대학 재정 지원 국가 사업 운영 유경험자\n-\n교육학 관련 전공 석사학위 소지자\n-\n상담 관련 자격증 소지자 또는 상",
+      "duties_evidence": "직위 및 인원\n:\n기관장발령 계약직연구원\n1\n명\n(\n석사급\n)\n나\n.\n담당 업무\n:\n대학혁신지원사업 관련 호크마학부 전공결정지원센터 운영 및 행정 실무 전반\n1)\n전공 자율 선택 입학생 대상 전공\n(\n학과\n)\n탐색 비교과 프로그램 기획\n·\n운영\n2)\n전공 탐",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무 장소\n:",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-08T11:06:46.021805+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "69ba3a009abe36ecca9a",
+      "institution": "이화여자대학교",
+      "category": "대학",
+      "title": "재미한인과학자·동창 교류 통해 글로벌 네트워크 강화   본교는 미국 주요 대학 및 연구자들과의 교류를 확대하며 글로벌 인재 유치와 연구 협력 네트워크 강화에 나섰다. 이향숙 총장은 8월 3일(월)부터 8일(토)까지 미국을 방문해 한미과학기술학술대회(UKC 2026)에 참석하고 미국 주요 대학 및 동창들과 만나 AI·바이오 등 미래전략 분야의 교육·연구 협력과 글로벌 인재 유치 방안을 논의했다.  이향숙 총장은 8월 5일(수)부터 8일(토)까지 미국 플로리다주 올랜도에서 열린 ‘UKC 2026’에 참가했다. UKC 2026은 한국과학기술단체총연합회와 재미한인과학기술자협회, 한미과학협력센터, 한국연구재단이 한미 연구자 교류와 기술이전·창업 협력, 글로벌 우수인재 유치를 위해 매년 개최하는 학술 행사다. UKC 2026 ‘SEED 워크숍’에서 발표하는 이향숙 총장 | ‘대학 리더십 포럼’ 참석자들과 함께 이 총장은 UKC 2026 ‘시드(SEED) 워크숍’에서 본교의 연구 성과와 최첨단 연구 인프라를 소개하고 AI·바이오·첨단 소재 등 미래 융합연구를 이끌 해외 우수 신진 연구자들과 교류했다. 또한 ‘글로벌 커넥트 이화 2026’을 개최해 재미한인 동문 및 과학기술인들과 본교 발전 방향과 글로벌 연구중심대학으로의 도약 비전을 공유했다.  ‘대학 리더십 포럼’에서는 국내 대학 총장들과 AI 시대 대학의 교육·연구·행정 혁신 방향을 논의했다. 이향숙 총장은 “AI 기술의 대전환을 계기로 대학 본연의 역할과 사명을 재고하고, 140년 이화여대의 핵심 이념인 ‘진(眞)’을 바탕으로 인간 중심의 가치와 학문적 탐구를 담아내는 포용적 혁신이 필요하다”고 강조했다. 아울러 “AI 시대에는 디지털 감시보다 학생 평가 방식을 근본적으로 재설계해 학문적 진실성을 지키고, AI 시대를 선도할 융합형 인재 양성을 지원하겠다”고 밝혔다. UKC 2026 본교 상담 부스 | (왼쪽부터) 황은숙 교수, 강동섭 한국연구재단 국제협력본부장, 박선규 한국건설기술연구원장, 이향숙 총장, 홍원화 한국연구재단 이사장, 노태영 산학협력단장 UKC 2026 행사 기간에는 상담 부스를 운영해 스탠퍼드대학교(Stanford University), 플로리다대학교(University of Florida), 퍼듀대학교(Purdue University) 등 재미 한인과학자들에게 본교의 과학 및 공학 분야 우수 연구역량을 소개하고, 연구·산학협력 및 우수인재 채용 상담을 진행했다. 노태영 산학협력단장은 글로벌 공동연구, 기술이전, 인력 교류, 스타트업 육성·투자 등 다양한 협력 모델을 통한 글로벌 연구 생태계 구축을 제안했다. (오른쪽 사진 가운데) 모에즈 리마옘 USF 총장과 이향숙 총장 8월 6일(목)에는 미국 사우스플로리다대학교(University of South Florida, USF)를 방문해 모에즈 리마옘(Moez Limayem) 총장과 만나 양교 간 교육·연구 협력 확대 방안을 논의했다. 양측은 AI 분야 공동교육 프로그램을 개발하고 AI·사이버보안, 의공학, 간호학, 생명과학, 화학, 약학 등 분야의 공동연구와 연구자 교류를 확대하기로 했다. 또한 한·미 기업이 참여하는 산학연 공동연구 등 실질적인 협력 기회를 발굴해 교육·연구·산학협력으로 협력 범위를 넓혀가기로 했다. 이화 가족행사 ‘GLOBAL CONNECT EWHA 2026’ | 최윤정 대외협력처장, 강순영 동창, 이향숙 총장, 노태영 산학협력단장 | 서순경 동창과 이향숙 총장 앞서 8월 3일(월)~4일(화) 이 총장은 미국 로스앤젤레스를 방문해 현지 동창 및 잠재 기부자들과 만나 소통의 시간을 가졌다. ‘GLOBAL CONNECT EWHA 2026‘를 통해 학교 발전계획과 비전을 공유하고 ‘이화 웨스트 캠퍼스 건립기금’을 비롯한 주요 모금 사업에 대한 따뜻한 관심과 동참을 부탁하는 등 미주 지역 내 이화 글로벌 네트워크를 공고히 다졌다. 이 총장은 “이화여대의 140년 전통과 AI를 비롯한 첨단 기술을 결합해 글로벌 명문으로 도약하기 위해서는 세계 유수 대학과 연구기관, 글로벌 기업 및 동창들과의 긴밀한 협력이 중요하다”며 “국제 공동연구와 교육 교류를 확대하고 글로벌 연구·산학협력 네트워크를 지속적으로 강화해 ‘포용적 혁신으로 대전환 시대를 선도하는 이화’를 실현해 나가겠다”고 밝혔다. 본교는 이번 미국 방문을 통해 해외 우수 연구자 유치와 미국 대학과의 교육·연구 협력을 확대하고, 동창 네트워크를 강화하는 성과를 거뒀다. 앞으로도 해외 우수 기관 및 동문과의 협력을 확대해 글로벌 연구중심대학으로서의 경쟁력을 높여 나갈 계획이다.",
+      "url": "https://www.ewha.ac.kr/ewha/research/research-news.do?article.offset=0&articleLimit=10&articleNo=366331&mode=view",
+      "published": "2026-08-19",
+      "deadline": null,
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "포용적 혁신이 필요하다”고 강조했다. 아울러 “AI 시대에는 디지털 감시보다 학생 평가 방식을 근본적으로 재설계해 학문적 진실성을 지키고, AI 시대를 선도할 융합형 인재 양성을 지원하겠다”고 밝혔다.\nUKC 2026 본교 상담 부스 | (왼쪽부터) 황",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-08T11:06:46.021805+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "3544002e99302c60f35e",
+      "institution": "이화여자대학교",
+      "category": "대학",
+      "title": "총장 공약 실천으로 2년 연속 간담회 개최, 학생들과 소통 이어가 교원 확충·학생복지 확대 등 주요 성과 공유하고 교육환경 개선 방향 논의 학생들의 다양한 제안에 귀 기울이며 상호 존중과 신뢰의 소통 강화 본교는 10월 7일(수) 오후 5시 국제교육관 LG컨벤션홀에서 「2026학년도 총장간담회」를 개최했다. 이날 행사에는 이향숙 총장을 비롯해 박성연 학사부총장, 박정수 연구·대외부총장, 각 대학(원)장과 처장단, 총학생회와 학생 대표, 재학생들이 참석해 학사·재정·복지·시설·학생자치 등 대학 운영 전반에 관한 다양한 의견을 나눴다. 이번 간담회는 이향숙 총장의 학생 소통 확대 공약 실천의 일환으로 지난해에 이어 마련된 자리로, 학생들의 의견을 직접 듣고 대학의 주요 정책과 학생 지원 성과를 공유하며 이화의 발전 방향을 함께 모색하는 자리로 마련됐다. 이향숙 총장은 “학교가 추진하는 모든 변화는 학생들의 배움과 성장으로 이어져야 한다”며 “인공지능 시대를 살아갈 학생들이 급변하는 사회에 필요한 역량과 비전을 갖추고 각자의 가능성을 펼치도록 교육하고 지원하는 것이 대학의 책무”라고 말했다. 이어 “학생 한 사람 한 사람의 성장이 곧 이화의 미래”라며 “이를 뒷받침할 교육 환경과 지원 체계를 더욱 내실 있게 갖춰 나가겠다”고 밝혔다. 정예진 총학생회장은 \"올해도 많은 학우들의 지지 서명과 다양한 이화인의 의견 등 한 사람 한 사람의 목소리가 모여 이화인 4대 요구안과 단과대학별 요구안이 마련됐다\"며 \"오늘 이 자리가 학생들의 이야기가 답으로 이어지는 계기가 되길 바란다\"고 말했다. 이향숙 총장(가운데)와 정예진 총학생회장 이날 간담회에서 대학은 지난 1년간 학생들의 의견을 반영해 추진한 교육환경 개선과 학생 지원 성과를 공유했다. 이향숙 총장은 취임 이후 다양한 간담회와 정기협의체 등을 통해 학생들의 의견을 수렴하고, 이를 학습권 보장과 교육의 질 향상, 학생복지 증진 등 실질적인 개선으로 연결하고자 노력해 왔다. 특히 2026학년도 공개채용과 특별채용을 통해 총 71명의 교원을 초빙했으며, 2027학년도에도 교원 초빙을 준비하는 등 안정적인 수업권 보장과 교육 여건 개선에 힘쓰고 있다. 또한 학생 수요를 반영한 수강제도 개선, 질병 결석 증빙 기준 완화를 비롯해 2028학년도 교육과정 개편 시 학생 의견 수렴 절차 마련 등 학생의 학업과 성장을 지원하기 위한 다양한 정책을 추진하고 있다. 학생복지와 교육환경 개선을 위한 노력도 이어졌다. 창립 140주년을 맞아 대동제 지원 예산을 두 배로 확대하고, 학생문화관 수면휴게실을 정비하는 등 학생복지와 자치활동 지원을 강화했다. 이와 함께 교내 노후시설 정비와 보행 안전 강화, 장애학생의 이동 및 학습 환경 개선, 기숙사 운영 개선 등 안전하고 편리한 캠퍼스 환경을 조성하는 데 힘썼다. 또한 장학금 신설 및 확대, 취·창업 활동 지원 강화, 고시 준비반 확대, 악성 게시물 신고센터 운영 등 학생들을 위한 다양한 정책을 추진했다. 또한 올해부터 잡페어를 연 2회 정기 개최하며 학생들의 진로 탐색과 취업 준비를 돕고 있다. 대학은 이러한 교육·연구 환경 개선과 학생 지원을 안정적으로 추진하기 위해 재원 확충에도 힘쓰고 있다. 기부금 모금과 국고보조금 확보, 대학혁신지원사업 등 다양한 재원을 적극적으로 발굴하고 있으며, 특히 대학혁신지원사업을 통해 약 110억 원의 사업비를 확보하며 대학의 지속가능한 발전을 위한 재정 기반을 강화해 나가고 있다. 간담회에서는 전공 수업권 보장, 음악관 개방시간 연장, EWC 건립에 따른 교육공간 확보 등 학생들의 학습권과 교육환경 개선에 관한 여러 현안이 논의됐다. 대학은 전공 수업권 보장을 위해 본부 차원의 교과목 수요조사 도입을 긍정적으로 검토하고, 음악관 연습실 개방시간 역시 단과대학의 여건과 학생들의 이용 수요를 고려하여 연장하는 방안을 검토하기로 했다. 또한 EWC 건립에 따른 교육공간 확보를 위해 교내 유휴 공간 활용과 모듈러 건축물 설치 등 다양한 방안을 추진하고, 강의실과 실험·실습실 등 필수 교육공간을 우선 확보하여 학습권을 보장하고 교육 공백을 최소화할 계획이다. 다만 온라인 채플 운영과 학점포기제 도입에 대해서는 이화의 교육이념과 정체성, 학사 운영의 공정성 및 학생 간 형평성 등을 종합적으로 고려하여 현 단계에서는 시행이 어렵다는 입장을 밝혔다. 이향숙 총장은 학생들의 적극적인 참여와 제안이 대학 발전의 중요한 원동력임을 강조하며, 학생들이 더 나은 교육환경에서 성장할 수 있도록 대학 차원의 지원과 노력을 지속하겠다는 뜻을 밝혔다. 또한 학생들의 성장을 위한 교원 확충과 교육·연구 환경 개선, 학생 복지 증진 및 인프라 확충에 지속적으로 힘쓰는 한편, 학교와 학생이 서로의 입장을 이해하고 존중하며 신뢰를 바탕으로 소통해 나가는 것이 중요하다고 강조했다. 이번 총장간담회는 총장 공약 실천의 일환으로 지난해에 이어 학생들과 직접 소통하고, 그동안 대학이 추진해 온 다양한 개선 성과를 공유하며 학교의 발전 방향을 공유했다는 점에서 의미가 있다. 본교는 앞으로도 학생들을 포함하여 대학 구성원 간 상호 존중과 신뢰를 바탕으로 소통과 협력을 강화하고, 교육·연구 환경의 지속적인 개선과 대학의 발전을 위해 함께 노력해 나갈 계획이다.",
+      "url": "https://www.ewha.ac.kr/ewha/news/ewha-news.do?article.offset=0&articleLimit=10&articleNo=367490&mode=view",
+      "published": "2026-10-19",
+      "deadline": null,
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-08T11:06:46.021805+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "8e261db0e078c4cad5c9",
+      "institution": "이화여자대학교",
+      "category": "대학",
+      "title": "[채용] 호크마교양대학 호크마학부 전공결정지원센터 계약직연구원 채용 공고 (~11/16(월))",
+      "url": "https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367812&mode=view&no=316",
+      "published": "2026-11-05",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "대길\n52)\n4)\n급여\n:\n본교 대학혁신지원사업 급여 기준에 의함\n2.\n지원 자격\n가\n.\n석사학위 소지자\n나\n.\n우대사항\n-\n대학혁신지원사업 등 대학 재정 지원 국가 사업 운영 유경험자\n-\n교육학 관련 전공 석사학위 소지자\n-\n상담 관련 자격증 소지자 또는 상",
+      "duties_evidence": "직위 및 인원\n:\n기관장발령 계약직연구원\n1\n명\n(\n석사급\n)\n나\n.\n담당 업무\n:\n대학혁신지원사업 관련 호크마학부 전공결정지원센터 운영 및 행정 실무 전반\n1)\n전공 자율 선택 입학생 대상 전공\n(\n학과\n)\n탐색 비교과 프로그램 기획\n·\n운영\n2)\n전공 탐",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무 장소\n:",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-09T11:28:10.310395+09:00",
+      "change": "기존"
     },
     {
       "id": "424ffe4df355d3b1ba7a",
@@ -2579,16 +2370,16 @@
         "https://www.skku.edu/skku/campus/skk_comm/notice01.do?articleNo=141813&attachNo=119087&mode=download"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
-      "id": "de4a9c5b1ee4640316ec",
-      "institution": "경희대학교",
+      "id": "3c5ca29bdf8ce78ecf40",
+      "institution": "성균관대학교",
       "category": "대학",
-      "title": "[이삼오구] 커머스 마케터 전환형 인턴 추천채용 - 직무분야 : - 근무지역 : - 근무조건 : 중견/중소기업 2026년 11월 19일(목) 오전 9:00까지",
-      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2188",
+      "title": "[채용/모집]\n\t\t\t\t한국연구재단 KCI 등재지 『trans-』 제22권 논문 모집",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?articleNo=141913&mode=view",
       "published": null,
-      "deadline": null,
+      "deadline": "2026-12-25",
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "",
       "duties_evidence": "",
@@ -2599,61 +2390,13 @@
       "reasons": [
         "정규직 근거 없음",
         "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+        "게시일·마감일의 수집 기간 확인 필요"
       ],
-      "attachments": [],
-      "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "85d5e9831880b1fa5bd3",
-      "institution": "경희대학교",
-      "category": "대학",
-      "title": "채용행사 및 리쿠르팅 안내",
-      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s2_4",
-      "published": null,
-      "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일·마감일의 수집 기간 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      "attachments": [
+        "https://www.skku.edu/skku/about/organ/attachment_01.do",
+        "https://www.skku.edu/skku/campus/skk_comm/notice01.do?articleNo=141913&attachNo=119134&mode=download"
       ],
-      "attachments": [],
-      "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
-    },
-    {
-      "id": "24d4d639b7fce7d8bd21",
-      "institution": "경희대학교",
-      "category": "대학",
-      "title": "[뱅크샐러드금융서비스] 금융솔루션 전문가 채용연계형 인… - 직무분야 : - 근무지역 : - 근무조건 : 인턴 2026.11.23(월) 13시",
-      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2190",
-      "published": "2026-11-23",
-      "deadline": null,
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "게시일이 미래",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [],
-      "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
@@ -2705,6 +2448,155 @@
       ],
       "first_seen": "2026-11-08T11:06:46.021805+09:00",
       "change": "기존"
+    },
+    {
+      "id": "de4a9c5b1ee4640316ec",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "[이삼오구] 커머스 마케터 전환형 인턴 추천채용",
+      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2188",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-11T11:35:57.958469+09:00",
+      "change": "변경"
+    },
+    {
+      "id": "85d5e9831880b1fa5bd3",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "채용행사 및 리쿠르팅 안내",
+      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s2_4",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "b64efc182f42e104826a",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "Career path",
+      "url": "https://goodjob.khu.ac.kr/s5/s5_2_1.php",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "6148cb3624017f2b7f35",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "[(주)선일다이파스]2027년 정기 공채사원 추천채용",
+      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2192",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "b4cc7ce6d4af32fb60ce",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "[키엔스코리아] 컨설팅 세일즈 직무 추천채용",
+      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2173",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "065dc985d3323ee13211",
+      "institution": "경희대학교",
+      "category": "대학",
+      "title": "[(주)한국팜비오] 영업MR(Medical Representative) 부문 정규직 추천채용",
+      "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2179",
+      "published": null,
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
     },
     {
       "id": "54b567d78e426f30665f",
@@ -2990,6 +2882,37 @@
       "change": "기존"
     },
     {
+      "id": "e32d94069e9f1bdd9949",
+      "institution": "건국대학교",
+      "category": "대학",
+      "title": "대학원 행정실 행정조교 채용 공고 1. 채용분야 및 인원 캠퍼스근무처직종(직급)담당직무채용인원지원자격 등서울대학원 행정실행정조교대학원 행정실각종 행정업무 지원1명 학사학위 이상 소지자 Full-time 근무 가능자 국가공무원법 임용기준에 결격사유가 없는 자 병역을 필하였거나 면제된 자 (우대사항) 장애인 및 보훈대상자 (우대사항) 한글, MS Office(Word, Excel, PowerP 2026.11.12",
+      "url": "https://www.konkuk.ac.kr/bbs/konkuk/243/1211941/artclView.do?layout=unknown",
+      "published": "2026-11-12",
+      "deadline": "2026-11-13",
+      "role_group": "우선 직무",
+      "requirements_evidence": ". 채용분야 및 인원\n캠퍼스\n근무처\n직종\n(\n직급\n)\n담당직무\n채용인원\n지원자격 등\n서울\n대학원 행정실\n행정조교\n대학원 행정실\n각종 행정업무 지원\n1\n명\n·\n학사\n학위 이상 소지자\n·Full-time\n근무 가능자\n·\n국가공무원법 임용기준에 결격사유가 없는 자",
+      "duties_evidence": ".11.12\n1. 채용분야 및 인원\n캠퍼스\n근무처\n직종\n(\n직급\n)\n담당직무\n채용인원\n지원자격 등\n서울\n대학원 행정실\n행정조교\n대학원 행정실\n각종 행정업무 지원\n1\n명\n·\n학사\n학위 이상 소지자\n·Full-time\n근무 가능자\n·\n국가공무원법 임용기준에",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "근무처\n직종",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요"
+      ],
+      "attachments": [
+        "https://www.konkuk.ac.kr/sites/konkuk/down/konkuk_guide_freshman_2026.pdf",
+        "https://www.konkuk.ac.kr/sites/konkuk/down/konkuk_guide_students_2026.pdf",
+        "https://www.konkuk.ac.kr/sites/konkuk/down/konkuk_guide_freshman_2026_eng.pdf",
+        "https://www.konkuk.ac.kr/sites/konkuk/down/Konkuk_University_Gender_Equality_Plan_2025_2030.pdf",
+        "https://www.konkuk.ac.kr/bbs/konkuk/243/1230564/download.do",
+        "https://www.konkuk.ac.kr/bbs/konkuk/243/1230565/download.do",
+        "https://www.konkuk.ac.kr/bbs/konkuk/243/1230566/download.do"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
       "id": "09cf087cfd5f81c9d463",
       "institution": "숙명여자대학교",
       "category": "대학",
@@ -2998,7 +2921,7 @@
       "published": "2026-07-21",
       "deadline": null,
       "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "수\n5067\n작성자\n관리자\n작성일\n2026-07-21\n1. 모집부문 및 지원 자격\n모집분야\n인원\n지원자격\n입학사정관\n0명\n[필수사항]\n·\n학사학위 이상 소지자로 아래 2개 중 1개 이상을 충족하는 사람\n·\n석사학위 이상 소지자\n·\n입학사정관 또는 교육기관 경력",
+      "requirements_evidence": "수\n5099\n작성자\n관리자\n작성일\n2026-07-21\n1. 모집부문 및 지원 자격\n모집분야\n인원\n지원자격\n입학사정관\n0명\n[필수사항]\n·\n학사학위 이상 소지자로 아래 2개 중 1개 이상을 충족하는 사람\n·\n석사학위 이상 소지자\n·\n입학사정관 또는 교육기관 경력",
       "duties_evidence": "출 서류에 이상이 있는 경우 합격 또는 채용을 취소합니다.\nㆍ본 채용은 직무 수행에 필요한 전문성 뿐 아니라 윤리성 및 공공성에 대한 책임 의식을 종합적으로 심사합니다.\n제출 서류에 허위 사실이 있거나 중대한 사항을 고의로 누락한 경우 합격 또는 임용이",
       "status": "확인 필요",
       "employment": "정규직",
@@ -3771,7 +3694,7 @@
       "duties_evidence": "실기시험 > 면접시험 > 최종합격자 발표(신체검사)\n응시자격 및 상세 직무는 아래 채용사이트를 통해 확인할 수 있습니다.\n■ 관련 사이트\n채용홈페이지 :\nhttps://ibk.incruit.com/\n홈페이지 :\nhttps://www.ibk.co.kr/",
       "status": "확인 필요",
       "employment": "정규직",
-      "employment_evidence": "[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n채용\n[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n2026년 11월 9일\n650\nIBK기업은행에서 2026년 하반기 2차 시간",
+      "employment_evidence": "[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n채용\n[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n2026년 11월 9일\n806\nIBK기업은행에서 2026년 하반기 2차 시간",
       "location_evidence": "",
       "reasons": [
         "서울·경기 실제 근무지 확인 필요",
@@ -3797,7 +3720,7 @@
       "duties_evidence": "실기시험 > 면접시험 > 최종합격자 발표(신체검사)\n응시자격 및 상세 직무는 아래 채용사이트를 통해 확인할 수 있습니다.\n■ 관련 사이트\n채용홈페이지 :\nhttps://ibk.incruit.com/\n홈페이지 :\nhttps://www.ibk.co.kr/",
       "status": "확인 필요",
       "employment": "정규직",
-      "employment_evidence": "[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n채용\n[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n2026년 11월 9일\n651\nIBK기업은행에서 2026년 하반기 2차 시간",
+      "employment_evidence": "[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n채용\n[IBK기업은행] 2026년 하반기 2차 시간선택제 준정규직(장애·보훈) 채용\n2026년 11월 9일\n807\nIBK기업은행에서 2026년 하반기 2차 시간",
       "location_evidence": "",
       "reasons": [
         "서울·경기 실제 근무지 확인 필요",
@@ -3835,7 +3758,7 @@
         "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbswrTrN7Dyw2ME0wK4TMdt3szjP2Kg64tqjD3wO2x1JPXRfVjrigz8KAjiERBcq2wBw2hDgS%2FQAcSpOimkjICtE0%3D"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "기존"
     },
     {
       "id": "6ddbee6f3032f6dd2595",
@@ -3862,6 +3785,112 @@
         "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbswrTrN7Dyw2ME0wK4TMdt3szjP2Kg64tqjD3wO2x1JPXRfVjrigz8KAjiERBcq2wBw2hDgS%2FQAcSpOimkjICtE0%3D"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "5f7f7ba0ed86bfe5f4b1",
+      "institution": "숭실대학교",
+      "category": "대학",
+      "title": "채용 숭실대학교 산학협력단 계약직 직원 채용 공고(연구관리)",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=&f=&keyword=&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EB%8B%A8-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0%EC%97%B0%EA%B5%AC-33",
+      "published": null,
+      "deadline": "2026-11-13",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": ": 홈페이지 접수(https://research.ssu.ac.kr/)\n지원자격\n– 공통\n– 학위무관\n– 본교 산학협력단 직원 임용 자격기준에 결격사유가 없는 자\n– 본교 건학이념에 부합되는 기독인\n– 국가공무원법 임용기준에 의거 결격사유가 없는 자\n– 남자",
+      "duties_evidence": "– 자격증 사본 각 1부 (해당자에 한함)\n– 경력증명서 1부 (담당 직무 명시 – 해당자에 한함)\n– 보훈대상자 또는 취업보호 대상자 증명서류 각 1부 (해당자에 한함)\n※ 모든 첨부 서류는 원본을 스캔(A4 크기 기준)하여 원서접수 시 위의 순서대로",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs4%2FFOPL%2F3wjcZPRZQJt3uBl%2B0rpqrJzUNbIiLQESXb%2B9kisrMtPJC6YOYLroSExaTJiVb8UtV44DmCFxAK%2BhDc4v%2F034D8OSyvQgYFCRMNUAx4bBUoHuPkhlReoxuZnD%2FcIAsLoXdfmEtCFcWg64FcuRF34wa3fJB0ImL893Lozd"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "f623dd9146c5de2b4a7d",
+      "institution": "숭실대학교",
+      "category": "대학",
+      "title": "채용 2026년 숭실학술원 행정팀 일반계약직 채용 공고",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=&f=&keyword=&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%ED%95%99%EC%88%A0%EC%9B%90-%ED%96%89%EC%A0%95%ED%8C%80-%EC%9D%BC%EB%B0%98%EA%B3%84%EC%95%BD%EC%A7%81-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0-2",
+      "published": null,
+      "deadline": "2026-11-19",
+      "role_group": "우선 직무",
+      "requirements_evidence": ": 서류전형 → 면접전형 → 최종합격\n마\n.\n모집 부서 관련사항\n부서명\n지원 자격\n수행 업무\n우대 사항\n비고\n숭실학술원 행정팀\n· 본교 직원 임용 자격 기준에 결격 사유가 없는 자\n· 본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)\n· 남성의 경우 군",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs91gBbmJnWYSom60%2FIYmfkn7ZR9tRN%2FPyhRaesSLTA38yYCfl%2BntlIQHjCA0UymJaYBMRPZMdCrbit90y%2BET54EulOwSMqQILA3vzZ7jOYbV1fbd2miNXwly3p%2BQohwRLIRC%2FZrtnDbsT3C5IYcjnzcaICoLlLEkbljmH%2FCoCL3o22PE3g2eL12xH6%2Fdq2fV0w%3D%3D",
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbswrTrN7Dyw2ME0wK4TMdt3tYAHTmHBpUOnRyOltxBwn72uVgkXTaQ7bAZRHW4JZWqaLLuwR53NQpWvPIXxunEw8%3D"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "62e0507600d836c35861",
+      "institution": "숭실대학교",
+      "category": "대학",
+      "title": "채용 숭실대학교 산학협력단 계약직 직원 채용 공고(연구관리)",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EB%8B%A8-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0%EC%97%B0%EA%B5%AC-33",
+      "published": null,
+      "deadline": "2026-11-13",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": ": 홈페이지 접수(https://research.ssu.ac.kr/)\n지원자격\n– 공통\n– 학위무관\n– 본교 산학협력단 직원 임용 자격기준에 결격사유가 없는 자\n– 본교 건학이념에 부합되는 기독인\n– 국가공무원법 임용기준에 의거 결격사유가 없는 자\n– 남자",
+      "duties_evidence": "– 자격증 사본 각 1부 (해당자에 한함)\n– 경력증명서 1부 (담당 직무 명시 – 해당자에 한함)\n– 보훈대상자 또는 취업보호 대상자 증명서류 각 1부 (해당자에 한함)\n※ 모든 첨부 서류는 원본을 스캔(A4 크기 기준)하여 원서접수 시 위의 순서대로",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs4%2FFOPL%2F3wjcZPRZQJt3uBl%2B0rpqrJzUNbIiLQESXb%2B9kisrMtPJC6YOYLroSExaTJiVb8UtV44DmCFxAK%2BhDc4v%2F034D8OSyvQgYFCRMNUAx4bBUoHuPkhlReoxuZnD%2FcIAsLoXdfmEtCFcWg64FcuRF34wa3fJB0ImL893Lozd"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "7bb5ad637f05f9af9351",
+      "institution": "숭실대학교",
+      "category": "대학",
+      "title": "채용 2026년 숭실학술원 행정팀 일반계약직 채용 공고",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%ED%95%99%EC%88%A0%EC%9B%90-%ED%96%89%EC%A0%95%ED%8C%80-%EC%9D%BC%EB%B0%98%EA%B3%84%EC%95%BD%EC%A7%81-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0-2",
+      "published": null,
+      "deadline": "2026-11-19",
+      "role_group": "우선 직무",
+      "requirements_evidence": ": 서류전형 → 면접전형 → 최종합격\n마\n.\n모집 부서 관련사항\n부서명\n지원 자격\n수행 업무\n우대 사항\n비고\n숭실학술원 행정팀\n· 본교 직원 임용 자격 기준에 결격 사유가 없는 자\n· 본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)\n· 남성의 경우 군",
+      "duties_evidence": "",
+      "status": "제외",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs91gBbmJnWYSom60%2FIYmfkn7ZR9tRN%2FPyhRaesSLTA38yYCfl%2BntlIQHjCA0UymJaYBMRPZMdCrbit90y%2BET54EulOwSMqQILA3vzZ7jOYbV1fbd2miNXwly3p%2BQohwRLIRC%2FZrtnDbsT3C5IYcjnzcaICoLlLEkbljmH%2FCoCL3o22PE3g2eL12xH6%2Fdq2fV0w%3D%3D",
+        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbswrTrN7Dyw2ME0wK4TMdt3tYAHTmHBpUOnRyOltxBwn72uVgkXTaQ7bAZRHW4JZWqaLLuwR53NQpWvPIXxunEw8%3D"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
@@ -3873,7 +3902,7 @@
       "published": null,
       "deadline": "2026-11-06",
       "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "교 모집 공고(물리학과)\n2026년 11월 6일\n798\n모집 요건\n가. 지원자격 : 학사 학위 이상 소지자\n나. 지원조건 : 조교 임용규정에 결격 사유가 없는 자\n다. 우대조건 : 대학 행정업무 유경험자\n라. 채용인원 : 0명\n마. 담당업무 : 학사업무 담당",
+      "requirements_evidence": "교 모집 공고(물리학과)\n2026년 11월 6일\n818\n모집 요건\n가. 지원자격 : 학사 학위 이상 소지자\n나. 지원조건 : 조교 임용규정에 결격 사유가 없는 자\n다. 우대조건 : 대학 행정업무 유경험자\n라. 채용인원 : 0명\n마. 담당업무 : 학사업무 담당",
       "duties_evidence": "다. 우대조건 : 대학 행정업무 유경험자\n라. 채용인원 : 0명\n마. 담당업무 : 학사업무 담당\n근무 조건\n가. 근무시간 : 주 5일 근무(학기 중 09:00~17:30 / 방학 중 10:00~17:00)\n나. 근무부서 : 본교 단과대학 학과(부) 사무실",
       "status": "마감",
       "employment": "확인 필요",
@@ -3917,111 +3946,6 @@
       "change": "기존"
     },
     {
-      "id": "c2ecdd0fe31779b94f9a",
-      "institution": "숭실대학교",
-      "category": "대학",
-      "title": "채용 2026년 숭실대학교 학생지원팀 계약직 직원 모집",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%83%9D%EC%A7%80%EC%9B%90%ED%8C%80-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EB%AA%A8%EC%A7%91",
-      "published": null,
-      "deadline": "2026-11-06",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "연락 예정이며 일자 변경될 수 있음)\n마\n.\n모집 부서 관련사항\n부서명\n지원 자격\n수행 업무\n우대 사항\n비고\n학생처\n학생지원팀\n· 본교 직원 임용 자격 기준에 결격 사유가 없는 자\n· 본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)\n· 4년제 대학교",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs3WNTPYT6HEmh4cXpK8%2Bozz1SDfP5D2U2p0Qm6ijEstE3Xaxq43tGlXkA3wj%2FJlKPAjmtD2%2BKhNfuh3Pp9yhmcc%3D",
-        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs7urn3QWMpAVLQRWVN174LNhCbWienpDQl9vxNVTDpDgmTnGpS0E8VfDhQiUGdTZdAmKeiWHkQv6prnHujmgJE8bTWO6J%2Bv7hlt3%2F4w76r4QW%2FI3uBgadvZDpZhM8DNyTkYLfCjSXpCTmNgOtuFTBG3eIk%2FrVoG%2B0nFRrxOlXQjjVCtSqJUwXMzLezqyU2IbvGheYO2znLhyCl%2FAQnnqHLfRUkivqbTM7aQI%2BWgfevGo8w6nYeajiJCw69PKpTG7pg%3D%3D"
-      ],
-      "first_seen": "2026-10-31T11:06:49.547417+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "6670c13ddd586bc9c3de",
-      "institution": "숭실대학교",
-      "category": "대학",
-      "title": "채용 숭실대학교 산학협력단 변리사 채용 공고(앵커사업)",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EB%8B%A8-%EB%B3%80%EB%A6%AC%EC%82%AC-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0%EC%95%B5%EC%BB%A4%EC%82%AC%EC%97%85-2",
-      "published": null,
-      "deadline": "2026-10-30",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": ": 홈페이지 접수(https://research.ssu.ac.kr/)\n지원자격\n– 공통\n– 학위무관\n– 변리사 자격 소지자\n– 본교 산학협력단 직원 임용 자격기준에 결격사유가 없는 자\n– 본교 건학이념에 부합되는 기독인\n– 국가공무원법 임용기준에 의거 결격",
-      "duties_evidence": "– 자격증 사본 각 1부 (해당자에 한함)\n– 경력증명서 1부 (담당 직무 명시 – 해당자에 한함)\n– 보훈대상자 또는 취업보호 대상자 증명서류 각 1부 (해당자에 한함)\n※ 모든 첨부 서류는 원본을 스캔(A4 크기 기준)하여 첨부하며, 서류전형 합격자",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs1JuCEN%2FgCUVO5mtW8E77T8btBdvmrQcXv6rOlV5FhHSpninkLRDzOW87dJJKpLSPQPDLliGpYqUSr9m5qa066xn3BRTx0NYBXBlHMiAJK4C1zodIsE1%2BMszfXrgjKWfUzCyn3pgnuNlZyd54DT2KHj7Z73s%2FnPtz2AExclI3ND7fXBpeIxqvjljJjkH9y%2FNVw%3D%3D"
-      ],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "b32fe56ee53e8689cbf5",
-      "institution": "숭실대학교",
-      "category": "대학",
-      "title": "채용 숭실대학교 산학협력단 프로젝트계약직 직원 채용 공고(창업지원)",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9-15",
-      "published": null,
-      "deadline": "2026-10-30",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": ": 홈페이지 접수(https://research.ssu.ac.kr/)\n지원자격\n– 공통\n– 학위무관\n– 본교 산학협력단 직원 임용 자격기준에 결격사유가 없는 자\n– 본교 건학이념에 부합되는 기독인\n– 국가공무원법 임용기준에 의거 결격사유가 없는 자\n– 남자",
-      "duties_evidence": "– 자격증 사본 각 1부 (해당자에 한함)\n– 경력증명서 1부 (담당 직무 명시 – 해당자에 한함)\n– 보훈대상자 또는 취업보호 대상자 증명서류 각 1부 (해당자에 한함)\n※ 모든 첨부 서류는 원본을 스캔(A4 크기 기준)하여 첨부하며, 서류전형 합격자",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs1JuCEN%2FgCUVO5mtW8E77T8btBdvmrQcXv6rOlV5FhHSsZsCIvrDPykHsbvSaf9jHErVZtQmhucu92MguPZ2VZ7H1iXFWy65N8HYsvIfM6yWeAt2%2Fhi%2FZ%2BdPCS3ibQWiWlKXFLF31FF%2FXizQ3uCWqV%2BzsGplR4UEZa05llVKkChu"
-      ],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
-      "id": "2b91867fb59ec187d3ce",
-      "institution": "숭실대학교",
-      "category": "대학",
-      "title": "채용 숭실대학교 산학협력단 계약직 직원 채용 공고(연구관리팀)",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?category=%EC%B1%84%EC%9A%A9&f=&keyword=&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5%EB%8B%A8-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0%EC%97%B0%EA%B5%AC-32",
-      "published": null,
-      "deadline": "2026-10-30",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": ": 홈페이지 접수(https://research.ssu.ac.kr/)\n지원자격\n– 공통\n– 학위무관\n– 본교 산학협력단 직원 임용 자격기준에 결격사유가 없는 자\n– 본교 건학이념에 부합되는 기독인\n– 국가공무원법 임용기준에 의거 결격사유가 없는 자\n– 남자",
-      "duties_evidence": "– 자격증 사본 각 1부 (해당자에 한함)\n– 경력증명서 1부 (담당 직무 명시 – 해당자에 한함)\n– 보훈대상자 또는 취업보호 대상자 증명서류 각 1부 (해당자에 한함)\n※ 모든 첨부 서류는 원본을 스캔(A4 크기 기준)하여 원서접수 시 위의 순서대로",
-      "status": "마감",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs1JuCEN%2FgCUVO5mtW8E77T8btBdvmrQcXv6rOlV5FhHSuwOLbyYsoZjaqKlKAGo%2Bv17buyHseMF4%2B138xAAMl5FJTYZ5l14z1saqZURFZgYjkPV3P1wurT8kkQgtqnZtVZx8r0C6kMetr1Kj5fMunaHAHzcrWdElfgIjMBz%2BlWX5"
-      ],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
-    },
-    {
       "id": "9ef169e7c94f49216dca",
       "institution": "한국항공대학교",
       "category": "대학",
@@ -4034,7 +3958,7 @@
       "duties_evidence": "",
       "status": "확인 필요",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "82\n총무팀\n2026-10-07\n582\n454\n2027년 한국항공대학교 정규직 전환형 신규직원 채용(~10/21 까지)\n총무팀\n2026-10-06\n7,879\n총무팀\n2026-10-06\n7,879\n453\n홍보팀 대학 홈페이지 운영 담당(계약직원) 채용\n총무팀",
+      "employment_evidence": "99\n총무팀\n2026-10-07\n599\n454\n2027년 한국항공대학교 정규직 전환형 신규직원 채용(~10/21 까지)\n총무팀\n2026-10-06\n7,921\n총무팀\n2026-10-06\n7,921\n453\n홍보팀 대학 홈페이지 운영 담당(계약직원) 채용\n총무팀",
       "location_evidence": "",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -4265,7 +4189,7 @@
       "published": "2026-11-09",
       "deadline": "2026-11-16",
       "role_group": "우선 직무",
-      "requirements_evidence": "학과\n등록일 :\n2026.11.09\n조회수 :\n130\n가. 모집분야 및 지원자격\n모집분야\n직종\n모집인원\n지원자격 및 우대사항\n사무조교\n(계약직)\n사무조교\n1명\n<지원자격>\n- 4년제 대학 졸업(예정)자\n- 본교 계약직 직원 임용에 결격사유가 없는 자\n- 남자",
+      "requirements_evidence": "학과\n등록일 :\n2026.11.09\n조회수 :\n151\n가. 모집분야 및 지원자격\n모집분야\n직종\n모집인원\n지원자격 및 우대사항\n사무조교\n(계약직)\n사무조교\n1명\n<지원자격>\n- 4년제 대학 졸업(예정)자\n- 본교 계약직 직원 임용에 결격사유가 없는 자\n- 남자",
       "duties_evidence": "",
       "status": "확인 필요",
       "employment": "제외 또는 혼합공고",
@@ -4315,8 +4239,8 @@
       "published": "2026-11-11",
       "deadline": null,
       "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "무팀\n등록일 :\n2026.11.11\n조회수 :\n171\n1.\n모집분야 및 지원자격\n채용부서\n채용분야\n모집인원\n담당직무\n지원자격 및 우대사항\n정보통신개발팀\n계약직(전문)\n(프로젝트 계약직)\n1명\nAI 에이전트 개발자(AI Agent Developer)\n- 대학",
-      "duties_evidence": "수 :\n171\n1.\n모집분야 및 지원자격\n채용부서\n채용분야\n모집인원\n담당직무\n지원자격 및 우대사항\n정보통신개발팀\n계약직(전문)\n(프로젝트 계약직)\n1명\nAI 에이전트 개발자(AI Agent Developer)\n- 대학 행정 및 학사 서비스를 지원하는 AI",
+      "requirements_evidence": "무팀\n등록일 :\n2026.11.11\n조회수 :\n219\n1.\n모집분야 및 지원자격\n채용부서\n채용분야\n모집인원\n담당직무\n지원자격 및 우대사항\n정보통신개발팀\n계약직(전문)\n(프로젝트 계약직)\n1명\nAI 에이전트 개발자(AI Agent Developer)\n- 대학",
+      "duties_evidence": "수 :\n219\n1.\n모집분야 및 지원자격\n채용부서\n채용분야\n모집인원\n담당직무\n지원자격 및 우대사항\n정보통신개발팀\n계약직(전문)\n(프로젝트 계약직)\n1명\nAI 에이전트 개발자(AI Agent Developer)\n- 대학 행정 및 학사 서비스를 지원하는 AI",
       "status": "확인 필요",
       "employment": "제외 또는 혼합공고",
       "employment_evidence": ": 3,800,000원/月(세전)\n※ 근무 성적 평가 결과에 따라 차기 정규직 채용 시 서류전형 가산점 부여 예정\n­-\n근무시간\n: 주 5일 근무(일 8시간 근무)\n­-\n복리후생\n: 4\n대보험 가입\n,\n부속병원 의료비 감면혜택 등\n­-\n근무장소\n:\n가톨릭대",
@@ -4356,6 +4280,58 @@
       "change": "기존"
     },
     {
+      "id": "181583932f36cf9251b9",
+      "institution": "가톨릭대학교",
+      "category": "대학",
+      "title": "[물리학과] 계약직 사무조교 채용 공고",
+      "url": "https://www.catholic.ac.kr/ko/service/Job-posting.do?article.offset=0&articleLimit=10&articleNo=277275&mode=view",
+      "published": "2026-10-29",
+      "deadline": "2026-11-08",
+      "role_group": "우선 직무",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "마감",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "사지원서 및 개인정보수집이용동의서 양식.hwp\n이전글\n[성심산학협력단] 정규직 신입직원 채용 최종면접 합격자 명단\n다음글\n[성심산학협력단] 정규직 신입직원 채용공고\n목록\nQUICK\nMENU\n대학/대학원\n주요사이트\n관련 기관\n맨위로가기\n가대인\n트리니티\n사이버",
+      "location_evidence": "근무장소: 가톨릭대학교 성심교정 물리학과",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://www.catholic.ac.kr/ko/service/Job-posting.do?articleNo=277275&attachNo=227036&mode=download"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "d7f88a46edb12d3963d4",
+      "institution": "가톨릭대학교",
+      "category": "대학",
+      "title": "[취업지원팀] 취업전담관 채용 공고",
+      "url": "https://www.catholic.ac.kr/ko/service/Job-posting.do?article.offset=0&articleLimit=10&articleNo=276843&mode=view",
+      "published": "2026-10-16",
+      "deadline": "2026-10-26",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "재를 모집하오니 많은 관심과 지원을 부탁드립니다\n.\n1. 모집 부문 및 지원 자격\n소속\n직종\n모집\n인원\n담당업무\n지원자격 및 우대사항\n취업지원팀\n계약\n행정직\n1\n명\n• 취업매칭\n• 구직자 및 기업체 DB 관리\n• 구직자 취업상담, 입사서류 및 면접 지도\n• 취",
+      "duties_evidence": "을 부탁드립니다\n.\n1. 모집 부문 및 지원 자격\n소속\n직종\n모집\n인원\n담당업무\n지원자격 및 우대사항\n취업지원팀\n계약\n행정직\n1\n명\n• 취업매칭\n• 구직자 및 기업체 DB 관리\n• 구직자 취업상담, 입사서류 및 면접 지도\n• 취업프로그램 운영 등 취업지원 관",
+      "status": "마감",
+      "employment": "제외 또는 혼합공고",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "기간제 등 제외 조건 포함: 직종별 원문 확인",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "https://www.catholic.ac.kr/ko/service/Job-posting.do?articleNo=276843&attachNo=226600&mode=download"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
       "id": "d24954ce9fc26aedde39",
       "institution": "경기대학교",
       "category": "대학",
@@ -4366,13 +4342,13 @@
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "제외",
-      "employment": "제외 또는 혼합공고",
-      "employment_evidence": "",
+      "status": "확인 필요",
+      "employment": "정규직",
+      "employment_evidence": "26-12-13\n(주)자코모\n[자코모] 백화점팀, 복합몰영업팀 채용공고(정규직)\n서울 > 송파구\n면접후 결정\n경력 2~5년\n2026-12-06\n(주)클레로\n[이너뷰티] MD 모집\n서울 > 서초구\n면접후 결정\n경력무관\n2027-01-12\n(주)갤리언컨설팅그룹",
       "location_evidence": "",
       "reasons": [
-        "기간제 등 제외 조건 포함: 직종별 원문 확인",
         "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요",
         "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
       "attachments": [],
@@ -4481,8 +4457,8 @@
         "게시일·마감일의 수집 기간 확인 필요"
       ],
       "attachments": [
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989302",
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989301"
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989301",
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989302"
       ],
       "first_seen": "2026-10-19T13:35:10.842613+09:00",
       "change": "기존"
@@ -4589,10 +4565,60 @@
         "게시일·마감일의 수집 기간 확인 필요"
       ],
       "attachments": [
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989302",
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989301"
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989301",
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=989302"
       ],
       "first_seen": "2026-10-21T10:23:31.520332+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "b3c698722b5e7d8495de",
+      "institution": "경기대학교",
+      "category": "대학",
+      "title": "모집기간\n\t            \t\n\t            \t\t\n\t            \t\tD-8 [2027.3.1.부 조교채용] 지식재산학전공 조교 모집 인원 1명 접수 2026.11.02\n            \t~\n            \t2026.11.20 근무 2027-03-02 부터",
+      "url": "https://www.kyonggi.ac.kr/www/selectBbsNttView.do?bbsNo=683&key=5142&nttNo=627048",
+      "published": null,
+      "deadline": "2026-11-20",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "다.\n1. 모집인원 : 1명\n2. 지원기간 : 11월 20일(금)\n3. 지원자격 : 졸업자 또는 2027년 2월 졸업예정자\n4. 지원방법 : 이메일접수 (lant0411@naver.com)\n5. 지원서류 : 입사지원서 (사진 1매 첨부, 비상연락처 기재) 1",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "근무처 : 경기대학교 수원캠퍼스 4강의동(예지관) 4105A 지식재산학전공 사무실",
+      "reasons": [
+        "정규직 근거 없음"
+      ],
+      "attachments": [
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990115"
+      ],
+      "first_seen": "2026-11-08T11:06:46.021805+09:00",
+      "change": "변경"
+    },
+    {
+      "id": "33283e3776a9c8e2ed53",
+      "institution": "경기대학교",
+      "category": "대학",
+      "title": "[일반] \n                                            \n                                            \n                                            [유아교육]LG전자 평택어린이집 채용 공고 안내 건(수정)",
+      "url": "https://www.kyonggi.ac.kr/www/selectBbsNttView.do;jsessionid=0EC942E3B3460CB9425C6BD616BA0D54?bbsNo=1073&key=7520&nttNo=627054&pageUnit=10&searchCnd=all&sf.pnos=1073&sf.pnos=888",
+      "published": "2026-11-05",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "게시일·마감일의 수집 기간 확인 필요"
+      ],
+      "attachments": [
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990125"
+      ],
+      "first_seen": "2026-11-09T11:28:10.310395+09:00",
       "change": "기존"
     },
     {
@@ -4619,40 +4645,15 @@
         "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990119"
       ],
       "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
-      "id": "b3c698722b5e7d8495de",
+      "id": "4ccf122c4f641b12d1a3",
       "institution": "경기대학교",
       "category": "대학",
-      "title": "모집기간\n\t            \t\n\t            \t\t\n\t            \t\tD-8 [2027.3.1.부 조교채용] 지식재산학전공 조교 모집 인원 1명 접수 2026.11.02\n            \t~\n            \t2026.11.20 근무 2027-03-02 부터",
-      "url": "https://www.kyonggi.ac.kr/www/selectBbsNttView.do?bbsNo=683&key=5142&nttNo=627048",
-      "published": "2027-03-01",
-      "deadline": "2026-11-20",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "다.\n1. 모집인원 : 1명\n2. 지원기간 : 11월 20일(금)\n3. 지원자격 : 졸업자 또는 2027년 2월 졸업예정자\n4. 지원방법 : 이메일접수 (lant0411@naver.com)\n5. 지원서류 : 입사지원서 (사진 1매 첨부, 비상연락처 기재) 1",
-      "duties_evidence": "",
-      "status": "확인 필요",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "근무처 : 경기대학교 수원캠퍼스 4강의동(예지관) 4105A 지식재산학전공 사무실",
-      "reasons": [
-        "정규직 근거 없음",
-        "게시일이 미래"
-      ],
-      "attachments": [
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990115"
-      ],
-      "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "변경"
-    },
-    {
-      "id": "33283e3776a9c8e2ed53",
-      "institution": "경기대학교",
-      "category": "대학",
-      "title": "[일반] \n                                            \n                                            \n                                            [유아교육]LG전자 평택어린이집 채용 공고 안내 건(수정)",
-      "url": "https://www.kyonggi.ac.kr/www/selectBbsNttView.do;jsessionid=0EC942E3B3460CB9425C6BD616BA0D54?bbsNo=1073&key=7520&nttNo=627054&pageUnit=10&searchCnd=all&sf.pnos=1073&sf.pnos=888",
-      "published": "2026-11-05",
+      "title": "[자유교양대학] 교양교육연구센터 대학혁신지원사업 전문연구원 신규채용 (2026.12.01.부)",
+      "url": "https://www.kyonggi.ac.kr/www/selectBbsNttView.do;jsessionid=4A9FE5ADE22376E8202F4FB4E7155DCB?bbsNo=683&key=5142&nttNo=627050&pageUnit=10&searchCnd=all",
+      "published": "2026-12-01",
       "deadline": null,
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "",
@@ -4664,13 +4665,14 @@
       "reasons": [
         "정규직 근거 없음",
         "서울·경기 실제 근무지 확인 필요",
-        "마감일 확인 필요"
+        "게시일이 미래"
       ],
       "attachments": [
-        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990125"
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990118",
+        "https://www.kyonggi.ac.kr/www/downloadBbsFile.do?atchmnflNo=990119"
       ],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "기존"
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
     },
     {
       "id": "20c6fbcd5743b9794b8c",
@@ -5133,26 +5135,25 @@
       "category": "대학",
       "title": "서울과학기술대학교 산학협력단 행정직(행정원보) 채용 공고",
       "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897493&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
-      "published": "2026-11-05",
-      "deadline": null,
+      "published": null,
+      "deadline": "2026-11-05",
       "role_group": "우선 직무",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "확인 필요",
+      "status": "마감",
       "employment": "확인 필요",
       "employment_evidence": "",
       "location_evidence": "",
       "reasons": [
         "정규직 근거 없음",
         "서울·경기 실제 근무지 확인 필요",
-        "마감일 확인 필요",
         "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
       "attachments": [
         "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
       ],
       "first_seen": "2026-11-07T11:36:25.275133+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "db661197ad84b7c427e8",
@@ -5160,26 +5161,25 @@
       "category": "대학",
       "title": "서울과학기술대학교 산학협력단 행정직(행정원보) 채용 공고",
       "url": "https://www.seoultech.ac.kr/service/info/recruit?allboard=false&bidx=897493&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
-      "published": "2026-11-05",
-      "deadline": null,
+      "published": null,
+      "deadline": "2026-11-05",
       "role_group": "우선 직무",
       "requirements_evidence": "",
       "duties_evidence": "",
-      "status": "확인 필요",
+      "status": "마감",
       "employment": "확인 필요",
       "employment_evidence": "",
       "location_evidence": "",
       "reasons": [
         "정규직 근거 없음",
         "서울·경기 실제 근무지 확인 필요",
-        "마감일 확인 필요",
         "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
       ],
       "attachments": [
         "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
       ],
       "first_seen": "2026-11-08T11:06:46.021805+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "31e4f80f235cb4fd6e95",
@@ -5209,32 +5209,6 @@
       "change": "기존"
     },
     {
-      "id": "210eaa8012812b31253d",
-      "institution": "서울과학기술대학교",
-      "category": "대학",
-      "title": "[제2026-41호] 서울과학기술대학교 에너지환경연구소 일반연구원 채용 공고",
-      "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897562&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
-      "published": "2026-11-09",
-      "deadline": "2026-11-11",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
-      ],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "변경"
-    },
-    {
       "id": "b243fb5ba809c38d2b5d",
       "institution": "서울과학기술대학교",
       "category": "대학",
@@ -5260,32 +5234,6 @@
       ],
       "first_seen": "2026-11-09T11:28:10.310395+09:00",
       "change": "기존"
-    },
-    {
-      "id": "1545f37d5f6224ac0676",
-      "institution": "서울과학기술대학교",
-      "category": "대학",
-      "title": "[제2026-41호] 서울과학기술대학교 에너지환경연구소 일반연구원 채용 공고",
-      "url": "https://www.seoultech.ac.kr/service/info/recruit?allboard=false&bidx=897562&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
-      "published": "2026-11-09",
-      "deadline": "2026-11-11",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
-      ],
-      "first_seen": "2026-11-09T11:28:10.310395+09:00",
-      "change": "변경"
     },
     {
       "id": "362d0c16522dcf184efc",
@@ -5314,32 +5262,6 @@
       "change": "기존"
     },
     {
-      "id": "ae93965f75b3e11f9470",
-      "institution": "서울과학기술대학교",
-      "category": "대학",
-      "title": "[제2026-12호]서울과학기술대학교 에너지융합연구센터 일반연구원 채용공고",
-      "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897474&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
-      "published": "2026-11-04",
-      "deadline": "2026-11-09",
-      "role_group": "기타·직무 확인 필요",
-      "requirements_evidence": "",
-      "duties_evidence": "",
-      "status": "마감",
-      "employment": "확인 필요",
-      "employment_evidence": "",
-      "location_evidence": "",
-      "reasons": [
-        "정규직 근거 없음",
-        "서울·경기 실제 근무지 확인 필요",
-        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
-      ],
-      "attachments": [
-        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
-      ],
-      "first_seen": "2026-11-07T11:36:25.275133+09:00",
-      "change": "기존"
-    },
-    {
       "id": "b546e60792192e535a03",
       "institution": "서울과학기술대학교",
       "category": "대학",
@@ -5363,6 +5285,138 @@
         "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "19f613c068e538cd0365",
+      "institution": "서울과학기술대학교",
+      "category": "대학",
+      "title": "[제2026-07호] 미래 이후 연구소 일반연구원(학사급) 채용 공고",
+      "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897751&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
+      "published": "2026-11-12",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "마감일 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "ba094e2ac581f1ff1e7a",
+      "institution": "서울과학기술대학교",
+      "category": "대학",
+      "title": "서울과학기술대학교 2026년도 제5차 조교 공개경쟁채용 공고",
+      "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897744&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
+      "published": "2026-11-12",
+      "deadline": "2026-11-17",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "210eaa8012812b31253d",
+      "institution": "서울과학기술대학교",
+      "category": "대학",
+      "title": "[제2026-41호] 서울과학기술대학교 에너지환경연구소 일반연구원 채용 공고",
+      "url": "https://www.seoultech.ac.kr/service/info/recruit/?allboard=false&bidx=897562&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
+      "published": "2026-11-09",
+      "deadline": "2026-11-11",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "마감",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
+      ],
+      "first_seen": "2026-11-09T11:28:10.310395+09:00",
+      "change": "기존"
+    },
+    {
+      "id": "a661c510d7af50c3bacd",
+      "institution": "서울과학기술대학교",
+      "category": "대학",
+      "title": "[제2026-07호] 미래 이후 연구소 일반연구원(학사급) 채용 공고",
+      "url": "https://www.seoultech.ac.kr/service/info/recruit?allboard=false&bidx=897751&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
+      "published": "2026-11-12",
+      "deadline": null,
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "마감일 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
+      "change": "신규"
+    },
+    {
+      "id": "b0987e63704f3657989a",
+      "institution": "서울과학기술대학교",
+      "category": "대학",
+      "title": "서울과학기술대학교 2026년도 제5차 조교 공개경쟁채용 공고",
+      "url": "https://www.seoultech.ac.kr/service/info/recruit?allboard=false&bidx=897744&bnum=3601&cate=10&do=commonview&nowpage=1&nowpage=1&qidx=3601&searchtext=&searchtype=-1",
+      "published": "2026-11-12",
+      "deadline": "2026-11-17",
+      "role_group": "기타·직무 확인 필요",
+      "requirements_evidence": "",
+      "duties_evidence": "",
+      "status": "확인 필요",
+      "employment": "확인 필요",
+      "employment_evidence": "",
+      "location_evidence": "",
+      "reasons": [
+        "정규직 근거 없음",
+        "서울·경기 실제 근무지 확인 필요",
+        "본문 영역 자동 분리 불가: 공통 문구 혼입 가능"
+      ],
+      "attachments": [
+        "http://www.seoultech.ac.kr/storage/www/intro/uvstat/rules/2019guide.pdf"
+      ],
+      "first_seen": "2026-11-13T12:15:09.896091+09:00",
       "change": "신규"
     },
     {
@@ -5389,13 +5443,13 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/115112/download.do"
       ],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
       "id": "35aed1e039dd5b91ea7e",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "성신여자대학교 연구산학협력단 정보화 담당(기간제 계약직) 채용 인사총무팀 조회수 664",
+      "title": "성신여자대학교 연구산학협력단 정보화 담당(기간제 계약직) 채용 인사총무팀 조회수 680",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/160945/artclView.do",
       "published": "2026-10-16",
       "deadline": null,
@@ -5419,7 +5473,7 @@
       "id": "88c28f682b0f72836ea2",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "청년고용거버넌스팀 대학일자리플러스센터 취업지원 전담자 계약직원 채용 인사총무팀 조회수 597 ※첨부파일",
+      "title": "청년고용거버넌스팀 대학일자리플러스센터 취업지원 전담자 계약직원 채용 인사총무팀 조회수 623 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/160907/artclView.do",
       "published": "2026-10-15",
       "deadline": null,
@@ -5465,7 +5519,7 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/114714/download.do"
       ],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "변경"
+      "change": "기존"
     },
     {
       "id": "99f9ff77376ac5842837",
@@ -5497,7 +5551,7 @@
       "id": "31c77b4ac90a0e770914",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "성신여자대학교 제2교학팀(경영학과 재직자 전형 담당자) 계약직원 채용 새글 인사총무팀 조회수 29 ※첨부파일",
+      "title": "성신여자대학교 제2교학팀(경영학과 재직자 전형 담당자) 계약직원 채용 새글 인사총무팀 조회수 93 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/161681/artclView.do",
       "published": "2026-11-12",
       "deadline": null,
@@ -5517,13 +5571,13 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/115255/download.do"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "변경"
     },
     {
       "id": "f5d1ad32c73b74c0887f",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "<상시> 성신여대 대학 교학팀(각 교학팀) 계약직원 채용(2026.11.2.) 인사총무팀 조회수 582 ※첨부파일",
+      "title": "<상시> 성신여대 대학 교학팀(각 교학팀) 계약직원 채용(2026.11.2.) 인사총무팀 조회수 617 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/161450/artclView.do",
       "published": "2026-11-02",
       "deadline": null,
@@ -5543,13 +5597,13 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/115150/download.do"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "변경"
     },
     {
       "id": "3fc94cf9d59d9a6942c7",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "성신여자대학교 입학관리실 입학사정관 채용(계약직) 인사총무팀 조회수 351 ※첨부파일",
+      "title": "성신여자대학교 입학관리실 입학사정관 채용(계약직) 인사총무팀 조회수 383 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/161437/artclView.do",
       "published": "2026-11-02",
       "deadline": null,
@@ -5569,13 +5623,13 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/115118/download.do"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "변경"
     },
     {
       "id": "23ac81724f91fff38ab5",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "[대학혁신지원사업] 교육과정혁신팀 계약직원 채용 인사총무팀 조회수 595 ※첨부파일",
+      "title": "[대학혁신지원사업] 교육과정혁신팀 계약직원 채용 인사총무팀 조회수 617 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/161217/artclView.do",
       "published": "2026-10-23",
       "deadline": null,
@@ -5595,13 +5649,13 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/114971/download.do"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "변경"
     },
     {
       "id": "4261f5bf98fd660d3934",
       "institution": "성신여자대학교",
       "category": "대학",
-      "title": "성신여자대학교 국제교류지원팀 계약직원 채용 인사총무팀 조회수 809 ※첨부파일",
+      "title": "성신여자대학교 국제교류지원팀 계약직원 채용 인사총무팀 조회수 837 ※첨부파일",
       "url": "https://www.sungshin.ac.kr/bbs/main_kor/3207/160859/artclView.do",
       "published": "2026-10-14",
       "deadline": null,
@@ -5621,7 +5675,7 @@
         "https://www.sungshin.ac.kr/bbs/main_kor/3207/114715/download.do"
       ],
       "first_seen": "2026-11-12T12:40:02.383697+09:00",
-      "change": "신규"
+      "change": "변경"
     },
     {
       "id": "c54f671458ca88cabc9c",
@@ -5811,7 +5865,7 @@
       "id": "4ceeff62ca411a3363df",
       "institution": "가톨릭대학교 성신교정",
       "category": "대학",
-      "title": "가톨릭대학교 성신교정 정규직 일반행정 채용 공고 – 접수시간 2026.11.29까지",
+      "title": "가톨릭대학교 성신교정 정규직 일반행정 채용 공고 – 접수기간 2026.11.29까지",
       "url": "https://stt.catholic.ac.kr/ko/songsin-community/Job-posting.do?article.offset=0&articleLimit=16&articleNo=54974&mode=view",
       "published": "2026-11-09",
       "deadline": "2026-11-29",
@@ -5820,7 +5874,7 @@
       "duties_evidence": "",
       "status": "확인 필요",
       "employment": "제외 또는 혼합공고",
-      "employment_evidence": "가톨릭대학교 성신교정 정규직 일반행정 채용 공고 – 접수시간 2026.11.29까지  | 가톨릭대학교 성신교정\n본문 바로가기\n전체메뉴보기\n전체메뉴 닫기\n성신교정\nIntroduction\n대학소개\n인사말\n교육이",
+      "employment_evidence": "가톨릭대학교 성신교정 정규직 일반행정 채용 공고 – 접수기간 2026.11.29까지  | 가톨릭대학교 성신교정\n본문 바로가기\n전체메뉴보기\n전체메뉴 닫기\n성신교정\nIntroduction\n대학소개\n인사말\n교육이",
       "location_evidence": "근무지 : 우) 03083 서울시 종로구 창경궁로 296-12 (혜화동) 가톨릭대학교 성신교정",
       "reasons": [
         "기간제 등 제외 조건 포함: 직종별 원문 확인",
@@ -5828,7 +5882,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "d3f1f511b9a0786ce740",
@@ -5837,11 +5891,11 @@
       "title": "가톨릭대학교 성신교정 계약직(영양팀-사제식당) 직원 모집",
       "url": "https://stt.catholic.ac.kr/ko/songsin-community/Job-posting.do?article.offset=0&articleLimit=16&articleNo=54964&mode=view",
       "published": "2026-10-26",
-      "deadline": null,
+      "deadline": "2026-11-29",
       "role_group": "기타·직무 확인 필요",
       "requirements_evidence": "-사제식당) 직원 모집\n1. 모집부문 : 영양팀(사제식당) 조리원\n2. 지원자격\n가. 교육공무원법상 임용 결격 사유가 없는 자\n나. 조리사 자격증 소지자 우대\n다. 관련업무 유경험자 우대\n3. 근무관련\n가. 근무시간 : 주 5일_40시간 [2교대_오전조 06",
       "duties_evidence": "",
-      "status": "확인 필요",
+      "status": "기간 밖",
       "employment": "제외 또는 혼합공고",
       "employment_evidence": "1:00~20:00]_휴게 1시간\n나. 급여 : 본교 내규에 따름\n다. 수습기간 : 입사일로 부터 3개월\n4. 전형 및 제출서류\n가. 1차 서류전형_이력서 및 자기소개서\n나. 2차 면접전형_서류합격자에 한함\n다. 최종합격자 추가제출서류_채용신체검사서 또는",
       "location_evidence": "근무지 : 우)03083 서울시 종로구 창경궁로 296-12 가톨릭대학교 성신교정",
@@ -5852,7 +5906,7 @@
       ],
       "attachments": [],
       "first_seen": "2026-11-11T11:35:57.958469+09:00",
-      "change": "기존"
+      "change": "변경"
     },
     {
       "id": "c1eec3bc055ea9d6944a",
@@ -5999,16 +6053,12 @@
     },
     {
       "institution": "가톨릭대학교",
-      "state": "부분 실패",
+      "state": "부분 확인",
       "pages": 8,
       "candidates": 12,
-      "parsed": 10,
+      "parsed": 12,
       "javascript_links": 1,
-      "errors": [
-        {
-          "error": "120초 탐색 예산 도달: 일부 상세 미확인"
-        }
-      ],
+      "errors": [],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6027,8 +6077,8 @@
       "institution": "가톨릭중앙의료원",
       "state": "부분 확인",
       "pages": 8,
-      "candidates": 20,
-      "parsed": 20,
+      "candidates": 14,
+      "parsed": 14,
       "javascript_links": 8,
       "errors": [],
       "limit_reached": true,
@@ -6038,8 +6088,8 @@
       "institution": "건국대학교",
       "state": "부분 실패",
       "pages": 8,
-      "candidates": 29,
-      "parsed": 10,
+      "candidates": 31,
+      "parsed": 11,
       "javascript_links": 0,
       "errors": [
         {
@@ -6053,8 +6103,8 @@
       "institution": "경기대학교",
       "state": "부분 실패",
       "pages": 8,
-      "candidates": 16,
-      "parsed": 12,
+      "candidates": 14,
+      "parsed": 13,
       "javascript_links": 0,
       "errors": [
         {
@@ -6068,13 +6118,24 @@
       "institution": "경희대학교",
       "state": "부분 실패",
       "pages": 8,
-      "candidates": 4,
-      "parsed": 3,
-      "javascript_links": 1,
+      "candidates": 29,
+      "parsed": 6,
+      "javascript_links": 3,
       "errors": [
         {
-          "url": "https://goodjob.khu.ac.kr/s5/s5_2_1.php",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://goodjob.khu.ac.kr/s5/s5_2_1.php\", waiting until \"domcontentloaded\"\n"
+          "url": "https://goodjob.khu.ac.kr/",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://goodjob.khu.ac.kr/\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "url": "https://goodjob.khu.ac.kr/s1/s1_1.php",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://goodjob.khu.ac.kr/s1/s1_1.php\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2190",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&wr_id=2190\", waiting until \"domcontentloaded\"\n"
+        },
+        {
+          "error": "120초 탐색 예산 도달: 일부 상세 미확인"
         }
       ],
       "limit_reached": true,
@@ -6126,21 +6187,22 @@
     {
       "institution": "국민대학교",
       "state": "부분 실패",
-      "pages": 7,
-      "candidates": 8,
+      "pages": 6,
+      "candidates": 5,
       "parsed": 5,
       "javascript_links": 1,
       "errors": [
         {
           "url": "http://research.kookmin.ac.kr/information/notice/",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://research.kookmin.ac.kr/information/notice/\", waiting until \"domcontentloaded\"\n"
+          "error": "Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://research.kookmin.ac.kr/information/notice/\nCall log:\n  - navigating to \"http://research.kookmin.ac.kr/information/notice/\", waiting until \"domcontentloaded\"\n"
         },
         {
           "url": "http://research.kookmin.ac.kr/information/application/",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://research.kookmin.ac.kr/information/application/\", waiting until \"domcontentloaded\"\n"
+          "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at http://research.kookmin.ac.kr/information/application/\nCall log:\n  - navigating to \"http://research.kookmin.ac.kr/information/application/\", waiting until \"domcontentloaded\"\n"
         },
         {
-          "error": "120초 탐색 예산 도달: 일부 상세 미확인"
+          "url": "https://career.kookmin.ac.kr/ko/counsel/friend/mentor",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://career.kookmin.ac.kr/ko/counsel/friend/mentor\", waiting until \"domcontentloaded\"\n"
         }
       ],
       "limit_reached": true,
@@ -6170,17 +6232,12 @@
     },
     {
       "institution": "대산문화재단",
-      "state": "접속 실패",
-      "pages": 0,
-      "candidates": 0,
-      "parsed": 0,
+      "state": "부분 확인",
+      "pages": 3,
+      "candidates": 2,
+      "parsed": 2,
       "javascript_links": 0,
-      "errors": [
-        {
-          "url": "https://www.daesan.or.kr/",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.daesan.or.kr/\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
+      "errors": [],
       "limit_reached": false,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6190,7 +6247,7 @@
       "pages": 8,
       "candidates": 2,
       "parsed": 2,
-      "javascript_links": 38,
+      "javascript_links": 39,
       "errors": [],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
@@ -6230,12 +6287,17 @@
     },
     {
       "institution": "분당서울대학교병원",
-      "state": "부분 확인",
+      "state": "부분 실패",
       "pages": 8,
       "candidates": 9,
-      "parsed": 9,
+      "parsed": 8,
       "javascript_links": 3,
-      "errors": [],
+      "errors": [
+        {
+          "url": "https://snubh.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271977&systemKindCode=MRS2",
+          "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://snubh.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271977&systemKindCode=MRS2\nCall log:\n  - navigating to \"https://snubh.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271977&systemKindCode=MRS2\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6265,8 +6327,8 @@
       "institution": "삼성서울병원",
       "state": "부분 확인",
       "pages": 8,
-      "candidates": 15,
-      "parsed": 15,
+      "candidates": 12,
+      "parsed": 12,
       "javascript_links": 6,
       "errors": [],
       "limit_reached": true,
@@ -6298,8 +6360,8 @@
       "institution": "서울과학기술대학교",
       "state": "부분 실패",
       "pages": 8,
-      "candidates": 27,
-      "parsed": 26,
+      "candidates": 29,
+      "parsed": 28,
       "javascript_links": 0,
       "errors": [
         {
@@ -6311,21 +6373,12 @@
     },
     {
       "institution": "서울대학교",
-      "state": "부분 실패",
+      "state": "부분 확인",
       "pages": 8,
-      "candidates": 14,
-      "parsed": 13,
+      "candidates": 12,
+      "parsed": 12,
       "javascript_links": 0,
-      "errors": [
-        {
-          "url": "https://admission.snu.ac.kr/transfer/notice",
-          "error": "Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://admission.snu.ac.kr/transfer/notice\nCall log:\n  - navigating to \"https://admission.snu.ac.kr/transfer/notice\", waiting until \"domcontentloaded\"\n"
-        },
-        {
-          "url": "https://www.snu.ac.kr/snunow/notice/job-openings?bbsidx=179210&md=v",
-          "error": "RuntimeError: HTTP 404"
-        }
-      ],
+      "errors": [],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6342,12 +6395,17 @@
     },
     {
       "institution": "서울시립대학교",
-      "state": "확인 필요",
-      "pages": 1,
+      "state": "접속 실패",
+      "pages": 0,
       "candidates": 0,
       "parsed": 0,
       "javascript_links": 0,
-      "errors": [],
+      "errors": [
+        {
+          "url": "https://www.uos.ac.kr/",
+          "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        }
+      ],
       "limit_reached": false,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6357,7 +6415,7 @@
       "pages": 8,
       "candidates": 0,
       "parsed": 0,
-      "javascript_links": 2,
+      "javascript_links": 3,
       "errors": [],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
@@ -6366,8 +6424,8 @@
       "institution": "성균관대학교",
       "state": "부분 실패",
       "pages": 8,
-      "candidates": 20,
-      "parsed": 16,
+      "candidates": 34,
+      "parsed": 17,
       "javascript_links": 0,
       "errors": [
         {
@@ -6386,8 +6444,8 @@
       "javascript_links": 0,
       "errors": [
         {
-          "url": "https://www.sungshin.ac.kr/main_kor/11108/subview.do",
-          "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.sungshin.ac.kr/main_kor/11108/subview.do\nCall log:\n  - navigating to \"https://www.sungshin.ac.kr/main_kor/11108/subview.do\", waiting until \"domcontentloaded\"\n"
+          "url": "https://www.sungshin.ac.kr/main_kor/11109/subview.do",
+          "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.sungshin.ac.kr/main_kor/11109/subview.do\nCall log:\n  - navigating to \"https://www.sungshin.ac.kr/main_kor/11109/subview.do\", waiting until \"domcontentloaded\"\n"
         }
       ],
       "limit_reached": false,
@@ -6406,17 +6464,12 @@
     },
     {
       "institution": "숙명여자대학교",
-      "state": "부분 실패",
+      "state": "부분 확인",
       "pages": 8,
       "candidates": 5,
       "parsed": 5,
       "javascript_links": 0,
-      "errors": [
-        {
-          "url": "https://www.sookmyung.ac.kr/kr/research/project-submission.do",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.sookmyung.ac.kr/kr/research/project-submission.do\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
+      "errors": [],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6424,7 +6477,7 @@
       "institution": "숭실대학교",
       "state": "부분 실패",
       "pages": 4,
-      "candidates": 42,
+      "candidates": 45,
       "parsed": 29,
       "javascript_links": 0,
       "errors": [
@@ -6493,8 +6546,8 @@
       "institution": "연세의료원",
       "state": "부분 확인",
       "pages": 8,
-      "candidates": 8,
-      "parsed": 8,
+      "candidates": 9,
+      "parsed": 9,
       "javascript_links": 4,
       "errors": [],
       "limit_reached": true,
@@ -6502,12 +6555,17 @@
     },
     {
       "institution": "이화여자대학교",
-      "state": "부분 확인",
+      "state": "부분 실패",
       "pages": 8,
-      "candidates": 4,
+      "candidates": 5,
       "parsed": 4,
       "javascript_links": 0,
-      "errors": [],
+      "errors": [
+        {
+          "url": "https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367923&mode=view&no=333",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ewha.ac.kr/ewha/news/notice.do?article.offset=0&articleLimit=10&articleNo=367923&mode=view&no=333\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
       "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
@@ -6541,14 +6599,14 @@
     {
       "institution": "중앙대학교",
       "state": "부분 실패",
-      "pages": 4,
+      "pages": 6,
       "candidates": 1,
       "parsed": 1,
-      "javascript_links": 26,
+      "javascript_links": 33,
       "errors": [
         {
-          "url": "http://public.cau.ac.kr/",
-          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://public.cau.ac.kr/\", waiting until \"domcontentloaded\"\n"
+          "url": "http://public.cau.ac.kr/04_pov/pov_01a.php",
+          "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://public.cau.ac.kr/04_pov/pov_01a.php\", waiting until \"domcontentloaded\"\n"
         }
       ],
       "limit_reached": false,
@@ -6628,12 +6686,12 @@
     {
       "institution": "한국항공대학교",
       "state": "부분 확인",
-      "pages": 1,
+      "pages": 8,
       "candidates": 3,
       "parsed": 3,
-      "javascript_links": 0,
+      "javascript_links": 2,
       "errors": [],
-      "limit_reached": false,
+      "limit_reached": true,
       "note": "결과 0건은 공고 부재를 확정하지 않습니다."
     },
     {
@@ -6690,100 +6748,128 @@
     {
       "query": "재단 채용 행정 사무 정규직",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "문화재단 채용 경영지원",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "문화재단 채용 사업기획 운영",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "학술재단 직원 채용",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "장학재단 직원 채용",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "기업재단 채용 기획 인사 총무",
       "group": "foundation_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "판교테크노밸리 정규직 채용 경영지원",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "판교 정규직 채용 인사 총무",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "판교 정규직 채용 기획 사무",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
-      "hits": 10,
-      "errors": []
+      "state": "응답 수신·유효 후보 없음",
+      "hits": 7,
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "제2판교테크노밸리 직원 채용",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "기흥 ICT밸리 정규직 채용",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
-      "hits": 2,
-      "errors": []
+      "state": "응답 수신·유효 후보 없음",
+      "hits": 10,
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "기흥ICT밸리 채용 경영지원",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "에스디바이오센서 채용",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     },
     {
       "query": "SD BIOSENSOR careers",
       "group": "company_discovery",
-      "state": "검색 응답 확인",
+      "state": "응답 수신·유효 후보 없음",
       "hits": 10,
-      "errors": []
+      "errors": [
+        "검색 결과 확보 기능의 유효성을 추가 확인해야 합니다."
+      ]
     }
   ],
   "coverage": "등록 출처 탐색과 외부 검색 결과입니다. 국내 전체 공고의 수집을 보장하지 않습니다."
