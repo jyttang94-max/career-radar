@@ -1,9 +1,13 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-13T12:15:08.381170+09:00
+수집 시각: 2026-11-14T11:56:45.387179+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [전력거래소, 광주한마음장학재단에 청소년 장학금 기탁 - 일간투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE5FemZvWjJhamhLalZvc2N6c19tU0hFdTVtelpqRFVHMndoTUNLWk8zLTRKcm5LMWd1d2NDM2gtUDNraE42Y1NKbzl5SnpYVVZuODRTaF9wYi1nN0Q0cUxVU2VZUk1QOFl2T1lj?oc=5)
+  - 기사일: 2026-11-13
+  - 출처: 일간투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [롯데문화재단 메세나 대상 수상 - 세계일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wSFAzazNXWjAwSkVkS3hzVjVvVVVKamJiNHllaEdCaldWSE1UN1RMbXVwSGNFOVcxMFdMLUZlZGhrZ19rZnVoYldLMnI0SHlyRnc2a0ZLSUPSAVRBVV95cUxOOGNZWG5VekM2dVAzWm5nZ09YYURZMXRoYy1tTjVId2VSV012SklBS005ZTkxMmJTWnNvQmxTck92cGtfSERnUW5TZU5XZkNqNk1lODI?oc=5)
   - 기사일: 2026-11-12
   - 출처: 세계일보
@@ -20,6 +24,14 @@
   - 기사일: 2026-11-11
   - 출처: 파이낸셜투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [인천 생활문화 예산 줄고 개편 공백까지···"재단 생길 때까지 미루면 안 돼" - 인천투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1VRUtoU0laRG9vWTdpNm5TNXFYMm9GbjZvc3pYU2ZQSXVtQjkwNmRZakV5NzFZZWRvZWgyRGxVQWxucE1RdXpuR2FxeWdqTjdSd2sxaVlXT2Rsc3NFNW0tdS1Gcko1a2VPMzJUVW9lVzU?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 인천투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [평화재단, 12일 창립 22주년 심포지엄…생존전략 모색 : 문화 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IOWhRdFQ4ajZwVldyYVZKNlJZNUNxbHRGLVl2ZUVvSEMycEtXYmtDUHFtaWJFdE5ad1l3SFcxNm9UQnFaTUx3VGdvbw?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 재경일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [롯데문화재단, '2026 한국메세나대회'서 제27회 메세나대상 수상 - 국제뉴스](https://news.google.com/rss/articles/CBMibkFVX3lxTFBkYTZWclBUSzBiVTNtWjlyQk11R09yMlFVdzZyMzZ1Q043YTFoS2NmckloZzBoUmQ2dDAwWFlhNFhCLWc5ejRKOFZxSERfOHBqR3d1a1o0ZWxvbnVMRkFyNE9nMDRMejYwYUFGeElB?oc=5)
   - 기사일: 2026-11-11
   - 출처: 국제뉴스
@@ -28,9 +40,17 @@
   - 기사일: 2026-11-11
   - 출처: 중도일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [파마리서치문화재단, 강릉 예술 지원으로 문화공헌상 수상 - 주간한국](https://news.google.com/rss/articles/CBMicEFVX3lxTE04VnVLbUN5UXRiZm1NYmhIelBkUGh2V1gtLVhoRmZCT1lMa3BJeVBQQjNpNzlwR0FtZTREX0Njc3V3aFMxQV9zYzBNck81NXVTczF2eG5rNEVRTlpIQWRlY3VtNVBtM3M4OWpESlVERDHSAXRBVV95cUxPSlBWVFB2elBwaGg5SWwwZDdNaEo0aTdsUDVoSmVCeGRRMzBud3pUNTFkamwxVlRKYVZTaW9pZ0RENUhoeGpOWElWbTgtUDVXNTFRSkRYeW54Y004TndnZk1jc21uRDRLZm9wblVFNnJtMWFTeQ?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 주간한국
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [파마리서치문화재단, 2026 메세나대상 ‘문화공헌상’ 수상 - 강원도민일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pOXl0NFk3SFBKaHlZTW9ha3diNEdzWXpyREFmaUREdkRiWGZkZlJzWmxJXzhfdTNaVExTancwWm5SREVtY1BJNW1RV0h2cDktOU1uMzRhT3EwWHZKMFF5by1zcnFhYl9W?oc=5)
   - 기사일: 2026-11-11
   - 출처: 강원도민일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [파마리서치문화재단, 한국메세나대회서 문화공헌상 수상 - 뉴스1](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CZEtTMTF5em5oY3AzdzE5SWozS0NXMm1STWRuYkRuNXZndE9FUHpRVHF6Mm4tSVZJTXZhd25aVm54VlNQRzhlRkdjVDhqNWxvSHdIdHdUeG9tLVhWREpiVQ?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 뉴스1
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [봉양순 서울시의회 의원, “서울미래인재단 직원 만족도 3년 연속 최하위…조직문화 개선 시급” - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kQnVjLXlCeFB1SDBIY29nbXIybDhPeFI0VWgtODRwbnRmM3g1SDNDbkM3dGpSM0w0UmlleHQ0SldSOEIzUGt6R2xydHVnNkZtQ2tYMDFLZ2lhMGpoN2NKdlkwSy0?oc=5)
   - 기사일: 2026-11-11
@@ -55,6 +75,10 @@
 - [롯콘 300만명·롯뮤 80만명…롯데문화재단 메세나 대상 - 아주경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qNHZtMWZ6TngwNkhlREFtQkJJNDdrT0dqWnA1N0FrMzhmdWRhQWNUcG9YUUxFRVRzNDJzMU9GeFIwSGhhbDFvdjdoRmV3WVZ4eWxoRktZMEHSAVhBVV95cUxPajR2bTFmek54MDZIZURBbUJCSTQ3a09HalpwNTdBazM4ZnVkYUFjVHBvWFFMRUVUczQyczFPRnhSMEhoYWwxb3Y3aEZld1lWeHlsaEZLWTBB?oc=5)
   - 기사일: 2026-11-11
   - 출처: 아주경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [롯데문화재단 ‘메세나대상’ 대상 수상...“예술생태계 든든한 동반자 역할 다할 것” - 데일리한국](https://news.google.com/rss/articles/CBMib0FVX3lxTE1sSms4NUF0bl85ZjJzbXp0VnVxU2Vicmk5QXhYMndLaGZLZlJlb3N4dWdMaV9XSzA2dkk5X21OZ2xfUDJlckp3XzQ3X3ZBOVpfbFJQVlgxMFpvSi1rZE5QZmN2aFpkYi0wWndrNXZ5SdIBc0FVX3lxTFB0dXBGakloUTI2QzF5djNPbEZpOU5xZmZuc3RWbWstdHhZNEx3UlJ3U3lpODcyTmVQamN6UFdZU2Qwd0ZseWZvSFdQRzhiRkMwQnR4S0tyWG9pNmNiWjg2SURCZVhxWXVXc0paRXE2WmNTbms?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 데일리한국
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [김천시, 관광문화재단 설립 본격 추진...전담 TF팀 신설:시대일보 - 시대일보](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVT19OSHVYUmt3Z0JjVUMzbmppVlg1QVdSMzQyeHZOQjF1a0xIS2Vta0daUmIzOE9TZlBOckJENG1QX0dGMHBSaWNB0gFnQVVfeXFMTlJsN2FYWVRSVHRsYkJVRTl3T3AycEwxMnRPeHI3M0tZWGNveE5yR3ZEX2V2MHlHZlZnS2RKX3NiV2VleGtEc1hFTVRKeFRDTGtKR2k2ZlJMS014b3VkSWNNNnVYUWU4SQ?oc=5)
   - 기사일: 2026-11-10
@@ -133,6 +157,10 @@
   - 출처: 신경북뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(똑똑한유통) KT&G, 신세계백화점, 삼양그룹, KT알파 쇼핑, 알바몬, 이랜드복지재단, LG생활건강, 풀무원, 샘표 - 에너지경제신문](https://news.google.com/rss/articles/CBMiY0FVX3lxTE04SW5KUzNyTFJCamVNTmVuOXY2RTFPUkZfc2JObU5IbzE2MjVPRnFwbE9xYWZnbUlOeG1NbDYwVTJCZHZFUVNVUkNNQk9pTVpiVG5tSU5MX19JS1FJWU8wNlFhWQ?oc=5)
+  - 기사일: 2026-11-09
+  - 출처: 에너지경제신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(똑똑한유통) KT&G, 신세계백화점, 삼양그룹, KT알파 쇼핑, 알바몬, 이랜드복지재단, LG생활건강, 풀무원, 샘표 - 에너지경제신문](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsOGNYSzAwQVdWRHN2cDk4VTROUFJHcmludGVzbURvQUY2YlpscEN1TXE0dGFiRXFYYTNhT0ZlRkZBMzM0QldUNEQzdEtYem9vTWVBVmZGZXdNZVU?oc=5)
   - 기사일: 2026-11-09
   - 출처: 에너지경제신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -663,6 +691,10 @@
 - [샘표·한국국제교류재단, 한식 세계화 맞손…K-푸드 체험 확대 - 푸드투데이](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLajdtMldYZDVvcEY3OXpPZzZiekNQdHcxVjNFLUIyT05rVDk0THNHNzg0ay1GRFl3a3dhOFc4MUQyWDFRMkdMR0pfR2R3STlDOTB5QXl4Z3lMRlhiNWZGWkUzUQ?oc=5)
   - 기사일: 2026-10-16
   - 출처: 푸드투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [샘표 우리맛문화재단, 한국국제교류재단과 K푸드 문화 교류 확대 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE41Nk9HYXJTWWVrdzg3cWtiTVlGQlBoWk53dlJUWERSNnNOeXdIcUpGei1kdHE4NUwtWUhIU0FERTAxbzFKaFI2WGRWeXdRUQ?oc=5)
+  - 기사일: 2026-10-16
+  - 출처: 전자신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [귀뚜라미 문화재단, 완주 학생 104명에 장학금 1억원…지역 인재 성장 지원 - 더펜뉴스](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hRmVlTXFORHVLTG51azBoX3lhR3lXc1MzcEN4eWdkTnhtX2tFMGc0VTVac2RKYlJVbVdGUElMclpfRV9VX3VzMkVUNU5wVWpBVzB0bGZzU0JXeHVmTXZET1lScw?oc=5)
   - 기사일: 2026-10-16
