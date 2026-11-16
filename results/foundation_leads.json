@@ -1,6 +1,76 @@
 {
-  "run_at": "2026-11-15T11:27:41.634450+09:00",
+  "run_at": "2026-11-16T11:36:55.051454+09:00",
   "leads": [
+    {
+      "id": "63039ab26fe378fb6131",
+      "title": "설립 20주년 CJ문화재단, 젊은 창작자에 917억 후원 - 남다른디테일",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wT3hmeVlKTnJUVkxQM3VaT3VMSWNJdG5FQ3VtalFSaEZsOHhIaWJiZ20tQzZfTmFoLTNnY3I2Q0dPQQ?oc=5",
+      "published": "2026-11-16T10:30:27+09:00",
+      "source": "남다른디테일",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "21395e16e0d8f2985c8a",
+      "title": "CJ문화재단, 설립 20주년 맞아 K-컬처 성과 공개···누적 후원금 917억원 넘어 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVksyTUZFSEphSFR0RmlGazBBNHpPOFM0U0VaSG5WeGZPUC1PN0l3bjM4eW10eGU1cmU5Ukg3NmJiaHpUT2NFTEhkTTBoRlgtcTF2eTkzVnNBMFZaM0pPWXpjWDNWRmcxbk85NA?oc=5",
+      "published": "2026-11-16T09:52:58+09:00",
+      "source": "스마트비즈",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "b591f2a5b06dc251f90c",
+      "title": "CJ문화재단, 설립 20주년…창작자 지원 성과 공유 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94MXNvODRYbE8zclZMU05pWkRIeU9meVdZcUJELVhXejlHZmhVVU50emRfOTlZajUta3J0NjVTUXVEWWhmVk5VVEF4LXlDQ2Nfd0tuamdfWENEQ2FQT2I5OUVBY1hJUEpMMnZDUkhWWkkyRHFEODM40gF3QVVfeXFMT3gxc284NFhsTzNyVkxTTmlaREh5T2Z5V1lxQkQtWFd6OUdmaFVVTnR6ZF85OVlqNS1rcnQ2NVNRdURZaGZWTlVUQXgteUNDY193S25qZ19YQ0RDYVBPYjk5RUFjWElQSkwydkNSSFZaSTJEcUQ4Mzg?oc=5",
+      "published": "2026-11-16T09:45:33+09:00",
+      "source": "핀포인트뉴스",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "49ac622bc18feb951ecd",
+      "title": "CJ문화재단, 설립 20주년…창작자 지원 성과 공유 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBib2JESnhlUG4tZ0o4V1NZOVlaZTVicjJsVk5UYkxyU0NDQmowbS1rN3VtZE9JNmtKY0JibzBMbDlscV9Rd1RpUnY2TVVkX1dMRXU3YnM4eVAybWRsSlRiTWNTMFlybzhHNkJvTFFIMWxaQk3SAXdBVV95cUxPeDFzbzg0WGxPM3JWTFNOaVpESHlPZnlXWXFCRC1YV3o5R2ZoVVVOdHpkXzk5WWo1LWtydDY1U1F1RFloZlZOVVRBeC15Q0NjX3dLbmpnX1hDRENhUE9iOTlFQWNYSVBKTDJ2Q1JIVlpJMkRxRDgzOA?oc=5",
+      "published": "2026-11-16T09:36:04+09:00",
+      "source": "핀포인트뉴스",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "4fd66d07e513689a04d9",
+      "title": "CJ문화재단, 20년간 917억 후원… \"젊은 창작자 성장 사다리 역할 지속\" - 뉴스드림",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lS0I5QmsyVVR2S012SnpLTkI5VFlnbXA4aFUwSVhoX3ZlQWdwdTJQQjJtdWhvb0kwdHpKWXhaZW82S0tXTHNQV1VfWlJ3RHYwM3ZKMXpRVmdwMUhGVXI5RlRTbVcwa19oQnI4?oc=5",
+      "published": "2026-11-16T09:35:13+09:00",
+      "source": "뉴스드림",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "8dfdaa7fb25af55935d7",
+      "title": "CJ문화재단 설립 20주년 창작자 지원 성과 학술대회 발표 - 뉴스클레임",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRjlxTzdDRlBJdkNvbVhjOWdCbGVST0ZUR0s1cWFUQW5CTW9UaHBqSTRUVUFUbUJyUlRWa0FTR1lJQXFhczJtZV9GOExzYkhjMDQxN2pBMGc4TUNqOHlpNndMbUFIc0drZS1XMlR5VVjSAXRBVV95cUxNYV9YNXVsakswNDg3Y0l2dGRiOHV0VEQ5UjE2QTlubkVqb0hVUlRIemV2NWdVU2c4Wl92dFFPdUdRa25welFGMFFWd0hjM3BsaENQOC1mRWtzODI1UjhiR2lDS1otNWo4M3h2am0tM29DNDhzaA?oc=5",
+      "published": "2026-11-16T09:30:43+09:00",
+      "source": "뉴스클레임",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "0348e2bb0f8c4861833a",
+      "title": "CJ문화재단, 설립 20주년…창작자 지원에 917억 후원 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53d2tFYXdJd3R1MHpQcWR0b2E4LTh5MVQzZG4xTlhxbGZmR1BKbkotR3ZnYWcySVpBUHNnT2Rob3NDcGFraVBnZ3pZb3dDZw?oc=5",
+      "published": "2026-11-16T09:17:26+09:00",
+      "source": "전자신문",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
     {
       "id": "cb66cb83a95c4f74b579",
       "title": "전력거래소, 광주한마음장학재단에 청소년 장학금 기탁 - 일간투데이",
@@ -50,6 +120,16 @@
       "first_seen": "2026-11-12T12:39:59.902401+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "e41e258258a790431ac8",
+      "title": "인천시의회 김광호 의원, 여성가족재단 대표이사 임기 조례 충돌·채용 취소 경위 집중 추궁 - 경인매일",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NWXZkWGZZdGRQWlRickdZMmF0b2RSVndBUkgzbW4tcUhSRDVGcE9zckdqQi1OcDNlNzlHTkRVSXo0UEppbkdsS1A4VjlGSWUyTFJQaUtDeTRPcUNQbV9RSElXWC0yclJM?oc=5",
+      "published": "2026-11-11T17:19:27+09:00",
+      "source": "경인매일",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
       "id": "b572a7667fa2dbdf97da",
@@ -402,6 +482,16 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "593e2def7f4dcce42c7a",
+      "title": "[ESG] 세정그룹, 패션업계 첫 나눔재단 설립…50년 나눔 철학 잇는다 - 디지틀조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXJXcWtsT1o0cllJcEhxY05SWGxoTWR2SnlDT1FLTUctNmwwQzF6SlJzSEhnVjA2a0kwXzZKVS1CaDNUVWhXaHJXWGtGZkZUd29GS0otNTFsckNMMmdraThqenl5dE5lamtaRXUydVN0UzlfaTM0NUJCVk5JVkhMdlZtbzlXaDTSAXtBVV95cUxNNmd2bms4UTNtb3ozcGVWX0dDVmg0cFhfQVVIN2UyZW10R3ZhRjFQRVNuTkNQUmxsMGIyZ3BJcWczQzhuUlkxRlBuek9uLUlNdjNlMm1hSkRLQjlqOVpIQUFVdXUxQlN5bV9vUG96TG5IN215WHp2X2Z2S2M?oc=5",
+      "published": "2026-11-09T13:49:00+09:00",
+      "source": "디지틀조선일보",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
       "id": "9663ee7293953625102d",
       "title": "귀뚜라미문화재단, 청도군 모범학생 50명에 5천만 원 전달 - 신경북뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tci1FaWExVlQ0d0k1d3lQbm16czNDQmpxdEJuM29LUVN6UEVWWEd3TUlqXzRCQkl4R2NyUHdaazBsdG5zanN2SmQxdXVLQmZqc29DNlEyWTU?oc=5",
@@ -649,7 +739,7 @@
       "source": "매일경제",
       "first_seen": "2026-11-04T11:56:45.941349+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "569874b2b1f662d3058a",
@@ -992,16 +1082,6 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
-      "id": "e1c2502d0c9f0c3242fe",
-      "title": "[문화 트렌드] CJ문화재단, 설립 20주년 기념 ‘재즈위크’ 개최 外 - 베이비뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDFkMlpULVNmQkNjT1RyaG0yVmJUeUs3ekpacHhfWl95THFEYndQMWwwdW9OQ1JUS2lJNTN5c0UwOS1GVnpqRE81YnlnbWhRaTk4WFBrMEVpWlR3Vmx0U1hOdmt1bXlKTmJMUw?oc=5",
-      "published": "2026-10-29T10:52:50+09:00",
-      "source": "베이비뉴스",
-      "first_seen": "2026-10-29T11:13:42.072049+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
-    },
-    {
       "id": "23db4c26d694f0313a56",
       "title": "BNK경남은행, 인애복지재단 80주년 기념식서 감사패 수상 - 워크투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzT05QTmR4TWRVaDdyTUlFQkh0VGZGelRBTWhQZXhYV2ROTlBjTVlEUk9WeWxhUEpQamdEMW85bUQ0UXZsVlBoN1Zpa0o1TWU0bUtXTW9KdEJsNGxrMjlobnNKWGNGZ2xGUkVUUA?oc=5",
@@ -1030,6 +1110,16 @@
       "first_seen": "2026-11-02T11:10:55.986517+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "e1c2502d0c9f0c3242fe",
+      "title": "[문화 트렌드] CJ문화재단, 설립 20주년 기념 ‘재즈위크’ 개최 外 - 베이비뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDFkMlpULVNmQkNjT1RyaG0yVmJUeUs3ekpacHhfWl95THFEYndQMWwwdW9OQ1JUS2lJNTN5c0UwOS1GVnpqRE81YnlnbWhRaTk4WFBrMEVpWlR3Vmx0U1hOdmt1bXlKTmJMUw?oc=5",
+      "published": "2026-10-28T16:00:00+09:00",
+      "source": "베이비뉴스",
+      "first_seen": "2026-10-29T11:13:42.072049+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "628bcf1a3bc9256cfd9f",
@@ -2843,7 +2933,7 @@
     },
     {
       "id": "cf6cf8dcc170d157ea0e",
-      "title": "CJ문화재단, 설립 20주년 기념 ‘라이브 클럽 데이: 드림 투 스테이지’ 개최… 재즈부터 하드록까지 - CJ 뉴스룸",
+      "title": "CJ문화재단, 설립 20주년 기념 ‘라이브 클럽 데이: 드림 투 스테이지’ 개최… 재즈부터 하드록까지 – CJ 뉴스룸 - CJ 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ0lGaUFadE1USUlVZkhlUEE1RzVWelVxX2pjZHk5bGlfXzIzU3E1UlRvWE1FR2FoQURQdVYxbENycGZoc3pZOHc2UkJFYV9BdG1OV3U5eWZwNjNHOGZxWmNPRS1hUFp3M2xGdjEyNldyR0RCMXZjeUoxRXNTSGN6TEFSOE51N3EyNEZ0YXo5Z0VEdkhUVnZzTG9SY0NQVHlfTkRMZnRWQVBwNW9SWHk0alJ2ODRqaTViNFZoenFDbTZzdGw4MkRkWHEwZFFGUGRnMDZwZTFnSE5FNk1venZud0xUWFpORnR3ZlVYWFN1Slc2X18yS2JDRUhxcURSdEthY29DYmxtY1NkN3J3QnpYTkdYX29FeER2NVFma25TcTk0U0kwMEpYdHdjMExWQQ?oc=5",
       "published": "2026-03-12T16:00:00+09:00",
       "source": "CJ 뉴스룸",

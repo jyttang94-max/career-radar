@@ -1,9 +1,37 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-15T11:27:41.634450+09:00
+수집 시각: 2026-11-16T11:36:55.051454+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [설립 20주년 CJ문화재단, 젊은 창작자에 917억 후원 - 남다른디테일](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wT3hmeVlKTnJUVkxQM3VaT3VMSWNJdG5FQ3VtalFSaEZsOHhIaWJiZ20tQzZfTmFoLTNnY3I2Q0dPQQ?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 남다른디테일
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 맞아 K-컬처 성과 공개···누적 후원금 917억원 넘어 - 스마트비즈](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVksyTUZFSEphSFR0RmlGazBBNHpPOFM0U0VaSG5WeGZPUC1PN0l3bjM4eW10eGU1cmU5Ukg3NmJiaHpUT2NFTEhkTTBoRlgtcTF2eTkzVnNBMFZaM0pPWXpjWDNWRmcxbk85NA?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 스마트비즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년…창작자 지원 성과 공유 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMid0FVX3lxTE94MXNvODRYbE8zclZMU05pWkRIeU9meVdZcUJELVhXejlHZmhVVU50emRfOTlZajUta3J0NjVTUXVEWWhmVk5VVEF4LXlDQ2Nfd0tuamdfWENEQ2FQT2I5OUVBY1hJUEpMMnZDUkhWWkkyRHFEODM40gF3QVVfeXFMT3gxc284NFhsTzNyVkxTTmlaREh5T2Z5V1lxQkQtWFd6OUdmaFVVTnR6ZF85OVlqNS1rcnQ2NVNRdURZaGZWTlVUQXgteUNDY193S25qZ19YQ0RDYVBPYjk5RUFjWElQSkwydkNSSFZaSTJEcUQ4Mzg?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 핀포인트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년…창작자 지원 성과 공유 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTFBib2JESnhlUG4tZ0o4V1NZOVlaZTVicjJsVk5UYkxyU0NDQmowbS1rN3VtZE9JNmtKY0JibzBMbDlscV9Rd1RpUnY2TVVkX1dMRXU3YnM4eVAybWRsSlRiTWNTMFlybzhHNkJvTFFIMWxaQk3SAXdBVV95cUxPeDFzbzg0WGxPM3JWTFNOaVpESHlPZnlXWXFCRC1YV3o5R2ZoVVVOdHpkXzk5WWo1LWtydDY1U1F1RFloZlZOVVRBeC15Q0NjX3dLbmpnX1hDRENhUE9iOTlFQWNYSVBKTDJ2Q1JIVlpJMkRxRDgzOA?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 핀포인트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 20년간 917억 후원… "젊은 창작자 성장 사다리 역할 지속" - 뉴스드림](https://news.google.com/rss/articles/CBMia0FVX3lxTE5lS0I5QmsyVVR2S012SnpLTkI5VFlnbXA4aFUwSVhoX3ZlQWdwdTJQQjJtdWhvb0kwdHpKWXhaZW82S0tXTHNQV1VfWlJ3RHYwM3ZKMXpRVmdwMUhGVXI5RlRTbVcwa19oQnI4?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 뉴스드림
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단 설립 20주년 창작자 지원 성과 학술대회 발표 - 뉴스클레임](https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRjlxTzdDRlBJdkNvbVhjOWdCbGVST0ZUR0s1cWFUQW5CTW9UaHBqSTRUVUFUbUJyUlRWa0FTR1lJQXFhczJtZV9GOExzYkhjMDQxN2pBMGc4TUNqOHlpNndMbUFIc0drZS1XMlR5VVjSAXRBVV95cUxNYV9YNXVsakswNDg3Y0l2dGRiOHV0VEQ5UjE2QTlubkVqb0hVUlRIemV2NWdVU2c4Wl92dFFPdUdRa25welFGMFFWd0hjM3BsaENQOC1mRWtzODI1UjhiR2lDS1otNWo4M3h2am0tM29DNDhzaA?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 뉴스클레임
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년…창작자 지원에 917억 후원 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE53d2tFYXdJd3R1MHpQcWR0b2E4LTh5MVQzZG4xTlhxbGZmR1BKbkotR3ZnYWcySVpBUHNnT2Rob3NDcGFraVBnZ3pZb3dDZw?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 전자신문
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [전력거래소, 광주한마음장학재단에 청소년 장학금 기탁 - 일간투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE5FemZvWjJhamhLalZvc2N6c19tU0hFdTVtelpqRFVHMndoTUNLWk8zLTRKcm5LMWd1d2NDM2gtUDNraE42Y1NKbzl5SnpYVVZuODRTaF9wYi1nN0Q0cUxVU2VZUk1QOFl2T1lj?oc=5)
   - 기사일: 2026-11-13
   - 출처: 일간투데이
@@ -23,6 +51,10 @@
 - [(메세나브리핑-11월2주) 롯데문화재단, ‘제27회 메세나대상’ 대상 수상 외 - 파이낸셜투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeUZSaXByQ1VDRWZ1aTFNdFdrOFY0RFdwX2lCU3pmSlA3Wk9ackl4SGJoOXVqVFFraDlmVXJ4ckJoakgtZjZzdmFzdlFTdHZMeEo5WTI0YmgyeWhIVmtCbFVLSTc4STFWbkHSAW5BVV95cUxNY0tfZGRaOEVvUUpGa0h6bVdPc0J3ZVNTOFl2cHhlMFFKR2NIYjJuY1NWWXJxampON2RockJiZXBrOFh2NjhQOHhCLXptNjFCaTZEWTJlT1U1NWxGdjZhUElCbHRkNHVTdHZaWG10UQ?oc=5)
   - 기사일: 2026-11-11
   - 출처: 파이낸셜투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [인천시의회 김광호 의원, 여성가족재단 대표이사 임기 조례 충돌·채용 취소 경위 집중 추궁 - 경인매일](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NWXZkWGZZdGRQWlRickdZMmF0b2RSVndBUkgzbW4tcUhSRDVGcE9zckdqQi1OcDNlNzlHTkRVSXo0UEppbkdsS1A4VjlGSWUyTFJQaUtDeTRPcUNQbV9RSElXWC0yclJM?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 경인매일
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [인천 생활문화 예산 줄고 개편 공백까지···"재단 생길 때까지 미루면 안 돼" - 인천투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1VRUtoU0laRG9vWTdpNm5TNXFYMm9GbjZvc3pYU2ZQSXVtQjkwNmRZakV5NzFZZWRvZWgyRGxVQWxucE1RdXpuR2FxeWdqTjdSd2sxaVlXT2Rsc3NFNW0tdS1Gcko1a2VPMzJUVW9lVzU?oc=5)
   - 기사일: 2026-11-11
@@ -161,6 +193,10 @@
   - 출처: 데일리대구경북뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(ESG) 세정그룹, 패션업계 첫 나눔재단 설립…50년 나눔 철학 잇는다 - 디지틀조선일보](https://news.google.com/rss/articles/CBMie0FVX3lxTE02Z3ZuazhRM21vejNwZVZfR0NWaDRwWF9BVUg3ZTJlbXRHdmFGMVBFU25OQ1BSbGwwYjJncElxZzNDOG5SWTFGUG56T24tSU12M2UybWFKREtCOWo5WkhBQVV1dTFCU3ltX29Qb3pMbkg3bXlYenZfZnZLY9IBe0FVX3lxTE02Z3ZuazhRM21vejNwZVZfR0NWaDRwWF9BVUg3ZTJlbXRHdmFGMVBFU25OQ1BSbGwwYjJncElxZzNDOG5SWTFGUG56T24tSU12M2UybWFKREtCOWo5WkhBQVV1dTFCU3ltX29Qb3pMbkg3bXlYenZfZnZLYw?oc=5)
+  - 기사일: 2026-11-09
+  - 출처: 디지틀조선일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(ESG) 세정그룹, 패션업계 첫 나눔재단 설립…50년 나눔 철학 잇는다 - 디지틀조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXJXcWtsT1o0cllJcEhxY05SWGxoTWR2SnlDT1FLTUctNmwwQzF6SlJzSEhnVjA2a0kwXzZKVS1CaDNUVWhXaHJXWGtGZkZUd29GS0otNTFsckNMMmdraThqenl5dE5lamtaRXUydVN0UzlfaTM0NUJCVk5JVkhMdlZtbzlXaDTSAXtBVV95cUxNNmd2bms4UTNtb3ozcGVWX0dDVmg0cFhfQVVIN2UyZW10R3ZhRjFQRVNuTkNQUmxsMGIyZ3BJcWczQzhuUlkxRlBuek9uLUlNdjNlMm1hSkRLQjlqOVpIQUFVdXUxQlN5bV9vUG96TG5IN215WHp2X2Z2S2M?oc=5)
   - 기사일: 2026-11-09
   - 출처: 디지틀조선일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -400,10 +436,6 @@
   - 기사일: 2026-10-29
   - 출처: 뉴시스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [(문화 트렌드) CJ문화재단, 설립 20주년 기념 ‘재즈위크’ 개최 外 - 베이비뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDFkMlpULVNmQkNjT1RyaG0yVmJUeUs3ekpacHhfWl95THFEYndQMWwwdW9OQ1JUS2lJNTN5c0UwOS1GVnpqRE81YnlnbWhRaTk4WFBrMEVpWlR3Vmx0U1hOdmt1bXlKTmJMUw?oc=5)
-  - 기사일: 2026-10-29
-  - 출처: 베이비뉴스
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [BNK경남은행, 인애복지재단 80주년 기념식서 감사패 수상 - 워크투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTFBzT05QTmR4TWRVaDdyTUlFQkh0VGZGelRBTWhQZXhYV2ROTlBjTVlEUk9WeWxhUEpQamdEMW85bUQ0UXZsVlBoN1Zpa0o1TWU0bUtXTW9KdEJsNGxrMjlobnNKWGNGZ2xGUkVUUA?oc=5)
   - 기사일: 2026-10-29
   - 출처: 워크투데이
@@ -415,6 +447,10 @@
 - [CJ문화재단, 설립 20주년 맞아 재즈위크 개최…문화나눔 확대 - 뉴스포스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISTAycENIYkZMSEU4REZqY2t3Ym5vVkxfZ1lSclpOWkVDSnJBMm9vYkJsTEU3b0NBRDR1WUwtSUh4TmZNNk9MZkpEOUZkOVVRUzE0VlJsVTBSbkNXMmgyY2lLX1UxN2di?oc=5)
   - 기사일: 2026-10-28
   - 출처: 뉴스포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(문화 트렌드) CJ문화재단, 설립 20주년 기념 ‘재즈위크’ 개최 外 - 베이비뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDFkMlpULVNmQkNjT1RyaG0yVmJUeUs3ekpacHhfWl95THFEYndQMWwwdW9OQ1JUS2lJNTN5c0UwOS1GVnpqRE81YnlnbWhRaTk4WFBrMEVpWlR3Vmx0U1hOdmt1bXlKTmJMUw?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 베이비뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [복지부, 공공기관 39개로 축소…생명나눔원·첨단의료산업진흥재단 신설 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTE16Vk9FaTlhSE1oT3FrZXU1TVVFR18ydUlIVDNLQmVUeHV2T3I4OFdVT21CTWxCeS12OC1QMnJFMTdqd3ZTYXZPTGJ0QmlQOEY4UXpnekZ1ODFfMlNyY3lNaTA2d1hmdVRLYUHSAW9BVV95cUxQNFNZWXp1RlAtYVZGZzYzQ3NVX2hCWHotUFlBajdlTHQwa1ZJcUdpOFcyNFJmanJEWUE2X1MxMDFvUC1oUXZPVlhsS29FTm51SnFLSW9LZkxERXFUeEJvRUNISmFLd2hGdVR1QzlHMGc?oc=5)
   - 기사일: 2026-10-28
@@ -1140,7 +1176,7 @@
   - 기사일: 2026-03-17
   - 출처: G밸리타임스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [CJ문화재단, 설립 20주년 기념 ‘라이브 클럽 데이: 드림 투 스테이지’ 개최… 재즈부터 하드록까지 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ0lGaUFadE1USUlVZkhlUEE1RzVWelVxX2pjZHk5bGlfXzIzU3E1UlRvWE1FR2FoQURQdVYxbENycGZoc3pZOHc2UkJFYV9BdG1OV3U5eWZwNjNHOGZxWmNPRS1hUFp3M2xGdjEyNldyR0RCMXZjeUoxRXNTSGN6TEFSOE51N3EyNEZ0YXo5Z0VEdkhUVnZzTG9SY0NQVHlfTkRMZnRWQVBwNW9SWHk0alJ2ODRqaTViNFZoenFDbTZzdGw4MkRkWHEwZFFGUGRnMDZwZTFnSE5FNk1venZud0xUWFpORnR3ZlVYWFN1Slc2X18yS2JDRUhxcURSdEthY29DYmxtY1NkN3J3QnpYTkdYX29FeER2NVFma25TcTk0U0kwMEpYdHdjMExWQQ?oc=5)
+- [CJ문화재단, 설립 20주년 기념 ‘라이브 클럽 데이: 드림 투 스테이지’ 개최… 재즈부터 하드록까지 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ0lGaUFadE1USUlVZkhlUEE1RzVWelVxX2pjZHk5bGlfXzIzU3E1UlRvWE1FR2FoQURQdVYxbENycGZoc3pZOHc2UkJFYV9BdG1OV3U5eWZwNjNHOGZxWmNPRS1hUFp3M2xGdjEyNldyR0RCMXZjeUoxRXNTSGN6TEFSOE51N3EyNEZ0YXo5Z0VEdkhUVnZzTG9SY0NQVHlfTkRMZnRWQVBwNW9SWHk0alJ2ODRqaTViNFZoenFDbTZzdGw4MkRkWHEwZFFGUGRnMDZwZTFnSE5FNk1venZud0xUWFpORnR3ZlVYWFN1Slc2X18yS2JDRUhxcURSdEthY29DYmxtY1NkN3J3QnpYTkdYX29FeER2NVFma25TcTk0U0kwMEpYdHdjMExWQQ?oc=5)
   - 기사일: 2026-03-12
   - 출처: CJ 뉴스룸
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
