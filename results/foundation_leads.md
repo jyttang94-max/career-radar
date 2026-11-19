@@ -1,9 +1,33 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-18T13:07:14.256136+09:00
+수집 시각: 2026-11-19T13:00:23.140614+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [(사회공헌 Pick) 삼표그룹·태광그룹 공익재단, 청년 학업 지원과 올림픽 꿈나무 육성 - 라이센스뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYXlkQWgxQklEZnFtQlptY2FpOFJtVlJHSko1WEQ3N1RoX1JRRXlHVWVGSEt2a01MQlBQT3FjR1UzWGQ1Wll1UU4yRUthd1Z2eEN4TnBOWFhQLTBuTWtTQXd4SjVudU5PTXBF?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 라이센스뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광 일주재단, 체육인재 장학금 신설…4년간 최대 1600만원 지원 - 시사캐스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cnFwdGNvN2NRYjMyalFZZnhmazIwcEt6R0RkUTMyaWNWLXZWSThRLUZnMmxHVk9CaVlJRXNKNFFFRWFxY3liRkFKNk9BQ3RISkpLdzNRTXVRdjVEaERfNXZvdTV2NERC?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 시사캐스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광그룹 일주재단, 체육 장학금 신설…매년 유망주 16명 선발 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWDdFUHVvXzFYNHdocTQ0alpKWUVoZzYzYW1KMThpRjdySTlqUDRhQVNndlNLY2tXZk85ZWtkdmVVcHZKVllKVjc2WkNOdmJFdUpPN1lGMHZGVkhVTDhJZjliSXNGcVNhalpMcNIBckFVX3lxTE1sUXdQVU84TUE4SmI3M2xSRWxPRC1yUU9lLS1ZbWRVRTE1Vks3NGlqcl9nVlJsOEc4ZlFQMkpDQk4tbHc0S0J3ZGZiVjlueE9NcDFhZnRCem54UUVJVjdFM0YzNFFqUjBNbVdqM0RJOUVaZw?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 머니투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광그룹 일주재단, 체육 장학금 신설…매년 8개 종목 16명 지급 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYzI1ejhyM2xMd0R5d0tPTUtwYjZKWlVjMk5sNnBtQ3NESWwtdFd1cy11dHMyYnlpVWQtaHU5cEJRdWl6b0RkZTdmMF9tb0NKUjV4b2NaVXZ3ZVY5d2U4MdIBYEFVX3lxTE5YYzI1ejhyM2xMd0R5d0tPTUtwYjZKWlVjMk5sNnBtQ3NESWwtdFd1cy11dHMyYnlpVWQtaHU5cEJRdWl6b0RkZTdmMF9tb0NKUjV4b2NaVXZ3ZVY5d2U4MQ?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 키운다 - 아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ2hyV2hVTU9tcjU0ZlU1S1hGRmtmcWJEVUNaOWN4eC1GYngweWQwem9ENTQtbWhWdkdzeC1RQkRSbXR6UjNxa2cyN1lTRjhUWnJlUi1ONklLLVI4V014WQ?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 아시아경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 육성 - 아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RVB0bW5CWnBjaXRwQ0hMVWRtbVZuNU0tTHZ6MDhBajBzaS1idTZIeDRvNTk4cGoydmxsZ1ZWWEJXREhUdU5iT0hSMzBSMFphblNMZEl4Mjc1Z9IBWEFVX3lxTE1UR2FWcTQ3MG1WODhLbzJYZF85N2tvWWpnbEM4TS1qcTJfZHBYaDRSUWh5WTJIS0dSZDcxdk14d2VDVllkLXRVbFNLWWt4SDlzWmRZUG00aFQ?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 아주경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [반도문화재단, 美 팝스타 멜라니 아마로 초청 무료 콘서트 - 더퍼블릭](https://news.google.com/rss/articles/CBMib0FVX3lxTE42bU9KMHY0cHhCd0hTbm15Y1UzZ0VLQ0tfS2tJWXMyQ0JBelhqNGh2a1ZwcHBJaUFWR2hzbVpKV2dQdkZ1TTRPS0lIUTJYQThjSmxLTlVwcnVxTWVyWTNYRjFKYUhIcEs1czhWTHNSd9IBb0FVX3lxTE42bU9KMHY0cHhCd0hTbm15Y1UzZ0VLQ0tfS2tJWXMyQ0JBelhqNGh2a1ZwcHBJaUFWR2hzbVpKV2dQdkZ1TTRPS0lIUTJYQThjSmxLTlVwcnVxTWVyWTNYRjFKYUhIcEs1czhWTHNSdw?oc=5)
   - 기사일: 2026-11-17
   - 출처: 더퍼블릭
@@ -68,9 +92,17 @@
   - 기사일: 2026-11-16
   - 출처: 전자신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [인천시의회 김광호 의원, 여성가족재단 대표이사 채용 취소·관리 부실 질타 - 시정일보](https://news.google.com/rss/articles/CBMia0FVX3lxTE1BdmF3dkRETUJRQ2RGUjNXdHk5QXlrQnJHYVBVTE9UM091OFNpeExjZHRwRlRHM3hURzdOXzYtMThZS2x2RGk3VkRaUDJ4bGVTU3lSYXAzTXV3TzNWOHZOaWZCMFVteng2Nm5j?oc=5)
+  - 기사일: 2026-11-13
+  - 출처: 시정일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [전력거래소, 광주한마음장학재단에 청소년 장학금 기탁 - 일간투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE5FemZvWjJhamhLalZvc2N6c19tU0hFdTVtelpqRFVHMndoTUNLWk8zLTRKcm5LMWd1d2NDM2gtUDNraE42Y1NKbzl5SnpYVVZuODRTaF9wYi1nN0Q0cUxVU2VZUk1QOFl2T1lj?oc=5)
   - 기사일: 2026-11-13
   - 출처: 일간투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [김천시, ‘관광문화재단’ 설립한다 - 대구일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YVNZajkwYnVzenE0YWdzaWpfeW5wREVuV3lWa0VlOTdUd0txS1ViTTk5TU1NX2JydUVONnkxei1IcXplQlNMa1VVTl96bVpKb1pKM1I4UkJQQnRXcTJGM1Y1WHp1Qmlv?oc=5)
+  - 기사일: 2026-11-12
+  - 출처: 대구일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [롯데문화재단 메세나 대상 수상 - 세계일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wSFAzazNXWjAwSkVkS3hzVjVvVVVKamJiNHllaEdCaldWSE1UN1RMbXVwSGNFOVcxMFdMLUZlZGhrZ19rZnVoYldLMnI0SHlyRnc2a0ZLSUPSAVRBVV95cUxOOGNZWG5VekM2dVAzWm5nZ09YYURZMXRoYy1tTjVId2VSV012SklBS005ZTkxMmJTWnNvQmxTck92cGtfSERnUW5TZU5XZkNqNk1lODI?oc=5)
   - 기사일: 2026-11-12
@@ -1355,6 +1387,10 @@
 - [반도문화재단, 설립 6주년 기념 특별 콘서트 ‘Starry Night In Busan’ 개최 - 뉴스드림](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIYzlWNG5aZUxZdnBYUzdLdUFoS3B1WjF2c29Qc2NsbDFCVjZueTBGWlpZYUtET3U3UkR3Uk9nNkdPNnVsaXVsZWtTTFVXamVHVmN0Yk43aGgxT1hLS3Z1NVJVM0lsaFNT0gFsQVVfeXFMUE9ueTd6Xzl0WlRDN1cyT2tMcXpOdVpBTTNwaDVtQ3pqRXNHZ3M5ZU1oSUExVkI1UGYzWmlFVWktcmVxa1o2WUd2TUNuSTFHVDlyOTVlUkRpa3h2T0FVY0hZRkJQNEt3a2hfa1k3?oc=5)
   - 기사일: 2025-09-23
   - 출처: 뉴스드림
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [반도문화재단, 설립 6주년 기념 특별 콘서트 'Starry Night In Busan' 개최 - 리버티코리아포스트](https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yVmRNR1k1VTUtWGhIbkJNQWNaRmlfNEF4RFlIQ1pKUHAzdVFBUG9UczhtcjhkZGtIT1R4WTlIZDZZX3ZpdEw3bkFUNmJHM0JGYzZ3NUxnTmU2R0k3SUh0S18zSdIBZ0FVX3lxTE1iTUdzSjJYY29KRDVjUlB4Nm01LXBYa1NlNFJqR0h5NG9yeVN1b1RCd1VaM2dld1d0RUNMU1ZKVUpjNzgzXzBQVXdrMHlkR0pIWHlzWXNMV01nSzN3c1NrTE05Z2kydnc?oc=5)
+  - 기사일: 2025-09-23
+  - 출처: 리버티코리아포스트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [명인제약 오너家, IPO 앞두고 공익재단 설립 속내는 - 톱데일리](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBINXU4YkdXVFlIbUdkdW5fWnA3UlN5Vk5oejJmUGhwSkRLbWFEaWJ6VlhxNkFKTHc4NG5qNXRFZE1tZUxBVnRpcG9BNFVacHRW?oc=5)
   - 기사일: 2025-08-28
