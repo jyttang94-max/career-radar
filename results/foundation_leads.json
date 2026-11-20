@@ -1,6 +1,26 @@
 {
-  "run_at": "2026-11-19T13:00:23.140614+09:00",
+  "run_at": "2026-11-20T12:54:10.883940+09:00",
   "leads": [
+    {
+      "id": "d33672320118cba97617",
+      "title": "CJ문화재단, 설립 20주년 맞아 ‘2026 하반기 한국예술경영학회 학술대회’서 창작자 지원 성과 발표 - 주간현대",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8yNDY1ak1BQXZhLW9iMDdqZFQ3VjloZjludGhRVktEdWh4LWQ4dldrMGo1VTlFSUdTNmxuQTJWQjUtMVk?oc=5",
+      "published": "2026-11-19T17:53:00+09:00",
+      "source": "주간현대",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "bacbbd817b526565b295",
+      "title": "박형권 애틀랜타 뷰티마스터 회장, “뷰티풀 장학재단 설립해 8년째 지원” - 월드코리안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzRXM0UW4ycExWZFM1a21oVVJSMjBVYUdzcjFGb0NwXzNVR0p5X0UxdWRxaDJndEJCM05VTlhhazdibHpZSUxiYmdwc1d0dVoxdXFkaWZRVm5qYXZZV3EyMWRROFQweW1FLWtYVHBR?oc=5",
+      "published": "2026-11-19T12:01:15+09:00",
+      "source": "월드코리안뉴스",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
     {
       "id": "90a3680d636d1a04d557",
       "title": "[사회공헌 Pick] 삼표그룹·태광그룹 공익재단, 청년 학업 지원과 올림픽 꿈나무 육성 - 라이센스뉴스",
@@ -38,6 +58,16 @@
       "published": "2026-11-18T14:34:48+09:00",
       "source": "연합뉴스",
       "first_seen": "2026-11-19T13:00:23.140614+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
+      "id": "632a7652cd3eff08220c",
+      "title": "태광 일주재단, '체육인재 장학금' 신설…8개 종목·16명 선발 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrVXR0dnZLWVlMRnVDTWlRbmlUV3VreW1rTkFMX0xIYTVTZ1Nkb01GQThFbUpTLUx1ekJTWFhodVk4WWZSS2ttOUdMdHQzNEZ2ZnJkak8zeUU2OEF3b1FhRzQ5aXM?oc=5",
+      "published": "2026-11-18T14:31:19+09:00",
+      "source": "뉴스1",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
@@ -89,7 +119,7 @@
       "source": "아시아타임즈",
       "first_seen": "2026-11-18T13:07:14.256136+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "573b6386f1955dd37f34",
@@ -112,6 +142,16 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "402a6fe2af984415120e",
+      "title": "반도문화재단, 美 팝스타 멜라니 아마로 초청 무료 콘서트 개최 - 조세금융신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5aThraExoa0NFZVhYUWVqcTVjSFNfd2NVSHYwYkpMazl5YkxJWVYwYTRnYzdheklSd2VsNFV5N3lwcU1GM2FGZk8yVFF0Um1YdFp6ZGJQRUhfYnQ5bDlMc0FIaw?oc=5",
+      "published": "2026-11-17T10:28:59+09:00",
+      "source": "조세금융신문",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
       "id": "2617a00b21dd176e8747",
       "title": "[심층분석] 반도건설, 동탄 지역 문화 인프라에 글로벌 팝 공연 접목…기업 문화재단의 사회공헌 역할 확대 - 뉴스밸류",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvX0cwZEd6SjJhMTFnM0puSlZSZTBKNk9McEdMeUFiZ2lwd3RGNFZxczlKSEE3Q2d3RHhBM1pfMEZRZ0pFdXRYTFRCMDM5N1FrMEdPX1RmS0FEZkpFeE5sUVd0eXJGTHA3Mnc?oc=5",
@@ -119,7 +159,7 @@
       "source": "뉴스밸류",
       "first_seen": "2026-11-18T13:07:14.256136+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "97f7cd4914f927b49cb4",
@@ -150,6 +190,16 @@
       "first_seen": "2026-11-16T11:36:55.051454+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "ac8b3ecf9118a10180e3",
+      "title": "CJ문화재단, 설립 20주년 맞아 창작자 지원 성과 공개 - 뉴스웰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlT19vak1UZEdTVjVTWFZZS1I5eTBKNjMtaW1ndHVJX3ZlQjhkM2pnWlI1YUh5LXJDWWNiT05QWnhIcG00b2xMTV9Ta1pnVXd5VGFqUWc1emhLMy0yY01rQl9UY1hNQS1QekJrTQ?oc=5",
+      "published": "2026-11-16T10:16:22+09:00",
+      "source": "뉴스웰",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "21395e16e0d8f2985c8a",
@@ -462,6 +512,16 @@
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
+      "id": "98fd907eebf8cf8bec94",
+      "title": "대구 달서인재육성장학재단, 하반기 장학생 94명에 1억 4838만원 지원 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2MjBZTDdQbVR4ZkF3UmVCOTRPSmZ4ZWNZVzRianNCU2trSGhVV2N0bmJlQmlDRTd5cGJ3RDg0aFVuTURUSm5XQmhvSGlDTG0tSzFKY2EwNlpsUm5yQ2kxTzdXU2U?oc=5",
+      "published": "2026-11-10T17:00:00+09:00",
+      "source": "매일일보",
+      "first_seen": "2026-11-11T11:35:56.254386+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "dc81f9f6af3df46031a8",
       "title": "\"문화예술 후원 앞장\" 롯데문화재단, '2026 메세나대상' 수상 - 뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VW9mdXdyVkVLRlFqaGdmcWtnWWNPN3U3cnNsVV9FN3RtWHk3dl9oRHpZYjdMRmk5Yy04NGktbUxzcjJJVFBWbW92UnVOUFlLSFEyOExxTlpBN3BtM1oxcHl1djFJR1lscVJUNm55a2duenl6QkZhVlg5a9IBgAFBVV95cUxQY2VwOVlDVG03c25TV2FPLTg4SDh5SnRTeTlfbER0SVVkNDFYeUVVckRUT0t6WEhlQnYySkVkLXpHQ2pQMnMwbDBjQ3VaYm15SGJycGdxTEFESGhpOEJ5VEJESC1UVlpsbTZ5VUd1blVVWWRqVk5wb2FSSnBQVlA1QQ?oc=5",
@@ -470,16 +530,6 @@
       "first_seen": "2026-11-13T12:15:08.381170+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
-    },
-    {
-      "id": "98fd907eebf8cf8bec94",
-      "title": "대구 달서인재육성장학재단, 하반기 장학생 94명에 1억 4838만원 지원 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2MjBZTDdQbVR4ZkF3UmVCOTRPSmZ4ZWNZVzRianNCU2trSGhVV2N0bmJlQmlDRTd5cGJ3RDg0aFVuTURUSm5XQmhvSGlDTG0tSzFKY2EwNlpsUm5yQ2kxTzdXU2U?oc=5",
-      "published": "2026-11-10T11:07:49+09:00",
-      "source": "매일일보",
-      "first_seen": "2026-11-11T11:35:56.254386+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "73eba74e86cde4a16609",
@@ -578,6 +628,16 @@
       "published": "2026-11-09T17:01:27+09:00",
       "source": "매일일보",
       "first_seen": "2026-11-11T11:35:56.254386+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "1ba9362c4c851b55d08d",
+      "title": "천안시복지재단, 창립 10주년 나눔문화 확산 유공자 표창 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zMDJqQXhEUnc2MTNYTFlhSDlBMTc2TkJXS2xzbTlrVVBBUmI0WjR1eVVKS2RWNVVQVVcwLWR0S2lMSndMd2VJajFDM1FkSWgwQjhPcGlhZ0VFWXUyX1dxLTZGaEpDN096TXRXelp0UdIBc0FVX3lxTFBleVNLQVJUU0VvWVpveUhMRjFZeVpZZU5qYmktVFUzSVBBRThSZTJUWnhlT3prcndkcnc4MnpITzNTVUVUYTJrZlpFQUhrWkMwR1BSSmU4UHBRaG9OZnprZW8yajN4THRCcUs1cm14UUxrbUk?oc=5",
+      "published": "2026-11-09T17:00:00+09:00",
+      "source": "대전일보",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -939,7 +999,7 @@
       "source": "매일경제",
       "first_seen": "2026-11-04T11:56:45.941349+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "569874b2b1f662d3058a",
@@ -1078,6 +1138,16 @@
       "published": "2026-11-01T14:19:54+09:00",
       "source": "OMATE 시니어",
       "first_seen": "2026-11-02T11:10:55.986517+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "cfe167ef325bf88d317f",
+      "title": "성정문화재단 창립 45주년 기념음악회…백건우·홍혜란 등 정상급 음악인 한자리에 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvTS1hVS0zQWRqbVQyU2NuY05HZGVJd29ESFhQOXFGQ1MwZ04yeVhGd2xGS0I0Y2Zkd0hxZXlnTDZUNGc2TU9xdHdyNjg5THFBY08xdTB3?oc=5",
+      "published": "2026-10-31T16:00:00+09:00",
+      "source": "헤럴드경제",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -1238,6 +1308,16 @@
       "published": "2026-10-29T16:00:00+09:00",
       "source": "시흥신문",
       "first_seen": "2026-11-15T11:27:41.634450+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "e79862d1a417b53cf745",
+      "title": "BNK경남은행, ‘인애복지재단 설립 80주년 기념식’서 감사패 수상 - livesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pX2JMRWFFdFFSMW5EZ1FBSHhmQk5mVnBSREJIUjN5S0JXSHFMWmNTYjVaZ1Y5UlFORHZtel9vdE5qV1dJX1lkdjJjY3M4WmwtN2RVX0dtTmtHVEtJSEhyNm91eDc?oc=5",
+      "published": "2026-10-29T16:00:00+09:00",
+      "source": "livesnews.com",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -3062,6 +3142,16 @@
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "8f2d9e1819e0132e292e",
+      "title": "한림제약장학재단, 교육기관 연계 '2026년도 장학금 수혜식' 진행 - 팜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZkJ3dzFFZGRObEtfNEZseHd5LUJ3elVtTUhoaHdjd0h5c2pTb256bFhzZ3hGOXRRanJqcjk2aDZPM0w4eEJSN1FCeXFNQ3c0MnoyT25xMVlPVkwxZXZ4SG45RENsWkRVNzYtTw?oc=5",
+      "published": "2026-05-21T16:00:00+09:00",
+      "source": "팜뉴스",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "1b12af5f2fc9d909550a",
       "title": "KNN·넥센월석문화재단, 진주교육지원청 대강당서 장학금 수여식 개최 - 진주인터넷뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uenJlbFVRc1NONUo1aER3aDkwTXY4azJBVm9ud2lYVFRnS2lyZnBqbVFKMUluOHJIY1RaeDlab21SbVpERE4yU0JVTmlSNHlpNHpEODNZVWFXOV9yZWJHYkU3bC1ITEhXemlyLVUyNU9aektHSGxF?oc=5",
@@ -3299,7 +3389,7 @@
       "source": "연합뉴스",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "264051474872c6c35ea6",
@@ -3650,6 +3740,16 @@
       "first_seen": "2026-11-15T11:27:41.634450+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "0d7d896f741f6c0193ad",
+      "title": "춘천시민장학재단 장학금 기탁액 6억여원…역대 최대 - 동방일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NUzYzTkRNZkJOOGc4Mlp0YklVa19tXzRfMVlPNkY0eTZwQVRZQ3RwWTk0SHBfQ3RZZVpIbnpJUW1Ca3QtdW5ROE8tOVNTRG9qejVmajFKTEJrbjdXYWY4SmplMFptTS00ZjE4d1RQc18ydw?oc=5",
+      "published": "2025-01-09T17:00:00+09:00",
+      "source": "동방일보",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "7fa63fcca49586346ea2",
@@ -4008,6 +4108,16 @@
       "published": "2023-12-05T17:00:00+09:00",
       "source": "한국의약통신",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "6fe5add1ba30bcdcde4f",
+      "title": "명인 다문화장학재단 첫 번째 장학금 수여식 개최 - 약사공론",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0T2p4SDd4VU5tQklXenVLQzd2MzVnc014YUlPSHdZWUtDakdobTFFam0yTUh3cVhnVEZjWVZSQ3ZOLU42YU0tcGRDQy00bG54SWEzRW5DTTVHSUdJTFM1ODRLZjRsTm84Wldpbw?oc=5",
+      "published": "2023-12-05T17:00:00+09:00",
+      "source": "약사공론",
+      "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
