@@ -1,9 +1,25 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-22T11:55:56.583105+09:00
+수집 시각: 2026-11-23T12:35:13.119386+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [대상문화재단, 장학생 연구성과 공유 학술제 개최 - 파이낸셜포스트](https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUHhFRDlfUHRhQXFxTFZyT3pfemhHdnZFOGhZN1ctbktjRng3RmEyaGY2ODFpYzN3NkJxUFZ5ejJXWlVjZmhxenl1NzBBT182TjZCUHQwZ2xUTmJnOXNuMTJaR09XRU1va1FrejBFSFlZSHp6?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: 파이낸셜포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(탁계석 칼럼) 문화재단 3.0 시대 열리나? 김포문화재단의 혁신이 던진 질문 - K-Classic News](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KUUd4cHJfOFFxVjllMTJpYXpCaUoxcE5CQ0l4ZEQ1N0liaGNETVk4TlhOUEZBZ1p3dDVfVE43ZFNoOFVScUc0alNJMTlWSmhqX29jY1h1RWpPWndIWTZrWUZOQXFuZw?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: K-Classic News
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 역대 최다 지원 기록한 ‘제37회 CJ와 함께하는 유재하 음악경연대회’… 이종서 대상 영예 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMisAJBVV95cUxNektTN1lFV2JWTDZybzNNOXBRaGZ1WGpDcjY4ajZzd2hpX1B6LXBjOWZtWkFCbXhnd2I0cnIyU3BZcS1LbGp6VzZyc0ZWWlBIUjhCei1YbVh4OVF3RnB4SUVDOUtWajI1YWI4aS1lNHFDZGh0cmRoWVJZaVNiTGhPYV9HWEhaOUNramVhVHdyYlNQRVM1RDNhRDJnOElTVWxrSWxUTXZwcUNMZ2NOSmNxbVBJVGNfa1JIdTNLc1ZkZGR6UDNoQ08tclJVc3lyZ3dlWmxtc2d0V3FFWW0xb25icHp0N0lrRzRUUlFHMEc3LU5WZkNUcG13NllEVTBjOWVzMkdYUmpadUJrSGVCT1pzYWJuS3BDNU84WFBrUXZLZjkzXzc2VW96VE43WlE4Mzct?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: CJ 뉴스룸
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [콘서트홀 300만명, 미술관 80만명…대통령 표창 받은 롯데문화재단 (마이케나스) - 파이낸셜투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRmdEN0l4ZmhDcG92d0VXMDhZWE9icjRvbE5yMnZjbjRPX0Nkbi10UzdNb2VDcFRMZVFZNkVKeExvVGlHc01wRmpNc3dPNHpaRmdhR09pU3RuZURLZkNTM0drN0hsdHJLaEHSAW5BVV95cUxNTzI5YzRPUVNRTTVFT1lUVHBXTWhBTXltRGhqUlBOX0F3bXhDR1VFOVppbUV2OWNZZEFncE9sT2dhWlNwN19oZkhILVZVTFVNdS1mMTZyX0tJeFd6Q29IT0JLQ0YwR2Y4dlhRak9wdw?oc=5)
+  - 기사일: 2026-11-22
+  - 출처: 파이낸셜투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [김현정 강남구의회 부의장, 강남문화재단·문화원 예산 집행 및 사업 운영 적정성 집중 점검 - 강남포스트](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoYlR6SnNkakhGZnB4QzRpQ1RHSno3OWlSYktMcXA5MWpsNDJ5eW96ZDEwby1Qd2hzNGJ4TEJGTzFiLUNtWVdJTVl5Zkg0azI0NU9iQWFCcUlxVjJ5RXRmV0l1ek1mUQ?oc=5)
   - 기사일: 2026-11-22
   - 출처: 강남포스트
@@ -144,6 +160,10 @@
   - 기사일: 2026-11-13
   - 출처: 일간투데이
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [김광호 인천시의원, 여성가족재단 대표이사 채용 취소·관리 부실 질타 - 뉴뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wY3BPazBxWjdTSV81YnhEN0hpd2I4cFU0RF82SFRCTkxKbm5zamdMaFFBQW9FQ1c4YXA1bS1kc3p2LVI0cnNWVldyNWJxRnpUdVg1T2FsMl9JakxMZDNyaWIydmk2QQ?oc=5)
+  - 기사일: 2026-11-12
+  - 출처: 뉴뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [김천시, ‘관광문화재단’ 설립한다 - 대구일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YVNZajkwYnVzenE0YWdzaWpfeW5wREVuV3lWa0VlOTdUd0txS1ViTTk5TU1NX2JydUVONnkxei1IcXplQlNMa1VVTl96bVpKb1pKM1I4UkJQQnRXcTJGM1Y1WHp1Qmlv?oc=5)
   - 기사일: 2026-11-12
   - 출처: 대구일보
@@ -236,6 +256,10 @@
   - 기사일: 2026-11-10
   - 출처: 매일일보
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단·화음챔버 '20년 동행'… 기업 결연 베스트커플 - 매일경제](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aY2FNdW1kcFZYb3MxRTBVMlJGbDNmNGZQQ2hiVVFmSGZXeVVIV0ZlOGNrRHloYW1CakpnRDFaSnhla2lpcTVPNXQyN0ZZVGh6LWFBQlZ2TE1wOW9EWjVn?oc=5)
+  - 기사일: 2026-11-10
+  - 출처: 매일경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - ["문화예술 후원 앞장" 롯데문화재단, '2026 메세나대상' 수상 - 뉴데일리](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VW9mdXdyVkVLRlFqaGdmcWtnWWNPN3U3cnNsVV9FN3RtWHk3dl9oRHpZYjdMRmk5Yy04NGktbUxzcjJJVFBWbW92UnVOUFlLSFEyOExxTlpBN3BtM1oxcHl1djFJR1lscVJUNm55a2duenl6QkZhVlg5a9IBgAFBVV95cUxQY2VwOVlDVG03c25TV2FPLTg4SDh5SnRTeTlfbER0SVVkNDFYeUVVckRUT0t6WEhlQnYySkVkLXpHQ2pQMnMwbDBjQ3VaYm15SGJycGdxTEFESGhpOEJ5VEJESC1UVlpsbTZ5VUd1blVVWWRqVk5wb2FSSnBQVlA1QQ?oc=5)
   - 기사일: 2026-11-10
   - 출처: 뉴데일리
@@ -251,10 +275,6 @@
 - ['문화예술 후원' 롯데문화재단, '메세나대상' 수상 - 뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTE5KbnVzN0NJYXluX1VlSi1FS2RNNm0ybkR1aUx4bWpJMjJBRjJEU09rNm5mVm5EdEp2SXhOaTVXaDliZE5melVlZkgzSHRXV01SR1RZWTlLXzFUaEcySDYzR0xYeExHU0FfT1k1eWdQTTdjQUdGcHF6M9IBeEFVX3lxTE5KbnVzN0NJYXluX1VlSi1FS2RNNm0ybkR1aUx4bWpJMjJBRjJEU09rNm5mVm5EdEp2SXhOaTVXaDliZE5melVlZkgzSHRXV01SR1RZWTlLXzFUaEcySDYzR0xYeExHU0FfT1k1eWdQTTdjQUdGcHF6Mw?oc=5)
   - 기사일: 2026-11-10
   - 출처: 뉴시스
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [CJ문화재단·화음챔버 '20년 동행'… 기업 결연 베스트커플 - 매일경제](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aY2FNdW1kcFZYb3MxRTBVMlJGbDNmNGZQQ2hiVVFmSGZXeVVIV0ZlOGNrRHloYW1CakpnRDFaSnhla2lpcTVPNXQyN0ZZVGh6LWFBQlZ2TE1wOW9EWjVn?oc=5)
-  - 기사일: 2026-11-10
-  - 출처: 매일경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [귀뚜라미문화재단, 청도군 모범학생 50명에 5천만 원 전달 - 동방일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE1FT0FUOHVjcl93eXFabUY0U1hwTnoxSlFvbTV2V191Z3dJZ1dnY3QyWDR5VFJRakI0akJya0FIZmF0UzBTcGhOOC11Y242UEVITHJJQXUwZE05TmtTWHR5TkwxQ1dKLWF1MUlRa09qRzFjOXc?oc=5)
   - 기사일: 2026-11-10
@@ -288,11 +308,11 @@
   - 기사일: 2026-11-09
   - 출처: 데일리대구경북뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [경북 김천시, 관광문화재단 설립 추진…"전담 TF 신설" - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GdU5yQUVjejRwNTJja05pdUFOYk52OFhRbmM0VlYzQVJvTUpUU2dRVVJycDU1dHVIZzFGNndVMEZYMWtUWG1uRnpqTFhuV2RyWTRYb3Q2UHQzVzNVOU5WU9IBYEFVX3lxTE1GdU5yQUVjejRwNTJja05pdUFOYk52OFhRbmM0VlYzQVJvTUpUU2dRVVJycDU1dHVIZzFGNndVMEZYMWtUWG1uRnpqTFhuV2RyWTRYb3Q2UHQzVzNVOU5WUw?oc=5)
+- [경북 김천시, 관광문화재단 설립 추진…"전담 TF 신설" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zbHlJSEJFYzBQdHlqdHZZRV9VTTBlSHc2a1JCN2ZZUE5haGhOS2NDY0V6eXVoNHpFc2VnVkdQaldOX3pNZW9JU0tDa3FOZ1ZBU2FiNUZkS1dTSjTSAWBBVV95cUxNRnVOckFFY3o0cDUyY2tOaXVBTmJOdjhYUW5jNFZWM0FSb01KVFNnUVVScnA1NXR1SGcxRjZ3VTBGWDFrVFhtbkZ6akxYbldkclk0WG90NlB0M1czVTlOVlM?oc=5)
   - 기사일: 2026-11-09
   - 출처: 연합뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [경북 김천시, 관광문화재단 설립 추진…"전담 TF 신설" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zbHlJSEJFYzBQdHlqdHZZRV9VTTBlSHc2a1JCN2ZZUE5haGhOS2NDY0V6eXVoNHpFc2VnVkdQaldOX3pNZW9JU0tDa3FOZ1ZBU2FiNUZkS1dTSjTSAWBBVV95cUxNRnVOckFFY3o0cDUyY2tOaXVBTmJOdjhYUW5jNFZWM0FSb01KVFNnUVVScnA1NXR1SGcxRjZ3VTBGWDFrVFhtbkZ6akxYbldkclk0WG90NlB0M1czVTlOVlM?oc=5)
+- [경북 김천시, 관광문화재단 설립 추진…"전담 TF 신설" - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GdU5yQUVjejRwNTJja05pdUFOYk52OFhRbmM0VlYzQVJvTUpUU2dRVVJycDU1dHVIZzFGNndVMEZYMWtUWG1uRnpqTFhuV2RyWTRYb3Q2UHQzVzNVOU5WU9IBYEFVX3lxTE1GdU5yQUVjejRwNTJja05pdUFOYk52OFhRbmM0VlYzQVJvTUpUU2dRVVJycDU1dHVIZzFGNndVMEZYMWtUWG1uRnpqTFhuV2RyWTRYb3Q2UHQzVzNVOU5WUw?oc=5)
   - 기사일: 2026-11-09
   - 출처: 연합뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -1427,6 +1447,10 @@
 - [장용태·서울의회, 서울장학재단을 서울미래인재재단으로 새출발 - 오토투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE5QRFplOEF4NHp0Wk1BSVFLclZ2Q0doMzlFR1ppRzU2QkhPcVRHcldGZE1maDI3NW1FOVhQR1JTY0hLRzRQaW93dHlhNUtPeEVncnh0SEVONllxZlU1blJaY1dMZnZmeXdEWV9rRk53?oc=5)
   - 기사일: 2025-12-18
   - 출처: 오토투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [KT&G장학재단, 과학기술 인재육성 지원사업 추진 - 뉴스드림](https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTVItMzZSa1hfUnVneDlwOTYtZ2JrckFJX3E2SHZnbUNEOHFNeWppZ2pGVDBDaUExbG5pQmxIWjVXSmRELU54OGxjWXBTczVhZlBiNzRfQXRadlh5a3dPeEFEWmZnMF9MQ0HSAW5BVV95cUxOXzNmTGxaMndKWVBvMWlUVG1KOGVaMjZjUF9WeTBaWXltdURsMDNXSDZ4ZjVvX1FuZERIaGh6QXNWN2F4UUVnSzBtZGg3bTgtZW9WOU5IQ2xUMzFLalhlaTdZZl9WcWdidFpmMThzdw?oc=5)
+  - 기사일: 2025-12-11
+  - 출처: 뉴스드림
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [충북문화재단, 오는 20일 ‘메세나로 잇는 아트브릿지 감사제’ 개최 - 충청타임즈](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OcW5yRGJQWEltZUFscHlsUVJNVDhBQmFYLU5CRDVVNlZaZXVEOG1xNmd2RkpRbzF5ZEg4V1BUc1hUS0FEdUtGUl85b0J4eDBFTjVNZjBPZnVmQmR5bi1ubFhHeTlEbEFB?oc=5)
   - 기사일: 2025-11-13
