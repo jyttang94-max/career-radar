@@ -1,14 +1,38 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-23T12:35:13.119386+09:00
+수집 시각: 2026-11-24T15:57:00.154080+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [특구재단 "남동발전 첫 연구소기업 2개 설립…발전공기업 최초" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoLU9HSjVsdHlWQlhSZW80YUxkQkZ3d0MxakJoTnRjZGZnM0VrQ29sOUZIVDYydnFCei1aWHdkT0FXUGdyck94anQwMXRvdjlCWTlWMmxmdWZiVXfSAWBBVV95cUxQNnBNUEF4OUJucXZUY2tDcmJweGZHcWY3S0xnM3pqbTJ4azExaXJkZURKUVhfSndiU2lQMF9WcWdiSDlDYUFuM3k0eERjZE9FdGZVRlVFOG9EWVpjV1dMcm0?oc=5)
+  - 기사일: 2026-11-24
+  - 출처: 연합뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [특구재단, 한국남동발전 첫 연구소기업 2개 설립 - 충청뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTE94X21yY0trZnVBaXBwY0t0bVhzMjZmOV90eE5vTlQ2ZUo4Slg1VFZkc2JLSEdxTkFPeWpnNkYzWkx4VWhNRjVQbTFmSDBWelMyLUE3ZkFWcW16RmpYOGdVSV9WcHhqanZVdl93?oc=5)
+  - 기사일: 2026-11-24
+  - 출처: 충청뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [호반문화재단 '생성형 AI' 활용 예술 공모전 열어, "다양한 예술적 성과 확인" - 비즈니스포스트](https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdURDa0Zlb0szd1RpTWpvZ21zODNYQlAza1E1SF9UNEZSdmY4OE03Vk1MV0FYeEd3dTVRTW82bWk3ZUJyUVp5SHpEVENaWGF2dnRNLUNGeHJMdnViUS1YM2c2TVZ0anpCQUFqQkVlVE9EQkE?oc=5)
+  - 기사일: 2026-11-24
+  - 출처: 비즈니스포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [저스피스재단, 부산 스타트업과 세계유산 보전 캠페인 - 부산일보](https://news.google.com/rss/articles/CBMidEFVX3lxTE5vY0FObi05NDRQUjNmc2xZY2dMMW9vb0F4RnJLTVlrb2t2aVBCaUpFa0sxRHhqT0N5NWRmXzZqLXFFR25tUDJiX2RwQVVHYW80NmgzRW1MbDg2M3VlSmVIcm05dHN1TGkxUTdLMU11blpLanlF?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: 부산일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [한국장학재단, '지역사회공헌 인정제' 6년 연속 '최고등급' - 뉴시스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xd3JaUWdpUVVnNS15MmpOa2JEQlJVTkhQVEdlNVM2R3VUOS1uQzJXNERGZXd0Sjc0YS1HWjVWLURBcmZBYXJlUGtLTHpjWHc1SnNEa0JsdWY3UEtNOHJGWdIBeEFVX3lxTE9odURYOVFKbmEtTWtoaG12MG9IVHZvRmZ5bHpSc2NuU3YwWmVTS2tKMkxOY3Zxel9odHlSOXhiaTQyR2JzVEJNWHkxVHI5alJKWDFiTkZaMEpZWGRsbk1lZHgzbHl0R3J5ZU1zc1V4RUJ1dE16SkRkcQ?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: 뉴시스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [대상문화재단, 장학생 연구성과 공유 학술제 개최 - 파이낸셜포스트](https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUHhFRDlfUHRhQXFxTFZyT3pfemhHdnZFOGhZN1ctbktjRng3RmEyaGY2ODFpYzN3NkJxUFZ5ejJXWlVjZmhxenl1NzBBT182TjZCUHQwZ2xUTmJnOXNuMTJaR09XRU1va1FrejBFSFlZSHp6?oc=5)
   - 기사일: 2026-11-23
   - 출처: 파이낸셜포스트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(탁계석 칼럼) 문화재단 3.0 시대 열리나? 김포문화재단의 혁신이 던진 질문 - K-Classic News](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KUUd4cHJfOFFxVjllMTJpYXpCaUoxcE5CQ0l4ZEQ1N0liaGNETVk4TlhOUEZBZ1p3dDVfVE43ZFNoOFVScUc0alNJMTlWSmhqX29jY1h1RWpPWndIWTZrWUZOQXFuZw?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: K-Classic News
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(탁계석 칼럼) 문화재단 3.0 시대 열리나? 김포문화재단의 혁신이 던진 질문 - K-Classic News](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMEZxaGFKQjViOUo5QTM1Nnc3LWE0YzI5UXRlbWs5Y1F1cjZUbEVEcUk3UzZxekY0R2ZOYTZrbkRCZmF2VWFKaHJmSWlGWUR1bU1nSnlOQkFLZWtDRXFnc0l3?oc=5)
   - 기사일: 2026-11-23
   - 출처: K-Classic News
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -120,6 +144,10 @@
   - 기사일: 2026-11-16
   - 출처: 남다른디테일
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 20년간 창작자 지원에 917억원 투입...성과 공유 - 우먼타임스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nS3BRUk42U0w0SWlxVFhUeVV6UC16VTZzcDlaSnV5OW1XanlCVElkdnBVaU05djEzQTY0bUhsU3B6eS1wNDk4aDRsaVE4VjZId1Fsb0FMQXJ1QUZ2YkdpWTUxc1lZNnRjMzNWemxvaTfSAXRBVV95cUxOVDBuaV9nc0MzOURFNjlnVVBub0xTdnMtTjZTUlV3TlZNOWN5YlJvQlBva2QyUDUtRWtWc3drSG1VcVg4TGp2bmpVWFdDQWl0SC1xdjBwYmxVNjE1Y2dTX0JMT1Uyc3VlWEFhSldsWDNqMjZRWQ?oc=5)
+  - 기사일: 2026-11-16
+  - 출처: 우먼타임스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 창작자 지원 성과 공개 - 뉴스웰](https://news.google.com/rss/articles/CBMibEFVX3lxTFBlT19vak1UZEdTVjVTWFZZS1I5eTBKNjMtaW1ndHVJX3ZlQjhkM2pnWlI1YUh5LXJDWWNiT05QWnhIcG00b2xMTV9Ta1pnVXd5VGFqUWc1emhLMy0yY01rQl9UY1hNQS1QekJrTQ?oc=5)
   - 기사일: 2026-11-16
   - 출처: 뉴스웰
@@ -163,6 +191,10 @@
 - [김광호 인천시의원, 여성가족재단 대표이사 채용 취소·관리 부실 질타 - 뉴뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wY3BPazBxWjdTSV81YnhEN0hpd2I4cFU0RF82SFRCTkxKbm5zamdMaFFBQW9FQ1c4YXA1bS1kc3p2LVI0cnNWVldyNWJxRnpUdVg1T2FsMl9JakxMZDNyaWIydmk2QQ?oc=5)
   - 기사일: 2026-11-12
   - 출처: 뉴뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [울산문화관광재단, 2029년 하반기 분리 추진…통합 6년 만에 재편 - 더쎈뉴스](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBReHYtbEdQa1JKbFcxTmxEYW5lLVc3RjY1Q21oLUJUSnFtOGlCOVhBQnc2dnhCT3N2MU5pWkg1UFA2ZklIanoxTEJwV0Nka3NKQU5ISmZGeFFHTHVWRnFvODJtb3V1RUIz?oc=5)
+  - 기사일: 2026-11-12
+  - 출처: 더쎈뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [김천시, ‘관광문화재단’ 설립한다 - 대구일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YVNZajkwYnVzenE0YWdzaWpfeW5wREVuV3lWa0VlOTdUd0txS1ViTTk5TU1NX2JydUVONnkxei1IcXplQlNMa1VVTl96bVpKb1pKM1I4UkJQQnRXcTJGM1Y1WHp1Qmlv?oc=5)
   - 기사일: 2026-11-12
@@ -241,6 +273,10 @@
   - 출처: 스포츠월드
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [롯콘 300만명·롯뮤 80만명…롯데문화재단 메세나 대상 - 아주경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qNHZtMWZ6TngwNkhlREFtQkJJNDdrT0dqWnA1N0FrMzhmdWRhQWNUcG9YUUxFRVRzNDJzMU9GeFIwSGhhbDFvdjdoRmV3WVZ4eWxoRktZMEHSAVhBVV95cUxPajR2bTFmek54MDZIZURBbUJCSTQ3a09HalpwNTdBazM4ZnVkYUFjVHBvWFFMRUVUczQyczFPRnhSMEhoYWwxb3Y3aEZld1lWeHlsaEZLWTBB?oc=5)
+  - 기사일: 2026-11-11
+  - 출처: 아주경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [롯콘 300만명·롯뮤 80만명…롯데문화재단 메세나 대상 - 아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xdG1KTDBWS24tdGlYV1hBdTF3MlhzaEJhTkN2NUZlZVJ6OHlxYmx3V05TUlg0Z2JBUnR4bHV3MlM2d3dWMV9QTjVEMGtIb2hvYmRsMmt5OGhPQdIBWEFVX3lxTE9qNHZtMWZ6TngwNkhlREFtQkJJNDdrT0dqWnA1N0FrMzhmdWRhQWNUcG9YUUxFRVRzNDJzMU9GeFIwSGhhbDFvdjdoRmV3WVZ4eWxoRktZMEE?oc=5)
   - 기사일: 2026-11-11
   - 출처: 아주경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -652,6 +688,10 @@
   - 기사일: 2026-10-28
   - 출처: 내외경제TV
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [CJ문화재단, 설립 20주년 ‘재즈위크’ 개최…선우정아·김광민 등 8팀 출연 - 나눔경제뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWTd4WkViZUFyUGFDazdHeHowNWl4QUFoUGJzVXJnc1NxUGpRaG5WUkE3OHZMYkU4end2dkV2OEduSkdSSWR0clBwTFRYbGRaZXBPVUZWQ1Q1aThOampfMy12VGhZeW5uWGFveA?oc=5)
+  - 기사일: 2026-10-28
+  - 출처: 나눔경제뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [CJ문화재단, 설립 20주년 맞아 ‘재즈위크’ 개최 - 핀테크경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vWXJ6Rzg5VXhGdkhEdGdBd0ctRl80TjRoNzNVNHBZSHdHaDRTeG5aQ0kzM05NY0ExYXhhWEtVS2RwVV9ER0RZT3B4N3d5SnpSMXh3NFpTQTEtLU5YdVVjRU9qYjJiNE1W?oc=5)
   - 기사일: 2026-10-28
   - 출처: 핀테크경제신문
@@ -679,10 +719,6 @@
 - [CJ문화재단·퐁피두센터 한화, 설립 20주년 맞아 ‘재즈위크’ 개최·두번째 컬렉션 전시 ‘샤갈, 너머의 여정’ 진행 - 여성소비자신문](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QREMtR0NuVXYtQm1VdkpISDVzVHM5Q3d3alp4SWozSlZFQWk0UnJfcngtWmROajJtbFdFaFZNYy1RblU5TU9rSTdKTl9jSXV2SlA4TzFsNU10TnhMaEgwd0tBSQ?oc=5)
   - 기사일: 2026-10-28
   - 출처: 여성소비자신문
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [CJ문화재단, 설립 20주년 ‘재즈위크’ 개최…선우정아·김광민 등 8팀 출연 - 나눔경제뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWTd4WkViZUFyUGFDazdHeHowNWl4QUFoUGJzVXJnc1NxUGpRaG5WUkE3OHZMYkU4end2dkV2OEduSkdSSWR0clBwTFRYbGRaZXBPVUZWQ1Q1aThOampfMy12VGhZeW5uWGFveA?oc=5)
-  - 기사일: 2026-10-28
-  - 출처: 나눔경제뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [여수문화재단, 출범 앞두고 서울 강북문화재단과 문화교류 협약 - 작은뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTFBta0phSmhPeFFoQzRBRGpHZ2dDTHd3U0Y1Z1A1SnlDNTFHVE05MllVWld1a0taM21RZGZpMjNYUzI0ck03bDNGaXQ4RTV2THBfalJUZ1p3R1F1M3RwN0hBT2VsV3NWV3FYX2M0QQ?oc=5)
   - 기사일: 2026-10-27
@@ -1352,7 +1388,7 @@
   - 기사일: 2026-03-12
   - 출처: CJ 뉴스룸
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [CJ문화재단, ‘스토리업’ 단편영화 제작지원 공모… 주제어, 앤솔로지 등 새로운 시도 주목 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMkhLVE1hUXZoTU5haEluT1pIM0NZdTZlRjNIdnNkN3FNVWd4Y0RkOVk3Ql9jVTRRbUlpNGlaZmJOdnRlR3ZNZjhjd0xYcE13dDctQVdRcVJlYkRWTGJsNkFHQkpmUFlpU3hTdW1FX0lzZmQ3MWVvN3F4bU14Zk40VTFBSDBTalVGSDVzZjlRMjRUcVFFdzdXRVhsaEl5SmQ2eGZjVWVFNnpja01WeDlreGtmcFFwaWo1dUFMZm9ybHhYeXk0SS1wbzh2bVUxcGtfWFFqbVpkaUMxZzdQXzM5VExTWVU3YmxfdXAtRHAzLXQ2TlJZYy1kVXBtYURUMzBQNXA1M05oWDRoU1MzYTVhVy1kdWVjRDgtb1kyeG1ha0VTQTN6dEt5aA?oc=5)
+- [CJ문화재단, ‘스토리업’ 단편영화 제작지원 공모… 주제어, 앤솔로지 등 새로운 시도 주목 – CJ 뉴스룸 - CJ 뉴스룸](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMkhLVE1hUXZoTU5haEluT1pIM0NZdTZlRjNIdnNkN3FNVWd4Y0RkOVk3Ql9jVTRRbUlpNGlaZmJOdnRlR3ZNZjhjd0xYcE13dDctQVdRcVJlYkRWTGJsNkFHQkpmUFlpU3hTdW1FX0lzZmQ3MWVvN3F4bU14Zk40VTFBSDBTalVGSDVzZjlRMjRUcVFFdzdXRVhsaEl5SmQ2eGZjVWVFNnpja01WeDlreGtmcFFwaWo1dUFMZm9ybHhYeXk0SS1wbzh2bVUxcGtfWFFqbVpkaUMxZzdQXzM5VExTWVU3YmxfdXAtRHAzLXQ2TlJZYy1kVXBtYURUMzBQNXA1M05oWDRoU1MzYTVhVy1kdWVjRDgtb1kyeG1ha0VTQTN6dEt5aA?oc=5)
   - 기사일: 2026-03-05
   - 출처: CJ 뉴스룸
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -1583,6 +1619,10 @@
 - [국내 첫 민간장학재단 설립 ‘인재보국’… “인재육성 뜻 계승, 나라의 미래 준비” - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTE42bTRBZzdaemhpSmIwQzRiSktuQ0Q2SGFPbGtRRUF4cndzd2tpQkdibEV5QkUtVTZ0ajBTMl94Ykh1aUEtaHYwWUlZVlNDTFJOczNEY3F1QmJ4RDlFc0JGUmdraTBIbDNUQjA5NGc0bUlsUUVDcGfSAWZBVV95cUxPb2plcTBQc1dWTG5rMEtKdFZOSTJpeUE2ckt0ZkdNcjd2aW5PRGdVY0VRenQtTTJ1UFVRb0UyLUo1OUlQcFduNGltZ0xTblM5Q1cyZVotMjRIMHBWQURocFI5bjhvSkE?oc=5)
   - 기사일: 2024-12-06
   - 출처: 동아일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태전약품 희산장학재단, 2024년 첫 장학증서 수여식 개최 - 약업신문](https://news.google.com/rss/articles/CBMid0FVX3lxTE9KLWhvdDRyZzlDWkl6QzVVT3hqek1YUjJJTXh3cU5lRGE2MVdpdm9jSE1KRmotTEdIM25NZTBpbWRBcG1QS3BZZG1aVDR1RGw3aG1sV3BKNWlYV2ZsQUVFQWNXSV9hRmxmV3hCaEZSNjhleHY0ZExN?oc=5)
+  - 기사일: 2024-11-21
+  - 출처: 약업신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [세무법인 리원, 유빈문화재단과 MOU 체결 - 한국세정신문](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVlpfZTVkd3o3ZVpMaVVUZ0VzUXZ4U3JlZkh0dlJ1d3R2a0N5SFJmZzk5MkR2N3h3ckRTc0NkTnZQYXQ2cDV6djhZS2lCRVRISHlTU3RHYUNPWkJLTVdWZzNjbXM?oc=5)
   - 기사일: 2024-11-15
