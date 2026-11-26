@@ -1,6 +1,46 @@
 {
-  "run_at": "2026-11-25T14:17:16.887336+09:00",
+  "run_at": "2026-11-26T13:44:56.796176+09:00",
   "leads": [
+    {
+      "id": "697741b549bf01c174d4",
+      "title": "윤단비 부천시의원 “등록금 해결됐다고 장학금 지원 끝나선 안 돼”…장학재단 운영 개선 촉구 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKUmdyTVV1SjlJRWU5WlBUNGpxX0xyN1lER0NTNUkzN21ZNlpPa1ZTRDVuVVlBRFpzc0ZGWFRhQzVvQ2p3Y0dTZVIwbjJyRDltMS1MRzNJZnRqSG8?oc=5",
+      "published": "2026-11-26T10:36:22+09:00",
+      "source": "경기일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "9277087ccdc73054f11a",
+      "title": "김경식 충북문화재단 대표 “행정의 벽 허물고 문화로 충청권 잇겠다” - 공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQVJSV0ljRmQ4aXd5QzNVQ2NSVFF3ZVRoZVc5c3NrUWpQQzdlYkk2ekQwM2Vqa21obXlqa2ppRWZqblR4ZXhGTFJ0OUlkMUFEeTd4T29tUDhmOWNzZlRlZkJ2S05jRm5Pam9waA?oc=5",
+      "published": "2026-11-25T19:30:04+09:00",
+      "source": "공뉴스",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "77f8e79d946b5ff6bd99",
+      "title": "시 출연금 92.5% 의존…7년 전 지급 기준에 멈춘 부천장학재단 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xYjJBSTR2c283bDd4NEJoOHlUZDRTb3BjZDZVeEUyZC1tcFlwSXhPdFNURTJQSmVOSTAyOFlZS2R1VXpjc01JTkswc3VTdGc3WXJyR1daUUt1VlRCc254VzhoMmdEbnA0NjNhS2J0bjZDNmtPTktB0gF8QVVfeXFMTVU3TTYwb2dQdHUxRmhTaFM1RE56SWFYclYzNlI4VG5XU0x5OFhfTmtCZmk3aXFwNkZPWVo0ZTlMZF82Nl8wNFdFTkZkR3Fud0RBOGVmN1JoWW9qSWZtOS1LN05ZZjNEd3plY0ZLMUt2aTl2Wks3ZjIxWlAzMw?oc=5",
+      "published": "2026-11-25T14:55:49+09:00",
+      "source": "머니투데이",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "0467b41e7da9eb6d38cb",
+      "title": "상근 직원 1명뿐…3.15의거기념사업회 법정재단 전환 시급하다 - 경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OTTRxa3V0dUtacEFTNFoyWkJWZXBuTEhmb3hTeFlGMzVYaV92bnd5MUFtbmxqNWFUWkNNNEZPOGh3UUxZX0VCWDBGWW5XeFFHcEswNF9OaTJQQndCaWEtTS1hMzhJdmdMWkE?oc=5",
+      "published": "2026-11-24T15:39:20+09:00",
+      "source": "경남도민일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
     {
       "id": "a3ed9fbdff3c2089f14e",
       "title": "특구재단 \"남동발전 첫 연구소기업 2개 설립…발전공기업 최초\" - 연합뉴스",
@@ -32,6 +72,36 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "897641fdc1777b0dfc36",
+      "title": "[패트롤]경북도-경상북도개발공사-경북교육청-경북농협-경북문화재단 콘텐츠진흥원 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mcDBXRHRuZEJ2LW5lZVZrZ195NmFHeTRNYlZ4TUhQOEdmS1lzQnJUc1ZUX19FaEo0X1dYU0Zja3c1WWRSSUhXRXhycklpeGR6YTVEUjNDYS1ROTg?oc=5",
+      "published": "2026-11-24T09:20:05+09:00",
+      "source": "에너지경제신문",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "166c5b8921f873c8b8d4",
+      "title": "수지신협, 용인문화재단 '용인청소년예술꿈드림'에 500만원 기부 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fMGRxdHhvbDB1VHRkVnUydzd5aG5HVk5acXAwQy0xdWh5NjB5a0ZhT2FBRFF5aklJdWNKNGJxZUJLQlhWcXoyUEJZZ09tZXRTQlE4Z015SDNEX09aV0ZXTTRWRlE?oc=5",
+      "published": "2026-11-24T08:35:38+09:00",
+      "source": "매일일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "59c2918143897ec6cb32",
+      "title": "CJ문화재단, 예술경영 학회 발표…“20년간 젊은 창작자 ‘성장 사다리’ 역할” - 더나은미래",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRDZwTHNaZldLUXdfWWd2TEpRQ3g3VlYycUZDR1VXUlh4YUJkOFhyR2FQNmJYR1cxdE1WczJ2V2tSQ2xEWU5BTzg1OXBWOGxOT1E?oc=5",
+      "published": "2026-11-23T18:29:00+09:00",
+      "source": "더나은미래",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
       "id": "d6ccf881046a6b9a61c0",
       "title": "저스피스재단, 부산 스타트업과 세계유산 보전 캠페인 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vY0FObi05NDRQUjNmc2xZY2dMMW9vb0F4RnJLTVlrb2t2aVBCaUpFa0sxRHhqT0N5NWRmXzZqLXFFR25tUDJiX2RwQVVHYW80NmgzRW1MbDg2M3VlSmVIcm05dHN1TGkxUTdLMU11blpLanlF?oc=5",
@@ -49,7 +119,7 @@
       "source": "뉴시스",
       "first_seen": "2026-11-24T15:57:00.154080+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "7d02a09cf53ea4f07002",
@@ -60,6 +130,16 @@
       "first_seen": "2026-11-23T12:35:13.119386+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "c7eb47089a00b1250309",
+      "title": "울산 향토기업 출연 UNIST ‘경동장학재단’ 누적 장학금 20억원 돌파 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KUWMyX0Y0RUxaam1VNWtBdE1ZS2tiV2hLdlBGdjFTZDdhLTFFSEFiQmo4dElXMlhpZF9PYzRWcHBQVWpRalE?oc=5",
+      "published": "2026-11-23T11:18:25+09:00",
+      "source": "매일경제",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "847c7fd6fb01941e5282",
@@ -78,6 +158,16 @@
       "published": "2026-11-23T09:22:00+09:00",
       "source": "K-Classic News",
       "first_seen": "2026-11-24T15:57:00.154080+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "3af52e1fbe492fc8dad2",
+      "title": "[탁계석 칼럼] 문화재단 3.0 시대 열리나? 김포문화재단의 혁신이 던진 질문 - K-Classic News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMUxHZnBxUFhiUkdtYWhrSHRUN1pFOEhLc1hkeldTNUh6RVhhbHZZb3o0a1hFeE5qVl9CWHBneWpCdllxc0JzQ2xqS1lsUXdQdGlZRUF2Nm9Nel8ycEd6NFI2czZ3REE?oc=5",
+      "published": "2026-11-23T09:22:00+09:00",
+      "source": "K-Classic News",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
@@ -112,6 +202,16 @@
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
+      "id": "9e8a0efe2e827e3dbbaf",
+      "title": "김현정 강남구의회 부의장, 강남문화재단·문화원 예산 집행 및 사업 운영 적정성 집중 점검 - 강남포스트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0QlVVamN1dGJLdWcyd2ZGbmJtVkxZVXRLeTdZVlV0M3ItX1dZS1ZlRmJGUUZBWmNUMlJiMVI3T0ZvdjU2dTJKOW5YYUhsSEYwSTFwakl0QlAzVnE4VUlZRjR0TQ?oc=5",
+      "published": "2026-11-22T00:47:38+09:00",
+      "source": "강남포스트",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
       "id": "95c82bcdd8c445275c1e",
       "title": "스포츠 재단이 출범하며, 모두를 위한 스포츠(Sport for All) 계획을 소개합니다. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObEN1NklXTjlrNUthSEEyb2d3anNMWWtVeXhHUUZRV1ZzcG81d3U1V3lWa1pGU2ZOQlFmTkc0TjlyQkJ5ZDY1TEJNVFpsU1FNZzE0dThRanRwVzNIUG8zWnVSR1ppNnFXS1V6ZGZHM0w4TjNTWEM4VGtfZE5OOGRxS1RhUGNvdndnS2hqWTdLY2p3QlVtdUtTRg?oc=5",
@@ -128,6 +228,26 @@
       "published": "2026-11-20T11:00:28+09:00",
       "source": "보험신보",
       "first_seen": "2026-11-22T11:55:56.583105+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "18929849f1b6215b818a",
+      "title": "섬산련 장학재단 ‘멘토링 학술캠프’ 성료 - TIN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpbE0wX3NGcTByNU56UXRGTS1jUmQzLTJlOWZtdFhlRFRkd3Q0TmNXclhaZEV5REEzQVhtTldySEJudXlnQVE?oc=5",
+      "published": "2026-11-20T10:48:00+09:00",
+      "source": "TIN뉴스",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "53fb5eef47932bd0510c",
+      "title": "강원 고성문화재단 출범 5년…주민 참여형 지역문화 포럼 개최 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14OTAzamlDVEdNemZjREJ0aVNWLW85eVhjWUNzcDlSV0VSTFF4OXVUVjVFb3AySnQtODZqQ0Z2VGFaOWZadVBhODRPclNVdVIyX0N6R1VDeVRVTzjSAWBBVV95cUxQTDRBUGtVTGZiZHZmY3g5OTBGQTMtc0FnZy1MS01tOXc0MFR4cmxjbzJWTUtwaFFySjlIWHZFYWt3b2dfYVJ6TVJOalNPZzlYOHB1MkRlNGx0TGZmR3hnZDk?oc=5",
+      "published": "2026-11-20T09:34:07+09:00",
+      "source": "연합뉴스",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -160,6 +280,16 @@
       "first_seen": "2026-11-20T12:54:10.883940+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "1277b056e6dbfe54695b",
+      "title": "태광 일주재단, 체육인재 장학금 신설…최대 1600만원 지원 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCUWxjSzhfZ0pOV0hldlZHb0hPUlFnZWNfSUtQRng1LUpKT1lrWUk4Z3RlMlRJWHNWU1gzNjhZc19JNTlnckZ0eU0xXzNWMUkzaG1iMXlreDBjRkNoSEFxbTA2VTI?oc=5",
+      "published": "2026-11-18T21:27:48+09:00",
+      "source": "매일일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
       "id": "90a3680d636d1a04d557",
@@ -322,21 +452,31 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
-      "id": "97f7cd4914f927b49cb4",
-      "title": "CJ문화재단, 설립 20주년 '꿈지기 철학' 창작자 지원 성과 발표 - 마일드경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LbnZiWV9LXzY0UUVzRnRxU0IwSFNKeEVfcTJhcHNLU3I2bTloMVZDbGZ6TG5venZGNW1QZzkwU256Rm9jdDA0T1BMMGF6V1VSdTR6UVFpbENUdVJWVk5xeXFCb3lucU1jTnRn?oc=5",
-      "published": "2026-11-16T14:56:00+09:00",
-      "source": "마일드경제",
+      "id": "58cd4b09e32698033041",
+      "title": "CJ문화재단, 설립 20주년...창작자 지원에 누적 917억원 투입 - 월요신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb2doQmtvbmVEV1lIS051RWFBbHh2akJsU2oxQ2NLOEp6UGRURUE3eE1scnJ4TF9BMmJoRlZsWURvakJLejNtSy04TlhRaW5HT0pwLVJkMkNVMXBMclozcEFGc2hWTWlyMEE?oc=5",
+      "published": "2026-11-16T17:00:00+09:00",
+      "source": "월요신문",
       "first_seen": "2026-11-18T13:07:14.256136+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
-      "id": "58cd4b09e32698033041",
-      "title": "CJ문화재단, 설립 20주년...창작자 지원에 누적 917억원 투입 - 월요신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb2doQmtvbmVEV1lIS051RWFBbHh2akJsU2oxQ2NLOEp6UGRURUE3eE1scnJ4TF9BMmJoRlZsWURvakJLejNtSy04TlhRaW5HT0pwLVJkMkNVMXBMclozcEFGc2hWTWlyMEE?oc=5",
-      "published": "2026-11-16T13:16:38+09:00",
-      "source": "월요신문",
+      "id": "0348e2bb0f8c4861833a",
+      "title": "CJ문화재단, 설립 20주년…창작자 지원에 917억 후원 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53d2tFYXdJd3R1MHpQcWR0b2E4LTh5MVQzZG4xTlhxbGZmR1BKbkotR3ZnYWcySVpBUHNnT2Rob3NDcGFraVBnZ3pZb3dDZw?oc=5",
+      "published": "2026-11-16T17:00:00+09:00",
+      "source": "전자신문",
+      "first_seen": "2026-11-16T11:36:55.051454+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "97f7cd4914f927b49cb4",
+      "title": "CJ문화재단, 설립 20주년 '꿈지기 철학' 창작자 지원 성과 발표 - 마일드경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LbnZiWV9LXzY0UUVzRnRxU0IwSFNKeEVfcTJhcHNLU3I2bTloMVZDbGZ6TG5venZGNW1QZzkwU256Rm9jdDA0T1BMMGF6V1VSdTR6UVFpbENUdVJWVk5xeXFCb3lucU1jTnRn?oc=5",
+      "published": "2026-11-16T14:56:00+09:00",
+      "source": "마일드경제",
       "first_seen": "2026-11-18T13:07:14.256136+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
@@ -349,7 +489,7 @@
       "source": "남다른디테일",
       "first_seen": "2026-11-16T11:36:55.051454+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "1ea9de53815fa7b3fd31",
@@ -427,16 +567,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRjlxTzdDRlBJdkNvbVhjOWdCbGVST0ZUR0s1cWFUQW5CTW9UaHBqSTRUVUFUbUJyUlRWa0FTR1lJQXFhczJtZV9GOExzYkhjMDQxN2pBMGc4TUNqOHlpNndMbUFIc0drZS1XMlR5VVjSAXRBVV95cUxNYV9YNXVsakswNDg3Y0l2dGRiOHV0VEQ5UjE2QTlubkVqb0hVUlRIemV2NWdVU2c4Wl92dFFPdUdRa25welFGMFFWd0hjM3BsaENQOC1mRWtzODI1UjhiR2lDS1otNWo4M3h2am0tM29DNDhzaA?oc=5",
       "published": "2026-11-16T09:30:43+09:00",
       "source": "뉴스클레임",
-      "first_seen": "2026-11-16T11:36:55.051454+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
-    },
-    {
-      "id": "0348e2bb0f8c4861833a",
-      "title": "CJ문화재단, 설립 20주년…창작자 지원에 917억 후원 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53d2tFYXdJd3R1MHpQcWR0b2E4LTh5MVQzZG4xTlhxbGZmR1BKbkotR3ZnYWcySVpBUHNnT2Rob3NDcGFraVBnZ3pZb3dDZw?oc=5",
-      "published": "2026-11-16T09:17:26+09:00",
-      "source": "전자신문",
       "first_seen": "2026-11-16T11:36:55.051454+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
@@ -732,6 +862,16 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "fd24529c3b78731397ad",
+      "title": "김천시, 관광·문화 한데 묶는다…관광문화재단 설립 전담팀 가동 - 경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pbm1qZDJXOWZVeGdLeEIzTTVNalVGQ1V1NFNIVWVKTUVzV2Foc2VWQXhzazh6RjFLendwaFl3TFBpR09tTXF1TDN2UHY1MHRURnkwTzJjcE9ER3dHekpERVdmeDJKcjd4SkhkVnRpTQ?oc=5",
+      "published": "2026-11-10T17:00:00+09:00",
+      "source": "경북일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
       "id": "dc81f9f6af3df46031a8",
       "title": "\"문화예술 후원 앞장\" 롯데문화재단, '2026 메세나대상' 수상 - 뉴데일리",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VW9mdXdyVkVLRlFqaGdmcWtnWWNPN3U3cnNsVV9FN3RtWHk3dl9oRHpZYjdMRmk5Yy04NGktbUxzcjJJVFBWbW92UnVOUFlLSFEyOExxTlpBN3BtM1oxcHl1djFJR1lscVJUNm55a2duenl6QkZhVlg5a9IBgAFBVV95cUxQY2VwOVlDVG03c25TV2FPLTg4SDh5SnRTeTlfbER0SVVkNDFYeUVVckRUT0t6WEhlQnYySkVkLXpHQ2pQMnMwbDBjQ3VaYm15SGJycGdxTEFESGhpOEJ5VEJESC1UVlpsbTZ5VUd1blVVWWRqVk5wb2FSSnBQVlA1QQ?oc=5",
@@ -802,22 +942,22 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
-      "id": "875e65341003568461c8",
-      "title": "김천시, 관광문화재단 설립 본격 추진…전담 TF팀 신설 - NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aYmpkZ2tZd0NIMkcwQnB2V2NoeE1INUJwTGRUUjdCbkNOV0ZJWEJlTkJYb2Rtd2I0cEJkTXZYNTFOa2djQWlMR0lWN3lYQkpQeE82Ymh0WFgySDJ0VS05bw?oc=5",
-      "published": "2026-11-09T18:42:23+09:00",
-      "source": "NSP통신",
-      "first_seen": "2026-11-12T12:39:59.902401+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
-    },
-    {
       "id": "53e554b7fdcc13f24c11",
       "title": "천안시복지재단, 나눔문화확산 실천 유공자 표창식서 36명 표창 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqR0tPWDJFRm1lUnN2YzJxZ1Zza1N0THMxTm9sdm9ZSktjZjVpUGRDa252M09lNHVqd2VoeWFocTBMZ0pja3AxZmxITTduMW5BajBOVWdMLXF1czduYmhvbDVJQWo?oc=5",
       "published": "2026-11-09T17:01:27+09:00",
       "source": "매일일보",
       "first_seen": "2026-11-11T11:35:56.254386+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "875e65341003568461c8",
+      "title": "김천시, 관광문화재단 설립 본격 추진…전담 TF팀 신설 - NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aYmpkZ2tZd0NIMkcwQnB2V2NoeE1INUJwTGRUUjdCbkNOV0ZJWEJlTkJYb2Rtd2I0cEJkTXZYNTFOa2djQWlMR0lWN3lYQkpQeE82Ymh0WFgySDJ0VS05bw?oc=5",
+      "published": "2026-11-09T17:00:00+09:00",
+      "source": "NSP통신",
+      "first_seen": "2026-11-12T12:39:59.902401+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -1319,7 +1459,7 @@
       "source": "조세금융신문",
       "first_seen": "2026-11-22T11:55:56.583105+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
       "id": "e7bfdca5bb2285c8a2ea",
@@ -3012,6 +3152,16 @@
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
     {
+      "id": "1d27d978e47c84382056",
+      "title": "구리문화재단 노조 출범…가입 대상 직원 70% 참여 - 비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QZUY1ZEQxbEpTbkpWWVdXMUV1Q0ppSEdUeE5mQlRnVGdYa3VBU3J2SzZfVGYtT0thMGt6VDRWZ0RhVDRYYUduYXBHVE9NeVoyZmNIV25WLWtoNDVyZE8zTzFXemg4LVRKeUlr?oc=5",
+      "published": "2026-09-17T16:00:00+09:00",
+      "source": "비즈월드",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "fdd26c506008c87fbbb8",
       "title": "호반건설 성장 이끈 김상열의 27년 뚝심…호반장학재단, 장학생 1만명 배출 - www.ebn.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lMjZEWlVFRThVekFZQnFLSl9sME1nMGJGamUtWnZ5QzIzc0lmUjVuWjQzTU90UF9CSEtLT0VBemRMRHhVUDFoeDR0NjZUV3pvbkdEamMwaTlLTTI1T1NzdVJ0MW5UNEg3?oc=5",
@@ -3462,6 +3612,16 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "12604a5bde02455eaf50",
+      "title": "동아대, 청촌장학재단 설립 30주년...누적 수혜자 1400명 달성 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yTzhncnNqMHVzZVpSbGFsTFpnTXJDZUl5WHh4YUZEbHNvbkZxdTR1aXI1U1RxNzRjZWhLM0l1VXRrSzB5U1BXSUtreEstRTBneVREQ3NBYV9XM1hOQXJtMzNZRjU?oc=5",
+      "published": "2026-03-11T16:00:00+09:00",
+      "source": "중도일보",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "cb8d6fe1edea34d94294",
       "title": "CJ문화재단, ‘스토리업’ 단편영화 제작지원 공모… 주제어, 앤솔로지 등 새로운 시도 주목 – CJ 뉴스룸 - CJ 뉴스룸",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMkhLVE1hUXZoTU5haEluT1pIM0NZdTZlRjNIdnNkN3FNVWd4Y0RkOVk3Ql9jVTRRbUlpNGlaZmJOdnRlR3ZNZjhjd0xYcE13dDctQVdRcVJlYkRWTGJsNkFHQkpmUFlpU3hTdW1FX0lzZmQ3MWVvN3F4bU14Zk40VTFBSDBTalVGSDVzZjlRMjRUcVFFdzdXRVhsaEl5SmQ2eGZjVWVFNnpja01WeDlreGtmcFFwaWo1dUFMZm9ybHhYeXk0SS1wbzh2bVUxcGtfWFFqbVpkaUMxZzdQXzM5VExTWVU3YmxfdXAtRHAzLXQ2TlJZYy1kVXBtYURUMzBQNXA1M05oWDRoU1MzYTVhVy1kdWVjRDgtb1kyeG1ha0VTQTN6dEt5aA?oc=5",
@@ -3619,7 +3779,7 @@
       "source": "연합뉴스",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "264051474872c6c35ea6",
@@ -3678,6 +3838,16 @@
       "published": "2025-12-22T17:00:00+09:00",
       "source": "일요주간",
       "first_seen": "2026-10-25T09:54:44.686254+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "c3be0fda869a5bb9670a",
+      "title": "서울장학재단, ‘서울미래인재재단’으로 전환…미래형 인재 육성 본격화 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xbnBFSGNKNHJGTkF1WU1GOHRocEZhTFBRdDJjWjZqcTY4X1hTVHMtd2hIa0RXNExjRmdESk9oMHF6MkRJdmowckU0cWI4Uk0ycnlzUHlLY3ZuNDdtc1FVWGdVQlBPX0Zh?oc=5",
+      "published": "2025-12-21T17:00:00+09:00",
+      "source": "전국매일신문",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
@@ -4062,6 +4232,16 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "7be5cb3ed3d5af1d76b4",
+      "title": "[공익재단 톺아보기]① 지주사 주주로 입성…지배구조 영향력 눈길 | GS - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VN2VnbmZCTE90b1RZUktnZWxZeTkyUl9EdGtWbFpLZWlKbHJ2Vk9PbVlxMl92SFVROWxPVzIwX19kU2p4bmtoMy1EZ19KcU5zZFpBNWt3eUdyNllMWkFuWGV2M0l0ZEpv0gFsQVVfeXFMT1hab3hnN2MyYkNWZEt4bm9VWXk4ZFFuWE91VTAzdnV3Zzdjb2tlUzBSRU5DNGJqby14MnM3Z0dpU1BUVm9wVkZRNlJkTEhJUm9lelU1ell3SGd5cS16MGRidThlNFh6YlN0a3BO?oc=5",
+      "published": "2024-10-17T16:00:00+09:00",
+      "source": "블로터",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "4d52c67131587bad6d48",
       "title": "‘2027년 문화재단 설립’ 나선 가평군 귀추 주목 - 경인일보",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43bGRINzN4cGZreXdfaDRvWGtSaC1fa3d5TGNqc2pmSlRIVHI2WjVPMlFUZFVvd2M1RTdRMmtpdEpGaTdVRWJIVFlVYWVadEg5YlE?oc=5",
@@ -4110,6 +4290,16 @@
       "first_seen": "2026-10-23T10:19:33.005530+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "d76869ae8e7f891b62a3",
+      "title": "서울장학재단에서 주는 장학금이 13가지나 된다고?! 선정 방법은? - 내 손안에 서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RV0NuVy1aTU4zSnBucTNZaW5uUFF1WVM1QS1YaF93OC1iTW5VZVVUX3d0RDBwLU4yemZwd3Z2SXlUNHFzck9RQ1M3X3p4a0xHTWpRVFpGQUM?oc=5",
+      "published": "2024-07-30T16:00:00+09:00",
+      "source": "내 손안에 서울",
+      "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "fab053643f1cd1e150d7",
@@ -4392,27 +4582,6 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     }
   ],
-  "errors": [
-    {
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94+OR+%EC%B0%BD%EB%A6%BD%29+%28%EB%AC%B8%ED%99%94+OR+%EC%98%88%EC%88%A0+OR+%ED%95%99%EC%88%A0+OR+%EC%9E%A5%ED%95%99%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%8B%A0%EC%84%A4+%EC%9E%AC%EB%8B%A8+%28%EC%B1%84%EC%9A%A9+OR+%EC%82%AC%EB%AC%B4%EA%B5%AD+OR+%EC%A7%81%EC%9B%90%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "기업 문화재단 (설립 OR 출범) when:3y",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "기업 장학재단 (설립 OR 출범) when:3y",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "샘표 우리맛문화재단 채용 when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%83%98%ED%91%9C+%EC%9A%B0%EB%A6%AC%EB%A7%9B%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%EC%B1%84%EC%9A%A9+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    }
-  ],
+  "errors": [],
   "note": "신설·초기 기업재단 발굴 후보입니다. 실제 채용 공고가 아니며 기업재단 여부도 별도 확인해야 합니다. 공식 채용 출처를 확인한 뒤 sources.json에 등록합니다."
 }
