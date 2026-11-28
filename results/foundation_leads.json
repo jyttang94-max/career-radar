@@ -1,6 +1,66 @@
 {
-  "run_at": "2026-11-27T13:51:34.499465+09:00",
+  "run_at": "2026-11-28T13:36:29.884228+09:00",
   "leads": [
+    {
+      "id": "84f4bb76bdfcff30f1ee",
+      "title": "(주)씨에스글로벌, 저스피스재단과 청년 예술인 육성 협력 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUctRjdiajQxaDlyMHRYLWlaNFRSZGNaVnNkOXVjb1pwdnBNSE1tSXh3NEtZRXc5MWNpQTZNR1kxa2ZvaDhkNGJzWDhGejJlUG1ObXVqZVhfX1NrX0p1eTJ2d0hLTnVYMUVqSzRDQjhJUQ?oc=5",
+      "published": "2026-11-28T12:25:56+09:00",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "caf11d10f15514fb038e",
+      "title": "‘K-FOOD 수출’에서 ‘청년 예술 인재 양성’으로… 씨에스글로벌, 저스피스재단 통해 청년예술인재 양성 프로그램 시작 - SNS 타임즈",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeUJlc2x6YUhQc21NRWE1WDFIeGJvVm94a2J2MlRyc2hmTUdYREpnYUhkUFZISGh2NWtvaTJ4MWhCZ1duMWNRTmRmemxPLW14SklWZ0Z5Qm5hc0xsWjhHVnV1dTAyYjNzeGxfTGt1OTBBeXZZLVJfa2VvWm9qci1ZY2hCTjR6TzdhaEdqWGwxYV93WHhROFJVZHRHMWFtN3NtdEtPenFmd0F6YnFndlRGblZVX2l3c3VqZjZNaFdrcWpvaGV5Zy1fRGZRWVJmWUNxN0dtNnBCWmRoZ0NDSWhwdFhRMW00WUY0NS05T2xKS3RuLVU3bWtKaXNSc2tYM0RLbk5NMW9B?oc=5",
+      "published": "2026-11-28T12:06:31+09:00",
+      "source": "SNS 타임즈",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "58cfcafaf9a81bfcc1b5",
+      "title": "을지재단, 창립 70주년 기념 사사 ‘을지재단 70년’ 발간 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EcG5pOUpOYU9EbHVtLWZPeTdxMGM1WllGR05XXy1YM25DeXRTYURqMTRkZ2s0T2RTTmxOdW55WXltRmZSQl9PVzVDdnNYYXNKbjJlZHpMMUpOSVNiZWpmR0dUM2xKZ1R6S0JuNA?oc=5",
+      "published": "2026-11-27T13:44:04+09:00",
+      "source": "충청뉴스",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "d70d638dcaa80027f2e7",
+      "title": "천안시복지재단, 디와이엠솔루션으로부터 취약계층 후원금 1000만원 받아 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVDh3T1FOQXhUeE9oSmRoWDFXaDZCWG5TZEpmTEMtOS1XY1NNTGNBVzM4bFZnNXo2NXQxN01HQnAwMEpLZkFreWJjRGJDQ29GbFVpc1dpV0wwbVRoNTZyT0VXMXg?oc=5",
+      "published": "2026-11-26T20:05:45+09:00",
+      "source": "매일일보",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "6eae78aa970636f1ff4f",
+      "title": "성동문화재단, 대한민국 국가사회산업공헌/베스트브랜드 대상 수상 - 하이뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84djlGQm81MmxrT1FwbHlzQnBXT2pFVGRjZWxKSGYtQktZR1B1bVBRSXVKcG4tc2NCZTZFM0lXUlFVUFlib04xYWpRZUJsejlOVVVkZ1NLRzhJZFlEZWY5YkpNSTFGWkNfOC1JNXE5bmlpUEphcHlF?oc=5",
+      "published": "2026-11-26T16:20:00+09:00",
+      "source": "하이뉴스",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "2d2167646d8a48650a09",
+      "title": "천안시복지재단, 디와이엠솔루션 취약계층 후원금 1000만 원 기탁 - 엠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBcDFURFJiOEFCNTg5bURlVkJFRDV6NFBYNXluX0FhcC1ZUktZVnZpcktxWHdsMWlYX2huRmZMMWlURmVxV3R0dzg5M2RadDROYVlMem9Sb2VHUDRkbHpVMTgweTc1UQ?oc=5",
+      "published": "2026-11-26T15:52:00+09:00",
+      "source": "엠뉴스",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
     {
       "id": "697741b549bf01c174d4",
       "title": "윤단비 부천시의원 “등록금 해결됐다고 장학금 지원 끝나선 안 돼”…장학재단 운영 개선 촉구 - 경기일보",
@@ -138,6 +198,16 @@
       "published": "2026-11-23T11:18:25+09:00",
       "source": "매일경제",
       "first_seen": "2026-11-26T13:44:56.796176+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
+      "id": "8aee40bd011b774c1094",
+      "title": "울산 향토기업 출연 UNIST ‘경동장학재단’ 누적 장학금 20억원 돌파 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sN0hIOGtnQ2tOY24yeDQ4ZkExT2RyYWlfVm45RTRJT2RJTF9zV1JQUWR6d0x2Nm83YnhjTUVqUEZmX2VKQ1NYMDA4dUtyYjZUQ2JocA?oc=5",
+      "published": "2026-11-23T11:18:25+09:00",
+      "source": "매일경제",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
     },
@@ -285,7 +355,7 @@
       "id": "1277b056e6dbfe54695b",
       "title": "태광 일주재단, 체육인재 장학금 신설…최대 1600만원 지원 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCUWxjSzhfZ0pOV0hldlZHb0hPUlFnZWNfSUtQRng1LUpKT1lrWUk4Z3RlMlRJWHNWU1gzNjhZc19JNTlnckZ0eU0xXzNWMUkzaG1iMXlreDBjRkNoSEFxbTA2VTI?oc=5",
-      "published": "2026-11-18T21:27:48+09:00",
+      "published": "2026-11-18T17:00:00+09:00",
       "source": "매일일보",
       "first_seen": "2026-11-26T13:44:56.796176+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
@@ -302,21 +372,31 @@
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
-      "id": "6f14a141439c87d83555",
-      "title": "태광 일주재단, 체육인재 장학금 신설…4년간 최대 1600만원 지원 - 시사캐스트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cnFwdGNvN2NRYjMyalFZZnhmazIwcEt6R0RkUTMyaWNWLXZWSThRLUZnMmxHVk9CaVlJRXNKNFFFRWFxY3liRkFKNk9BQ3RISkpLdzNRTXVRdjVEaERfNXZvdTV2NERC?oc=5",
-      "published": "2026-11-18T15:54:21+09:00",
-      "source": "시사캐스트",
+      "id": "1f2f93f99ab1d8a0a68e",
+      "title": "태광그룹 일주재단, 체육 장학금 신설…매년 유망주 16명 선발 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWDdFUHVvXzFYNHdocTQ0alpKWUVoZzYzYW1KMThpRjdySTlqUDRhQVNndlNLY2tXZk85ZWtkdmVVcHZKVllKVjc2WkNOdmJFdUpPN1lGMHZGVkhVTDhJZjliSXNGcVNhalpMcNIBckFVX3lxTE1sUXdQVU84TUE4SmI3M2xSRWxPRC1yUU9lLS1ZbWRVRTE1Vks3NGlqcl9nVlJsOEc4ZlFQMkpDQk4tbHc0S0J3ZGZiVjlueE9NcDFhZnRCem54UUVJVjdFM0YzNFFqUjBNbVdqM0RJOUVaZw?oc=5",
+      "published": "2026-11-18T17:00:00+09:00",
+      "source": "머니투데이",
       "first_seen": "2026-11-19T13:00:23.140614+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
     {
-      "id": "1f2f93f99ab1d8a0a68e",
-      "title": "태광그룹 일주재단, 체육 장학금 신설…매년 유망주 16명 선발 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWDdFUHVvXzFYNHdocTQ0alpKWUVoZzYzYW1KMThpRjdySTlqUDRhQVNndlNLY2tXZk85ZWtkdmVVcHZKVllKVjc2WkNOdmJFdUpPN1lGMHZGVkhVTDhJZjliSXNGcVNhalpMcNIBckFVX3lxTE1sUXdQVU84TUE4SmI3M2xSRWxPRC1yUU9lLS1ZbWRVRTE1Vks3NGlqcl9nVlJsOEc4ZlFQMkpDQk4tbHc0S0J3ZGZiVjlueE9NcDFhZnRCem54UUVJVjdFM0YzNFFqUjBNbVdqM0RJOUVaZw?oc=5",
-      "published": "2026-11-18T14:51:11+09:00",
-      "source": "머니투데이",
+      "id": "ae008c6fdb5c5e8c02b5",
+      "title": "태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 키운다 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ2hyV2hVTU9tcjU0ZlU1S1hGRmtmcWJEVUNaOWN4eC1GYngweWQwem9ENTQtbWhWdkdzeC1RQkRSbXR6UjNxa2cyN1lTRjhUWnJlUi1ONklLLVI4V014WQ?oc=5",
+      "published": "2026-11-18T17:00:00+09:00",
+      "source": "아시아경제",
+      "first_seen": "2026-11-19T13:00:23.140614+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
+    },
+    {
+      "id": "6f14a141439c87d83555",
+      "title": "태광 일주재단, 체육인재 장학금 신설…4년간 최대 1600만원 지원 - 시사캐스트",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cnFwdGNvN2NRYjMyalFZZnhmazIwcEt6R0RkUTMyaWNWLXZWSThRLUZnMmxHVk9CaVlJRXNKNFFFRWFxY3liRkFKNk9BQ3RISkpLdzNRTXVRdjVEaERfNXZvdTV2NERC?oc=5",
+      "published": "2026-11-18T15:54:21+09:00",
+      "source": "시사캐스트",
       "first_seen": "2026-11-19T13:00:23.140614+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
@@ -348,16 +428,6 @@
       "published": "2026-11-18T14:31:19+09:00",
       "source": "뉴스1",
       "first_seen": "2026-11-20T12:54:10.883940+09:00",
-      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
-    },
-    {
-      "id": "ae008c6fdb5c5e8c02b5",
-      "title": "태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 키운다 - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ2hyV2hVTU9tcjU0ZlU1S1hGRmtmcWJEVUNaOWN4eC1GYngweWQwem9ENTQtbWhWdkdzeC1RQkRSbXR6UjNxa2cyN1lTRjhUWnJlUi1ONklLLVI4V014WQ?oc=5",
-      "published": "2026-11-18T14:20:42+09:00",
-      "source": "아시아경제",
-      "first_seen": "2026-11-19T13:00:23.140614+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d"
     },
@@ -1552,6 +1622,16 @@
       "query": "샘표 우리맛문화재단 채용 when:30d"
     },
     {
+      "id": "bdd85f5b4472ed054be4",
+      "title": "NH농협금융, 1000억원 출연해 미소금융재단 설립…연내 출범 추진 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5acVVOSkZ4UjVidzZmQ1JFNHdKSmhuelh1a0VMTS04NmcwOUs3Z1NDMzljMURJQ0NoVDJPcDJTaTB3eVNQamdkSHc2MHNDV0wtank0Q3hEZEVEMlho?oc=5",
+      "published": "2026-10-30T16:00:00+09:00",
+      "source": "뉴스핌",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+    },
+    {
       "id": "8fc4fe5107175c10c9c2",
       "title": "최종수 성균관장(추사박물관 명예관장), 협성문화재단 ‘사회공헌상’ 수상 - 이슈게이트",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SkNuNk1YbHhYMGszaVpfbGhjWUVTQXFfaE1BXzcyc2xSLTFjT29Zam81bUt1aDdySURvSmUxSlNORFNTX3dUQk1XUF8xMFRTdEVRbg?oc=5",
@@ -2339,7 +2419,7 @@
       "source": "연합뉴스",
       "first_seen": "2026-10-20T10:38:34.118464+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d"
+      "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "bf85cbf92bf10105f95c",
@@ -3779,7 +3859,7 @@
       "source": "연합뉴스",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
-      "query": "기업 문화재단 (설립 OR 출범) when:3y"
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
     {
       "id": "264051474872c6c35ea6",
@@ -4202,12 +4282,32 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     },
     {
+      "id": "f896b72efe90f68260d4",
+      "title": "명인다문화장학재단, 70명에게 2억원 장학금 전달 - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSU1rQTZXaXFrT05HZU9oT3gzbEtWVm9kNldyVzZBV1BXd1BXQzNjVlZNa1c2ckNkZ0NLTGhNWk5BQnQyaFVqUTNRYkNtWG1FNW9ZWExDTTVWZktITmd4ZWxsTGxxOFpQVUs4?oc=5",
+      "published": "2024-12-10T17:00:00+09:00",
+      "source": "히트뉴스",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
       "id": "02a249da00cc66324383",
       "title": "국내 첫 민간장학재단 설립 ‘인재보국’… “인재육성 뜻 계승, 나라의 미래 준비” - 동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42bTRBZzdaemhpSmIwQzRiSktuQ0Q2SGFPbGtRRUF4cndzd2tpQkdibEV5QkUtVTZ0ajBTMl94Ykh1aUEtaHYwWUlZVlNDTFJOczNEY3F1QmJ4RDlFc0JGUmdraTBIbDNUQjA5NGc0bUlsUUVDcGfSAWZBVV95cUxPb2plcTBQc1dWTG5rMEtKdFZOSTJpeUE2ckt0ZkdNcjd2aW5PRGdVY0VRenQtTTJ1UFVRb0UyLUo1OUlQcFduNGltZ0xTblM5Q1cyZVotMjRIMHBWQURocFI5bjhvSkE?oc=5",
       "published": "2024-12-06T17:00:00+09:00",
       "source": "동아일보",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "dcf915adf3e25e4cd854",
+      "title": "고연장학재단, 장학금·후원금 6000만 원 전달 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1V5OTBQbUpOUW1NZDNhaW9JN0hZbGotQ2JibDNEenBQS256Y1VaNnBJRzRRRFFlbHFGWG91QWRIeGQtOEZwWkg5UGI0VWJFcmFoZkhaeERXVldEUzNVclU3WHllVkYzckhocncxQzFuNl8zZGF2V3JOcDFabl9XZ1VmT1l2T2c2NEQ2RVFB?oc=5",
+      "published": "2024-12-02T17:00:00+09:00",
+      "source": "국제신문",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
@@ -4348,6 +4448,16 @@
       "published": "2024-06-28T16:00:00+09:00",
       "source": "주간조선",
       "first_seen": "2026-10-19T09:00:11.628656+09:00",
+      "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
+      "query": "기업 장학재단 (설립 OR 출범) when:3y"
+    },
+    {
+      "id": "e594a905c85473e09d5b",
+      "title": "[단독] ‘이재명 지지모임’ 인사, 장학재단 횡령 의혹 - 주간조선",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVEtjOHBOczFsUmx3V1VacHNmOUpUYmF2UnZUblNxNldNREx0a3h2Wl9zVElJU1doQlBqSW9NTEJGTUVNRFhRMEhkYzgwQ2lLTUhwbVVLM3BhV2dEZ21rN2t5VW53WWJ1TGc?oc=5",
+      "published": "2024-06-28T16:00:00+09:00",
+      "source": "주간조선",
+      "first_seen": "2026-11-28T13:36:29.884228+09:00",
       "status": "기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요",
       "query": "기업 장학재단 (설립 OR 출범) when:3y"
     },
@@ -4582,27 +4692,6 @@
       "query": "기업 문화재단 (설립 OR 출범) when:3y"
     }
   ],
-  "errors": [
-    {
-      "query": "기업 재단 (설립 OR 출범 OR 창립) (문화 OR 예술 OR 학술 OR 장학) when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94+OR+%EC%B0%BD%EB%A6%BD%29+%28%EB%AC%B8%ED%99%94+OR+%EC%98%88%EC%88%A0+OR+%ED%95%99%EC%88%A0+OR+%EC%9E%A5%ED%95%99%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "신설 재단 (채용 OR 사무국 OR 직원) when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%8B%A0%EC%84%A4+%EC%9E%AC%EB%8B%A8+%28%EC%B1%84%EC%9A%A9+OR+%EC%82%AC%EB%AC%B4%EA%B5%AD+OR+%EC%A7%81%EC%9B%90%29+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "기업 문화재단 (설립 OR 출범) when:3y",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "기업 장학재단 (설립 OR 출범) when:3y",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%97%85+%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8+%28%EC%84%A4%EB%A6%BD+OR+%EC%B6%9C%EB%B2%94%29+when%3A3y&hl=ko&gl=KR&ceid=KR%3Ako"
-    },
-    {
-      "query": "샘표 우리맛문화재단 채용 when:30d",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%83%98%ED%91%9C+%EC%9A%B0%EB%A6%AC%EB%A7%9B%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8+%EC%B1%84%EC%9A%A9+when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
-    }
-  ],
+  "errors": [],
   "note": "신설·초기 기업재단 발굴 후보입니다. 실제 채용 공고가 아니며 기업재단 여부도 별도 확인해야 합니다. 공식 채용 출처를 확인한 뒤 sources.json에 등록합니다."
 }

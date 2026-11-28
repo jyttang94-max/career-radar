@@ -1,9 +1,33 @@
 # 신설·초기 기업재단 발굴
 
-수집 시각: 2026-11-27T13:51:34.499465+09:00
+수집 시각: 2026-11-28T13:36:29.884228+09:00
 
 설립·출범·채용 기사 후보입니다. 실제 채용 여부와 기업재단 여부는 별도 확인이 필요합니다.
 
+- [(주)씨에스글로벌, 저스피스재단과 청년 예술인 육성 협력 - 디스커버리뉴스(DISCOVERYNEWS)](https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUctRjdiajQxaDlyMHRYLWlaNFRSZGNaVnNkOXVjb1pwdnBNSE1tSXh3NEtZRXc5MWNpQTZNR1kxa2ZvaDhkNGJzWDhGejJlUG1ObXVqZVhfX1NrX0p1eTJ2d0hLTnVYMUVqSzRDQjhJUQ?oc=5)
+  - 기사일: 2026-11-28
+  - 출처: 디스커버리뉴스(DISCOVERYNEWS)
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [‘K-FOOD 수출’에서 ‘청년 예술 인재 양성’으로… 씨에스글로벌, 저스피스재단 통해 청년예술인재 양성 프로그램 시작 - SNS 타임즈](https://news.google.com/rss/articles/CBMihgJBVV95cUxNeUJlc2x6YUhQc21NRWE1WDFIeGJvVm94a2J2MlRyc2hmTUdYREpnYUhkUFZISGh2NWtvaTJ4MWhCZ1duMWNRTmRmemxPLW14SklWZ0Z5Qm5hc0xsWjhHVnV1dTAyYjNzeGxfTGt1OTBBeXZZLVJfa2VvWm9qci1ZY2hCTjR6TzdhaEdqWGwxYV93WHhROFJVZHRHMWFtN3NtdEtPenFmd0F6YnFndlRGblZVX2l3c3VqZjZNaFdrcWpvaGV5Zy1fRGZRWVJmWUNxN0dtNnBCWmRoZ0NDSWhwdFhRMW00WUY0NS05T2xKS3RuLVU3bWtKaXNSc2tYM0RLbk5NMW9B?oc=5)
+  - 기사일: 2026-11-28
+  - 출처: SNS 타임즈
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [을지재단, 창립 70주년 기념 사사 ‘을지재단 70년’ 발간 - 충청뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE1EcG5pOUpOYU9EbHVtLWZPeTdxMGM1WllGR05XXy1YM25DeXRTYURqMTRkZ2s0T2RTTmxOdW55WXltRmZSQl9PVzVDdnNYYXNKbjJlZHpMMUpOSVNiZWpmR0dUM2xKZ1R6S0JuNA?oc=5)
+  - 기사일: 2026-11-27
+  - 출처: 충청뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [천안시복지재단, 디와이엠솔루션으로부터 취약계층 후원금 1000만원 받아 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVDh3T1FOQXhUeE9oSmRoWDFXaDZCWG5TZEpmTEMtOS1XY1NNTGNBVzM4bFZnNXo2NXQxN01HQnAwMEpLZkFreWJjRGJDQ29GbFVpc1dpV0wwbVRoNTZyT0VXMXg?oc=5)
+  - 기사일: 2026-11-26
+  - 출처: 매일일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [성동문화재단, 대한민국 국가사회산업공헌/베스트브랜드 대상 수상 - 하이뉴스](https://news.google.com/rss/articles/CBMid0FVX3lxTE84djlGQm81MmxrT1FwbHlzQnBXT2pFVGRjZWxKSGYtQktZR1B1bVBRSXVKcG4tc2NCZTZFM0lXUlFVUFlib04xYWpRZUJsejlOVVVkZ1NLRzhJZFlEZWY5YkpNSTFGWkNfOC1JNXE5bmlpUEphcHlF?oc=5)
+  - 기사일: 2026-11-26
+  - 출처: 하이뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [천안시복지재단, 디와이엠솔루션 취약계층 후원금 1000만 원 기탁 - 엠뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBcDFURFJiOEFCNTg5bURlVkJFRDV6NFBYNXluX0FhcC1ZUktZVnZpcktxWHdsMWlYX2huRmZMMWlURmVxV3R0dzg5M2RadDROYVlMem9Sb2VHUDRkbHpVMTgweTc1UQ?oc=5)
+  - 기사일: 2026-11-26
+  - 출처: 엠뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [윤단비 부천시의원 “등록금 해결됐다고 장학금 지원 끝나선 안 돼”…장학재단 운영 개선 촉구 - 경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKUmdyTVV1SjlJRWU5WlBUNGpxX0xyN1lER0NTNUkzN21ZNlpPa1ZTRDVuVVlBRFpzc0ZGWFRhQzVvQ2p3Y0dTZVIwbjJyRDltMS1MRzNJZnRqSG8?oc=5)
   - 기사일: 2026-11-26
   - 출처: 경기일보
@@ -57,6 +81,10 @@
   - 출처: 파이낸셜포스트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [울산 향토기업 출연 UNIST ‘경동장학재단’ 누적 장학금 20억원 돌파 - 매일경제](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KUWMyX0Y0RUxaam1VNWtBdE1ZS2tiV2hLdlBGdjFTZDdhLTFFSEFiQmo4dElXMlhpZF9PYzRWcHBQVWpRalE?oc=5)
+  - 기사일: 2026-11-23
+  - 출처: 매일경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [울산 향토기업 출연 UNIST ‘경동장학재단’ 누적 장학금 20억원 돌파 - 매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sN0hIOGtnQ2tOY24yeDQ4ZkExT2RyYWlfVm45RTRJT2RJTF9zV1JQUWR6d0x2Nm83YnhjTUVqUEZmX2VKQ1NYMDA4dUtyYjZUQ2JocA?oc=5)
   - 기사일: 2026-11-23
   - 출처: 매일경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -124,13 +152,17 @@
   - 기사일: 2026-11-18
   - 출처: 라이센스뉴스
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [태광 일주재단, 체육인재 장학금 신설…4년간 최대 1600만원 지원 - 시사캐스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cnFwdGNvN2NRYjMyalFZZnhmazIwcEt6R0RkUTMyaWNWLXZWSThRLUZnMmxHVk9CaVlJRXNKNFFFRWFxY3liRkFKNk9BQ3RISkpLdzNRTXVRdjVEaERfNXZvdTV2NERC?oc=5)
-  - 기사일: 2026-11-18
-  - 출처: 시사캐스트
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [태광그룹 일주재단, 체육 장학금 신설…매년 유망주 16명 선발 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWDdFUHVvXzFYNHdocTQ0alpKWUVoZzYzYW1KMThpRjdySTlqUDRhQVNndlNLY2tXZk85ZWtkdmVVcHZKVllKVjc2WkNOdmJFdUpPN1lGMHZGVkhVTDhJZjliSXNGcVNhalpMcNIBckFVX3lxTE1sUXdQVU84TUE4SmI3M2xSRWxPRC1yUU9lLS1ZbWRVRTE1Vks3NGlqcl9nVlJsOEc4ZlFQMkpDQk4tbHc0S0J3ZGZiVjlueE9NcDFhZnRCem54UUVJVjdFM0YzNFFqUjBNbVdqM0RJOUVaZw?oc=5)
   - 기사일: 2026-11-18
   - 출처: 머니투데이
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 키운다 - 아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ2hyV2hVTU9tcjU0ZlU1S1hGRmtmcWJEVUNaOWN4eC1GYngweWQwem9ENTQtbWhWdkdzeC1RQkRSbXR6UjNxa2cyN1lTRjhUWnJlUi1ONklLLVI4V014WQ?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 아시아경제
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [태광 일주재단, 체육인재 장학금 신설…4년간 최대 1600만원 지원 - 시사캐스트](https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cnFwdGNvN2NRYjMyalFZZnhmazIwcEt6R0RkUTMyaWNWLXZWSThRLUZnMmxHVk9CaVlJRXNKNFFFRWFxY3liRkFKNk9BQ3RISkpLdzNRTXVRdjVEaERfNXZvdTV2NERC?oc=5)
+  - 기사일: 2026-11-18
+  - 출처: 시사캐스트
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [태광그룹 일주재단, 체육 장학금 신설…매년 8개 종목 16명 지급 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYzI1ejhyM2xMd0R5d0tPTUtwYjZKWlVjMk5sNnBtQ3NESWwtdFd1cy11dHMyYnlpVWQtaHU5cEJRdWl6b0RkZTdmMF9tb0NKUjV4b2NaVXZ3ZVY5d2U4MdIBYEFVX3lxTE5YYzI1ejhyM2xMd0R5d0tPTUtwYjZKWlVjMk5sNnBtQ3NESWwtdFd1cy11dHMyYnlpVWQtaHU5cEJRdWl6b0RkZTdmMF9tb0NKUjV4b2NaVXZ3ZVY5d2U4MQ?oc=5)
   - 기사일: 2026-11-18
@@ -143,10 +175,6 @@
 - [태광 일주재단, '체육인재 장학금' 신설…8개 종목·16명 선발 - 뉴스1](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrVXR0dnZLWVlMRnVDTWlRbmlUV3VreW1rTkFMX0xIYTVTZ1Nkb01GQThFbUpTLUx1ekJTWFhodVk4WWZSS2ttOUdMdHQzNEZ2ZnJkak8zeUU2OEF3b1FhRzQ5aXM?oc=5)
   - 기사일: 2026-11-18
   - 출처: 뉴스1
-  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-- [태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 키운다 - 아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ2hyV2hVTU9tcjU0ZlU1S1hGRmtmcWJEVUNaOWN4eC1GYngweWQwem9ENTQtbWhWdkdzeC1RQkRSbXR6UjNxa2cyN1lTRjhUWnJlUi1ONklLLVI4V014WQ?oc=5)
-  - 기사일: 2026-11-18
-  - 출처: 아시아경제
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [태광그룹 일주재단, 체육 장학금 신설…올림픽 꿈나무 육성 - 아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RVB0bW5CWnBjaXRwQ0hMVWRtbVZuNU0tTHZ6MDhBajBzaS1idTZIeDRvNTk4cGoydmxsZ1ZWWEJXREhUdU5iT0hSMzBSMFphblNMZEl4Mjc1Z9IBWEFVX3lxTE1UR2FWcTQ3MG1WODhLbzJYZF85N2tvWWpnbEM4TS1qcTJfZHBYaDRSUWh5WTJIS0dSZDcxdk14d2VDVllkLXRVbFNLWWt4SDlzWmRZUG00aFQ?oc=5)
   - 기사일: 2026-11-18
@@ -623,6 +651,10 @@
 - [샘표 우리맛문화재단, 이주배경학생 대상 '즐요일' 쿠킹클래스 진행 - 잡포스트](https://news.google.com/rss/articles/CBMibkFVX3lxTFBXbzh6X1VCMGFpUHpWZk1QV3ZvbVZYYXFZU1RDYl9ad3Zhd2Q1UmtOa0d2RE8zNlpQZ19TUFlLeXAxSmhJXzBqZ1NZUlhfRTBzVmxpVTlvNU4xRGVmWmVjamVqcTFFWWp3WlhsZnpn0gFyQVVfeXFMTTdZMkhFUXdFMDFXR25MQS1QLWh2cWNJZ3Y1NVA4eEFEbUtxMHV6Y3dVd3R4b0lkU2JoSVRQV1hwc1N4VGFVQ2xhemZNWHJoYnhENVdBVFV4bG1xRHlLQkZDLUtFeDNMdDRwekFkSXhmOEFR?oc=5)
   - 기사일: 2026-10-30
   - 출처: 잡포스트
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [NH농협금융, 1000억원 출연해 미소금융재단 설립…연내 출범 추진 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5acVVOSkZ4UjVidzZmQ1JFNHdKSmhuelh1a0VMTS04NmcwOUs3Z1NDMzljMURJQ0NoVDJPcDJTaTB3eVNQamdkSHc2MHNDV0wtank0Q3hEZEVEMlho?oc=5)
+  - 기사일: 2026-10-30
+  - 출처: 뉴스핌
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [최종수 성균관장(추사박물관 명예관장), 협성문화재단 ‘사회공헌상’ 수상 - 이슈게이트](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SkNuNk1YbHhYMGszaVpfbGhjWUVTQXFfaE1BXzcyc2xSLTFjT29Zam81bUt1aDdySURvSmUxSlNORFNTX3dUQk1XUF8xMFRTdEVRbg?oc=5)
   - 기사일: 2026-10-30
@@ -1684,9 +1716,17 @@
   - 기사일: 2024-12-23
   - 출처: 스포츠경향
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [명인다문화장학재단, 70명에게 2억원 장학금 전달 - 히트뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSU1rQTZXaXFrT05HZU9oT3gzbEtWVm9kNldyVzZBV1BXd1BXQzNjVlZNa1c2ckNkZ0NLTGhNWk5BQnQyaFVqUTNRYkNtWG1FNW9ZWExDTTVWZktITmd4ZWxsTGxxOFpQVUs4?oc=5)
+  - 기사일: 2024-12-10
+  - 출처: 히트뉴스
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [국내 첫 민간장학재단 설립 ‘인재보국’… “인재육성 뜻 계승, 나라의 미래 준비” - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTE42bTRBZzdaemhpSmIwQzRiSktuQ0Q2SGFPbGtRRUF4cndzd2tpQkdibEV5QkUtVTZ0ajBTMl94Ykh1aUEtaHYwWUlZVlNDTFJOczNEY3F1QmJ4RDlFc0JGUmdraTBIbDNUQjA5NGc0bUlsUUVDcGfSAWZBVV95cUxPb2plcTBQc1dWTG5rMEtKdFZOSTJpeUE2ckt0ZkdNcjd2aW5PRGdVY0VRenQtTTJ1UFVRb0UyLUo1OUlQcFduNGltZ0xTblM5Q1cyZVotMjRIMHBWQURocFI5bjhvSkE?oc=5)
   - 기사일: 2024-12-06
   - 출처: 동아일보
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [고연장학재단, 장학금·후원금 6000만 원 전달 - 국제신문](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1V5OTBQbUpOUW1NZDNhaW9JN0hZbGotQ2JibDNEenBQS256Y1VaNnBJRzRRRFFlbHFGWG91QWRIeGQtOEZwWkg5UGI0VWJFcmFoZkhaeERXVldEUzNVclU3WHllVkYzckhocncxQzFuNl8zZGF2V3JOcDFabl9XZ1VmT1l2T2c2NEQ2RVFB?oc=5)
+  - 기사일: 2024-12-02
+  - 출처: 국제신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [태전약품 희산장학재단, 2024년 첫 장학증서 수여식 개최 - 약업신문](https://news.google.com/rss/articles/CBMid0FVX3lxTE9KLWhvdDRyZzlDWkl6QzVVT3hqek1YUjJJTXh3cU5lRGE2MVdpdm9jSE1KRmotTEdIM25NZTBpbWRBcG1QS3BZZG1aVDR1RGw3aG1sV3BKNWlYV2ZsQUVFQWNXSV9hRmxmV3hCaEZSNjhleHY0ZExN?oc=5)
   - 기사일: 2024-11-21
@@ -1741,6 +1781,10 @@
   - 출처: 뉴스드림
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
 - [(단독) ‘이재명 지지모임’ 인사, 장학재단 횡령 의혹 - 주간조선](https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVEtjOHBOczFsUmx3V1VacHNmOUpUYmF2UnZUblNxNldNREx0a3h2Wl9zVElJU1doQlBqSW9NTEJGTUVNRFhRMEhkYzgwQ2lLTUhwbVVLM3BhV2dEZ21rN2t5VW53WWJ1TGfSAW5BVV95cUxOZERxLU51bGxSTkVCZzJmZ3Q3S0ZoYmtwc3JsS2pwZXg2U0pWVXIzSGhUM2djTGpoT0NBNDR6TFpTQXFRSHNjdzJXczZJMTYzbUstMlduMG11a1MyaGdjNkVlYjF4WUlWSWRaRVMwdw?oc=5)
+  - 기사일: 2024-06-28
+  - 출처: 주간조선
+  - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
+- [(단독) ‘이재명 지지모임’ 인사, 장학재단 횡령 의혹 - 주간조선](https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVEtjOHBOczFsUmx3V1VacHNmOUpUYmF2UnZUblNxNldNREx0a3h2Wl9zVElJU1doQlBqSW9NTEJGTUVNRFhRMEhkYzgwQ2lLTUhwbVVLM3BhV2dEZ21rN2t5VW53WWJ1TGc?oc=5)
   - 기사일: 2024-06-28
   - 출처: 주간조선
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
@@ -1836,6 +1880,3 @@
   - 기사일: 2023-11-10
   - 출처: 시장경제신문
   - 상태: 기업재단 여부·설립일·공식 홈페이지·채용 여부 확인 필요
-
-검색 요청 오류: 5건
-foundation_leads.json의 errors를 확인하세요.
